@@ -1,0 +1,437 @@
+<scene n="2">BEFORE THE CITY-GATE <move>(Pedestrians of all kinds come forth.)</move>
+    <sp><speaker>SEVERAL APPRENTICES</speaker>
+        <l theme="earthly">Why do you go that way?</l></sp>
+    <sp><speaker>OTHERS</speaker>
+        <l theme="earthly">We're for the Hunters' lodge, to-day.</l></sp>
+    <sp><speaker>THE FIRST</speaker>
+        <l theme="earthly">We'll saunter to the Mill, in yonder hollow.</l></sp>
+    <sp><speaker>AN APPRENTICE</speaker>
+        <l theme="earthly">Go to the River Tavern, I should say.</l></sp>
+    <sp><speaker>SECOND APPRENTICE</speaker>
+        <l theme="earthly">But then, it's not a pleasant way.</l></sp>
+    <sp><speaker>THE OTHERS</speaker>
+        <l theme="earthly">And what will you?</l></sp>
+    <sp><speaker>A THIRD</speaker>
+        <l theme="earthly">As goes the crowd, I follow.</l></sp>
+    <sp><speaker>A FOURTH</speaker>
+        <l theme="earthly">Come up to Burgdorf? There you'll find good cheer,</l>
+        <l theme="earthly">The finest lasses and the best of beer,</l>
+        <l theme="earthly">And jolly rows and squabbles, trust me!</l></sp>
+    <sp><speaker>A FIFTH</speaker>
+        <l theme="earthly">You swaggering fellow, is your hide</l>
+        <l theme="earthly">A third time itching to be tried?</l>
+        <l theme="earthly">I won't go there, your jolly rows disgust me!</l></sp>
+    <sp><speaker>SERVANT-GIRL</speaker>
+        <l theme="earthly">No,—no! I'll turn and go to town again.</l></sp>
+    <sp><speaker>ANOTHER</speaker>
+        <l theme="earthly">We'll surely find him by those poplars yonder.</l></sp>
+    <sp><speaker>THE FIRST</speaker>
+        <l theme="earthly">That's no great luck for me, 'tis plain.</l>
+        <l theme="earthly">You'll have him, when and where you wander:</l>
+        <l theme="earthly">His partner in the dance you'll be,—</l>
+        <l theme="earthly">But what is all your fun to me?</l></sp>
+    <sp><speaker>THE OTHER</speaker>
+        <l theme="earthly">He's surely not alone to-day:</l>
+        <l theme="earthly">He'll be with Curly-head, I heard him say.</l></sp>
+    <sp><speaker>A STUDENT</speaker>
+        <l theme="earthly">Deuce! how they step, the buxom wenches!</l>
+        <l theme="earthly">Come, Brother! we must see them to the benches.</l>
+        <l theme="earthly">A strong, old beer, a pipe that stings and bites,</l>
+        <l theme="earthly">A girl in Sunday clothes,—these three are my delights.</l></sp>
+    <sp><speaker>CITIZEN'S DAUGHTER</speaker>
+        <l theme="earthly">Just see those handsome fellows, there!</l>
+        <l theme="earthly">It's really shameful, I declare;—</l>
+        <l theme="earthly">To follow servant-girls, when they</l>
+        <l theme="earthly">Might have the most genteel society to-day!</l></sp>
+    <sp><speaker>SECOND STUDENT</speaker>
+        <stage>(to the First)</stage>
+        <l theme="earthly">Not quite so fast! Two others come behind,—</l>
+        <l theme="earthly">Those, dressed so prettily and neatly.</l>
+        <l theme="earthly">My neighbor's one of them, I find,</l>
+        <l theme="earthly">A girl that takes my heart, completely.</l>
+        <l theme="earthly">They go their way with looks demure,</l>
+        <l theme="earthly">But they'll accept us, after all, I'm sure.</l></sp>
+    <sp><speaker>THE FIRST</speaker>
+        <l theme="earthly">No, Brother! not for me their formal ways.</l>
+        <l theme="earthly">Quick! lest our game escape us in the press:</l>
+        <l theme="earthly">The hand that wields the broom on Saturdays</l>
+        <l theme="earthly">Will best, on Sundays, fondle and caress.</l></sp>
+    <sp><speaker>CITIZEN</speaker>
+        <l theme="earthly">He suits me not at all, our new-made Burgomaster!</l>
+        <l theme="earthly">Since he's installed, his arrogance grows faster.</l>
+        <l theme="earthly">How has he helped the town, I say?</l>
+        <l theme="earthly">Things worsen,—what improvement names he?</l>
+        <l theme="earthly">Obedience, more than ever, claims he,</l>
+        <l theme="earthly">And more than ever we must pay!</l></sp>
+    <sp><speaker>BEGGAR</speaker>
+        <stage>(sings)</stage>
+        <l theme="earthly">Good gentlemen and lovely ladies,</l>
+        <l theme="earthly">So red of cheek and fine of dress,</l>
+        <l theme="earthly">Behold, how needful here your aid is,</l>
+        <l theme="earthly">And see and lighten my distress!</l>
+        <l theme="earthly">Let me not vainly sing my ditty;</l>
+        <l theme="earthly">He's only glad who gives away:</l>
+        <l theme="earthly">A holiday, that shows your pity,</l>
+        <l theme="earthly">Shall be for me a harvest-day!</l></sp>
+    <sp><speaker>ANOTHER CITIZEN</speaker>
+        <l theme="earthly">On Sundays, holidays, there's naught I take delight in,</l>
+        <l theme="earthly">Like gossiping of war, and war's array,</l>
+        <l theme="earthly">When down in Turkey, far away,</l>
+        <l theme="earthly">The foreign people are a-fighting.</l>
+        <l theme="earthly">One at the window sits, with glass and friends,</l>
+        <l theme="earthly">And sees all sorts of ships go down the river gliding:</l>
+        <l theme="earthly">And blesses then, as home he wends</l>
+        <l theme="earthly">At night, our times of peace abiding.</l></sp>
+    <sp><speaker>THIRD CITIZEN</speaker>
+        <l theme="earthly">Yes, Neighbor! that's my notion, too:</l>
+        <l theme="earthly">Why, let them break their heads, let loose their passions,</l>
+        <l theme="earthly">And mix things madly through and through,</l>
+        <l theme="earthly">So, here, we keep our good old fashions!</l></sp>
+    <sp><speaker>OLD WOMAN</speaker>
+        <stage>(to the Citizen's Daughter)</stage>
+        <l theme="earthly">Dear me, how fine! So handsome, and so young!</l>
+        <l theme="earthly">Who wouldn't lose his heart, that met you?</l>
+        <l theme="earthly">Don't be so proud! I'll hold my tongue,</l>
+        <l theme="earthly">And what you'd like I'll undertake to get you.</l></sp>
+    <sp><speaker>CITIZEN'S DAUGHTER</speaker>
+        <l theme="earthly">Come, Agatha! I shun the witch's sight</l>
+        <l theme="earthly">Before folks, lest there be misgiving:</l>
+        <l theme="earthly">'Tis true, she showed me, on Saint Andrew's Night,</l>
+        <l theme="earthly">My future sweetheart, just as he were living.</l></sp>
+    <sp><speaker>THE OTHER</speaker>
+        <l theme="earthly">She showed me mine, in crystal clear,</l>
+        <l theme="earthly">With several wild young blades, a soldier-lover:</l>
+        <l theme="earthly">I seek him everywhere, I pry and peer,</l>
+        <l theme="earthly">And yet, somehow, his face I can't discover.</l></sp>
+    <sp><speaker>SOLDIERS</speaker>
+        <l theme="earthly">Castles, with lofty</l>
+        <l theme="earthly">Ramparts and towers,</l>
+        <l theme="earthly">Maidens disdainful</l>
+        <l theme="earthly">In Beauty's array,</l>
+        <l theme="earthly">Both shall be ours!</l>
+        <l theme="earthly">Bold is the venture,</l>
+        <l theme="earthly">Splendid the pay!</l>
+        <l theme="earthly">Lads, let the trumpets</l>
+        <l theme="earthly">For us be suing,—</l>
+        <l theme="earthly">Calling to pleasure,</l>
+        <l theme="earthly">Calling to ruin.</l>
+        <l theme="earthly">Stormy our life is;</l>
+        <l theme="earthly">Such is its boon!</l>
+        <l theme="earthly">Maidens and castles</l>
+        <l theme="earthly">Capitulate soon.</l>
+        <l theme="earthly">Bold is the venture,</l>
+        <l theme="earthly">Splendid the pay!</l>
+        <l theme="earthly">And the soldiers go marching,</l>
+        <l theme="earthly">Marching away!</l></sp>
+    <speaker>FAUST AND WAGNER</speaker>
+    <sp><speaker>FAUST</speaker>
+        <l theme="earthly">Released from ice are brook and river</l>
+        <l theme="earthly">By the quickening glance of the gracious Spring;</l>
+        <l theme="earthly">The colors of hope to the valley cling,</l>
+        <l theme="earthly">And weak old Winter himself must shiver,</l>
+        <l theme="earthly">Withdrawn to the mountains, a crownless king:</l>
+        <l theme="earthly">Whence, ever retreating, he sends again</l>
+        <l theme="earthly">Impotent showers of sleet that darkle</l>
+        <l theme="earthly">In belts across the green o' the plain.</l>
+        <l theme="earthly">But the sun will permit no white to sparkle;</l>
+        <l theme="earthly">Everywhere form in development moveth;</l>
+        <l theme="earthly">He will brighten the world with the tints he loveth,</l>
+        <l theme="earthly">And, lacking blossoms, blue, yellow, and red,</l>
+        <l theme="earthly">He takes these gaudy people instead.</l>
+        <l theme="earthly">Turn thee about, and from this height</l>
+        <l theme="earthly">Back on the town direct thy sight.</l>
+        <l theme="earthly">Out of the hollow, gloomy gate,</l>
+        <l theme="earthly">The motley throngs come forth elate:</l>
+        <l theme="earthly">Each will the joy of the sunshine hoard,</l>
+        <l theme="earthly">To honor the Day of the Risen Lord!</l>
+        <l theme="earthly">They feel, themselves, their resurrection:</l>
+        <l theme="earthly">From the low, dark rooms, scarce habitable;</l>
+        <l theme="earthly">From the bonds of Work, from Trade's restriction;</l>
+        <l theme="earthly">From the pressing weight of roof and gable;</l>
+        <l theme="earthly">From the narrow, crushing streets and alleys;</l>
+        <l theme="earthly">From the churches' solemn and reverend night,</l>
+        <l theme="earthly">All come forth to the cheerful light.</l>
+        <l theme="earthly">How lively, see! the multitude sallies,</l>
+        <l theme="earthly">Scattering through gardens and fields remote,</l>
+        <l theme="earthly">While over the river, that broadly dallies,</l>
+        <l theme="earthly">Dances so many a festive boat;</l>
+        <l theme="earthly">And overladen, nigh to sinking,</l>
+        <l theme="earthly">The last full wherry takes the stream.</l>
+        <l theme="earthly">Yonder afar, from the hill-paths blinking,</l>
+        <l theme="earthly">Their clothes are colors that softly gleam.</l>
+        <l theme="earthly">I hear the noise of the village, even;</l>
+        <l theme="earthly">Here is the People's proper Heaven;</l>
+        <l theme="earthly">Here high and low contented see!</l>
+        <l theme="earthly">Here I am Man,—dare man to be!</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>To stroll with you, Sir Doctor, flatters;</l>
+        <l>'Tis honor, profit, unto me.</l>
+        <l theme="unearthly">But I, alone, would shun these shallow matters,</l>
+        <l theme="unearthly">Since all that's coarse provokes my enmity.</l>
+        <l theme="unearthly">This fiddling, shouting, ten-pin rolling</l>
+        <l theme="unearthly">I hate,—these noises of the throng:</l>
+        <l theme="unearthly">They rave, as Satan were their sports controlling.</l>
+        <l theme="unearthly">And call it mirth, and call it song!</l></sp>
+    <sp><speaker>PEASANTS, UNDER THE LINDEN-TREE</speaker>
+        <stage>(Dance and Song.)</stage>
+        <l theme="earthly">All for the dance the shepherd dressed,</l>
+        <l theme="earthly">In ribbons, wreath, and gayest vest</l>
+        <l theme="earthly">Himself with care arraying:</l>
+        <l theme="earthly">Around the linden lass and lad</l>
+        <l theme="earthly">Already footed it like mad:</l>
+        <l theme="earthly">Hurrah! hurrah!</l>
+        <l theme="earthly">Hurrah—tarara-la!</l>
+        <l theme="earthly">The fiddle-bow was playing.</l>
+        <l theme="earthly">He broke the ranks, no whit afraid,</l>
+        <l theme="earthly">And with his elbow punched a maid,</l>
+        <l theme="earthly">Who stood, the dance surveying:</l>
+        <l theme="earthly">The buxom wench, she turned and said:</l>
+        <l theme="earthly">"Now, you I call a stupid-head!"</l>
+        <l theme="earthly">Hurrah! hurrah!</l>
+        <l theme="earthly">Hurrah—tarara-la!</l>
+        <l theme="earthly">"Be decent while you're staying!"</l>
+        <l theme="earthly">Then round the circle went their flight,</l>
+        <l theme="earthly">They danced to left, they danced to right:</l>
+        <l theme="earthly">Their kirtles all were playing.</l>
+        <l theme="earthly">They first grew red, and then grew warm,</l>
+        <l theme="earthly">And rested, panting, arm in arm,—</l>
+        <l theme="earthly">Hurrah! hurrah!</l>
+        <l theme="earthly">Hurrah—tarara-la!</l>
+        <l theme="earthly">And hips and elbows straying.</l>
+        <l theme="earthly">Now, don't be so familiar here!</l>
+        <l theme="earthly">How many a one has fooled his dear,</l>
+        <l theme="earthly">Waylaying and betraying!</l>
+        <l theme="earthly">And yet, he coaxed her soon aside,</l>
+        <l theme="earthly">And round the linden sounded wide.</l>
+        <l theme="earthly">Hurrah! hurrah!</l>
+        <l theme="earthly">Hurrah—tarara-la!</l>
+        <l theme="earthly">And the fiddle-bow was playing.</l></sp>
+    <sp><speaker>OLD PEASANT</speaker>
+        <l theme="earthly">Sir Doctor, it is good of you,</l>
+        <l theme="earthly">That thus you condescend, to-day,</l>
+        <l theme="earthly">Among this crowd of merry folk,</l>
+        <l theme="earthly">A highly-learned man, to stray.</l>
+        <l theme="earthly">Then also take the finest can,</l>
+        <l theme="earthly">We fill with fresh wine, for your sake:</l>
+        <l theme="earthly">I offer it, and humbly wish</l>
+        <l theme="earthly">That not alone your thirst is slake,—</l>
+        <l theme="earthly">That, as the drops below its brink,</l>
+        <l theme="earthly">So many days of life you drink!</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l theme="earthly">I take the cup you kindly reach,</l>
+        <l theme="earthly">With thanks and health to all and each.</l></sp>
+    <stage>(The People gather in a circle about him.)</stage>
+    <sp><speaker>OLD PEASANT</speaker>
+        <l theme="earthly">In truth, 'tis well and fitly timed,</l>
+        <l theme="earthly">That now our day of joy you share,</l>
+        <l>Who heretofore, in evil days,</l>
+        <l>Gave us so much of helping care.</l>
+        <l>Still many a man stands living here,</l>
+        <l>Saved by your father's skillful hand,</l>
+        <l>That snatched him from the fever's rage</l>
+        <l>And stayed the plague in all the land.</l>
+        <l>Then also you, though but a youth,</l>
+        <l>Went into every house of pain:</l>
+        <l>Many the corpses carried forth,</l>
+        <l>But you in health came out again.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l theme="earthly">No test or trial you evaded:</l>
+        <l theme="earthly">A Helping God the helper aided.</l></sp>
+    <sp><speaker>ALL</speaker>
+        <l>Health to the man, so skilled and tried.</l>
+        <l>That for our help he long may abide!</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>To Him above bow down, my friends,</l>
+        <l>Who teaches help, and succor sends!</l>
+        <stage>(He goes on with WAGNER.)</stage></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>With what a feeling, thou great man, must thou</l>
+        <l>Receive the people's honest veneration!</l>
+        <l>How lucky he, whose gifts his station</l>
+        <l>With such advantages endow!</l>
+        <l>Thou'rt shown to all the younger generation:</l>
+        <l>Each asks, and presses near to gaze;</l>
+        <l>The fiddle stops, the dance delays.</l>
+        <l>Thou goest, they stand in rows to see,</l>
+        <l>And all the caps are lifted high;</l>
+        <l>A little more, and they would bend the knee</l>
+        <l>As if the Holy Host came by.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>A few more steps ascend, as far as yonder stone!—</l>
+        <l>Here from our wandering will we rest contented.</l>
+        <l>Here, lost in thought, I've lingered oft alone,</l>
+        <l>When foolish fasts and prayers my life tormented.</l>
+        <l>Here, rich in hope and firm in faith,</l>
+        <l>With tears, wrung hands and sighs, I've striven,</l>
+        <l>The end of that far-spreading death</l>
+        <l>Entreating from the Lord of Heaven!</l>
+        <l>Now like contempt the crowd's applauses seem:</l>
+        <l>Couldst thou but read, within mine inmost spirit,</l>
+        <l>How little now I deem,</l>
+        <l>That sire or son such praises merit!</l>
+        <l theme="materiality">My father's was a sombre, brooding brain,</l>
+        <l>Which through the holy spheres of Nature groped and wandered,</l>
+        <l>And honestly, in his own fashion, pondered</l>
+        <l>With labor whimsical, and pain:</l>
+        <l>Who, in his dusky work-shop bending,</l>
+        <l>With proved adepts in company,</l>
+        <l>Made, from his recipes unending,</l>
+        <l>Opposing substances agree.</l>
+        <l>There was a Lion red, a wooer daring,</l>
+        <l>Within the Lily's tepid bath espoused,</l>
+        <l>And both, tormented then by flame unsparing,</l>
+        <l>By turns in either bridal chamber housed.</l>
+        <l>If then appeared, with colors splendid,</l>
+        <l>The young Queen in her crystal shell,</l>
+        <l>This was the medicine—the patients' woes soon ended,</l>
+        <l>And none demanded: who got well?</l>
+        <l>Thus we, our hellish boluses compounding,</l>
+        <l>Among these vales and hills surrounding,</l>
+        <l>Worse than the pestilence, have passed.</l>
+        <l>Thousands were done to death from poison of my giving;</l>
+        <l>And I must hear, by all the living,</l>
+        <l>The shameless murderers praised at last!</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>Why, therefore, yield to such depression?</l>
+        <l>A good man does his honest share</l>
+        <l>In exercising, with the strictest care,</l>
+        <l>The art bequeathed to his possession!</l>
+        <l>Dost thou thy father honor, as a youth?</l>
+        <l>Then may his teaching cheerfully impel thee:</l>
+        <l>Dost thou, as man, increase the stores of truth?</l>
+        <l>Then may thine own son afterwards excel thee.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>O happy he, who still renews</l>
+        <l>The hope, from Error's deeps to rise forever!</l>
+        <l>That which one does not know, one needs to use;</l>
+        <l>And what one knows, one uses never.</l>
+        <l>But let us not, by such despondence, so</l>
+        <l>The fortune of this hour embitter!</l>
+        <l theme="earthly">Mark how, beneath the evening sunlight's glow,</l>
+        <l theme="earthly">The green-embosomed houses glitter!</l>
+        <l theme="earthly">The glow retreats, done is the day of toil;</l>
+        <l theme="earthly">It yonder hastes, new fields of life exploring;</l>
+        <l theme="earthly">Ah, that no wing can lift me from the soil,</l>
+        <l theme="earthly">Upon its track to follow, follow soaring!</l>
+        <l theme="earthly">Then would I see eternal Evening gild</l>
+        <l theme="earthly">The silent world beneath me glowing,</l>
+        <l theme="earthly">On fire each mountain-peak, with peace each valley filled,</l>
+        <l theme="earthly">The silver brook to golden rivers flowing.</l>
+        <l theme="earthly">The mountain-chain, with all its gorges deep,</l>
+        <l theme="earthly">Would then no more impede my godlike motion;</l>
+        <l theme="earthly">And now before mine eyes expands the ocean</l>
+        <l theme="earthly">With all its bays, in shining sleep!</l>
+        <l theme="earthly">Yet, finally, the weary god is sinking;</l>
+        <l theme="earthly">The new-born impulse fires my mind,—</l>
+        <l theme="earthly">I hasten on, his beams eternal drinking,</l>
+        <l theme="earthly">The Day before me and the Night behind,</l>
+        <l theme="earthly">Above me heaven unfurled, the floor of waves beneath me,—</l>
+        <l theme="earthly">A glorious dream! though now the glories fade.</l>
+        <l theme="earthly">Alas! the wings that lift the mind no aid</l>
+        <l theme="earthly">Of wings to lift the body can bequeath me.</l>
+        <l theme="earthly">Yet in each soul is born the pleasure</l>
+        <l theme="earthly">Of yearning onward, upward and away,</l>
+        <l theme="earthly">When o'er our heads, lost in the vaulted azure,</l>
+        <l theme="earthly">The lark sends down his flickering lay,—</l>
+        <l theme="earthly">When over crags and piny highlands</l>
+        <l theme="earthly">The poising eagle slowly soars,</l>
+        <l theme="earthly">And over plains and lakes and islands</l>
+        <l theme="earthly">The crane sails by to other shores.</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>I've had, myself, at times, some odd caprices,</l>
+        <l>But never yet such impulse felt, as this is.</l>
+        <l>One soon fatigues, on woods and fields to look,</l>
+        <l>Nor would I beg the bird his wing to spare us:</l>
+        <l>How otherwise the mental raptures bear us</l>
+        <l>From page to page, from book to book!</l>
+        <l>Then winter nights take loveliness untold,</l>
+        <l>As warmer life in every limb had crowned you;</l>
+        <l>And when your hands unroll some parchment rare and old,</l>
+        <l>All Heaven descends, and opens bright around you!</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>One impulse art thou conscious of, at best;</l>
+        <l>O, never seek to know the other!</l>
+        <l>Two souls, alas! reside within my breast,</l>
+        <l>And each withdraws from, and repels, its brother.</l>
+        <l theme="earthly">One with tenacious organs holds in love</l>
+        <l theme="earthly">And clinging lust the world in its embraces;</l>
+        <l theme="divine">The other strongly sweeps, this dust above,</l>
+        <l theme="divine">Into the high ancestral spaces.</l>
+        <l theme="divine">If there be airy spirits near,</l>
+        <l>'Twixt Heaven and Earth on potent errands fleeing,</l>
+        <l>Let them drop down the golden atmosphere,</l>
+        <l>And bear me forth to new and varied being!</l>
+        <l>Yea, if a magic mantle once were mine,</l>
+        <l>To waft me o'er the world at pleasure,</l>
+        <l>I would not for the costliest stores of treasure—</l>
+        <l>Not for a monarch's robe—the gift resign.</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>Invoke not thus the well-known throng,</l>
+        <l>Which through the firmament diffused is faring,</l>
+        <l>And danger thousand-fold, our race to wrong.</l>
+        <l>In every quarter is preparing.</l>
+        <l>Swift from the North the spirit-fangs so sharp</l>
+        <l>Sweep down, and with their barbéd points assail you;</l>
+        <l>Then from the East they come, to dry and warp</l>
+        <l>Your lungs, till breath and being fail you:</l>
+        <l>If from the Desert sendeth them the South,</l>
+        <l>With fire on fire your throbbing forehead crowning,</l>
+        <l>The West leads on a host, to cure the drouth</l>
+        <l>Only when meadow, field, and you are drowning.</l>
+        <l>They gladly hearken, prompt for injury,—</l>
+        <l>Gladly obey, because they gladly cheat us;</l>
+        <l>From Heaven they represent themselves to be,</l>
+        <l>And lisp like angels, when with lies they meet us.</l>
+        <l>But, let us go! 'Tis gray and dusky all:</l>
+        <l>The air is cold, the vapors fall.</l>
+        <l>At night, one learns his house to prize:—</l>
+        <l>Why stand you thus, with such astonished eyes?</l>
+        <l>What, in the twilight, can your mind so trouble?</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>Seest thou the black dog coursing there, through corn and</l>
+        <l>stubble?</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>Long since: yet deemed him not important in the least.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>Inspect him close: for what tak'st thou the beast?</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>Why, for a poodle who has lost his master,</l>
+        <l>And scents about, his track to find.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>Seest thou the spiral circles, narrowing faster,</l>
+        <l>Which he, approaching, round us seems to wind?</l>
+        <l>A streaming trail of fire, if I see rightly,</l>
+        <l>Follows his path of mystery.</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>It may be that your eyes deceive you slightly;</l>
+        <l>Naught but a plain black poodle do I see.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>It seems to me that with enchanted cunning</l>
+        <l>He snares our feet, some future chain to bind.</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>I see him timidly, in doubt, around us running,</l>
+        <l>Since, in his master's stead, two strangers doth he find.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>The circle narrows: he is near!</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>A dog thou seest, and not a phantom, here!</l>
+        <l>Behold him stop—upon his belly crawl—His</l>
+        <l>tail set wagging: canine habits, all!</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>Come, follow us! Come here, at least!</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>'Tis the absurdest, drollest beast.</l>
+        <l>Stand still, and you will see him wait;</l>
+        <l>Address him, and he gambols straight;</l>
+        <l>If something's lost, he'll quickly bring it,—</l>
+        <l>Your cane, if in the stream you fling it.</l></sp>
+    <sp><speaker>FAUST</speaker>
+        <l>No doubt you're right: no trace of mind, I own,</l>
+        <l>Is in the beast: I see but drill, alone.</l></sp>
+    <sp><speaker>WAGNER</speaker>
+        <l>The dog, when he's well educated,</l>
+        <l>Is by the wisest tolerated.</l>
+        <l>Yes, he deserves your favor thoroughly,—</l>
+        <l>The clever scholar of the students, he!</l>
+        <stage>(They pass in the city-gate.)</stage></sp>
+</scene>
