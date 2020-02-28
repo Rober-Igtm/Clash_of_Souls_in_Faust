@@ -1,5 +1,5 @@
 <?xml-model href="faust_scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="2">BEFORE THE CITY-GATE <stage>(Pedestrians of all kinds come forth.)</stage>
+<scene n="II">BEFORE THE CITY-GATE <stage>(Pedestrians of all kinds come forth.)</stage>
     <sp>
         <speaker>SEVERAL APPRENTICES</speaker>
         <l>Why do you go that way?</l>
