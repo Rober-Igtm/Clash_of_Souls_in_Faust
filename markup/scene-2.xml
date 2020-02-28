@@ -1,4 +1,4 @@
-<?xml-model href="faust_scene.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene n="II">BEFORE THE CITY-GATE <stage>(Pedestrians of all kinds come forth.)</stage>
     <sp>
         <speaker>SEVERAL APPRENTICES</speaker>
