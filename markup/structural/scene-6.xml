@@ -1,0 +1,520 @@
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+
+<scene n="VI">WITCHES' KITCHEN <stage>(Upon a low hearth stands a great caldron, under which a fire
+        is burning. Various figures appear in the vapors which rise from the caldron. An ape sits
+        beside it, skims it, and watches lest it boil over. The he-ape, with the young ones, sits
+        near and warms himself. Ceiling and walls are covered with the most fantastic
+        witch-implements.)</stage>
+    <sp>
+        <speaker>FAUST MEPHISTOPHELES</speaker>
+        <speaker>FAUST</speaker>
+        <l>These crazy signs of witches' craft repel me!</l>
+        <l>I shall recover, dost thou tell me,</l>
+        <l>Through this insane, chaotic play?</l>
+        <l>From an old hag shall I demand assistance?</l>
+        <l>And will her foul mess take away</l>
+        <l>Full thirty years from my existence?</l>
+        <l>Woe's me, canst thou naught better find!</l>
+        <l>Another baffled hope must be lamented:</l>
+        <l>Has Nature, then, and has a noble mind</l>
+        <l>Not any potent balsam yet invented?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Once more, my friend, thou talkest sensibly.</l>
+        <l>There is, to make thee young, a simpler mode and apter;</l>
+        <l>But in another book 'tis writ for thee,</l>
+        <l>And is a most eccentric chapter.</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <l>Yet will I know it.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Good! the method is revealed</l>
+        <l>Without or gold or magic or physician.</l>
+        <l>Betake thyself to yonder field,</l>
+        <l>There hoe and dig, as thy condition;</l>
+        <l>Restrain thyself, thy sense and will</l>
+        <l>Within a narrow sphere to flourish;</l>
+        <l>With unmixed food thy body nourish;</l>
+        <l>Live with the ox as ox, and think it not a theft</l>
+        <l>That thou manur'st the acre which thou reapest;—</l>
+        <l>That, trust me, is the best mode left,</l>
+        <l>Whereby for eighty years thy youth thou keepest!</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <l>I am not used to that; I cannot stoop to try it—</l>
+        <l>To take the spade in hand, and ply it.</l>
+        <l>The narrow being suits me not at all.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Then to thine aid the witch must call.</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <l>Wherefore the hag, and her alone?</l>
+        <l>Canst thou thyself not brew the potion?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>That were a charming sport, I own:</l>
+        <l>I'd build a thousand bridges meanwhile, I've a notion.</l>
+        <l>Not Art and Science serve, alone;</l>
+        <l>Patience must in the work be shown.</l>
+        <l>Long is the calm brain active in creation;</l>
+        <l>Time, only, strengthens the fine fermentation.</l>
+        <l>And all, belonging thereunto,</l>
+        <l>Is rare and strange, howe'er you take it:</l>
+        <l>The Devil taught the thing, 'tis true,</l>
+        <l>And yet the Devil cannot make it.</l>
+        <stage>(Perceiving the Animals)</stage>
+        <l>See, what a delicate race they be!</l>
+        <l>That is the maid! the man is he!</l>
+        <stage>(To the Animals)</stage>
+        <l>It seems the mistress has gone away?</l>
+    </sp>
+    <sp>
+        <speaker>THE ANIMALS</speaker>
+        <l>Carousing, to-day!</l>
+        <l>Off and about,</l>
+        <l>By the chimney out!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>What time takes she for dissipating?</l>
+    </sp>
+    <sp>
+        <speaker>THE ANIMALS</speaker>
+        <l>While we to warm our paws are waiting.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(to FAUST)</stage>
+        <l>How findest thou the tender creatures?</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <l>Absurder than I ever yet did see.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Why, just such talk as this, for me,</l>
+        <l>Is that which has the most attractive features!</l>
+        <stage>(To the Animals)</stage>
+        <l>But tell me now, ye cursed puppets,</l>
+        <l>Why do ye stir the porridge so?</l>
+    </sp>
+    <sp>
+        <speaker>THE ANIMALS</speaker>
+        <l>We're cooking watery soup for beggars.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Then a great public you can show.</l>
+    </sp>
+    <sp>
+        <speaker>THE HE-APE</speaker>
+        <stage>(comes up and fawns on MEPHISTOPHELES)</stage>
+        <l>O cast thou the dice!</l>
+        <l>Make me rich in a trice,</l>
+        <l>Let me win in good season!</l>
+        <l>Things are badly controlled,</l>
+        <l>And had I but gold,</l>
+        <l>So had I my reason.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>How would the ape be sure his luck enhances.</l>
+        <l>Could he but try the lottery's chances!</l>
+        <stage>(In the meantime the young apes have been playing with a large ball, which they now
+            roll forward.)</stage>
+    </sp>
+    <sp>
+        <speaker>THE HE-APE</speaker>
+        <l>The world's the ball:</l>
+        <l>Doth rise and fall,</l>
+        <l>And roll incessant:</l>
+        <l>Like glass doth ring,</l>
+        <l>A hollow thing,—</l>
+        <l>How soon will't spring,</l>
+        <l>And drop, quiescent?</l>
+        <l>Here bright it gleams,</l>
+        <l>Here brighter seems:</l>
+        <l>I live at present!</l>
+        <l>Dear son, I say,</l>
+        <l>Keep thou away!</l>
+        <l>Thy doom is spoken!</l>
+        <l>'Tis made of clay,</l>
+        <l>And will be broken.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>What means the sieve?</l>
+    </sp>
+    <sp>
+        <speaker>THE HE-APE</speaker>
+        <stage>(taking it down)</stage>
+        <l>Wert thou the thief,</l>
+        <l>I'd know him and shame him.</l>
+        <stage>(He runs to the SHE-APE, and lets her look through it.)</stage>
+        <l>Look through the sieve!</l>
+        <l>Know'st thou the thief,</l>
+        <l>And darest not name him?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(approaching the fire)</stage>
+        <l>And what's this pot?</l>
+    </sp>
+    <sp>
+        <speaker>HE-APE AND SHE-APE</speaker>
+        <l>The fool knows it not!</l>
+        <l>He knows not the pot,</l>
+        <l>He knows not the kettle!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Impertinent beast!</l>
+    </sp>
+    <sp>
+        <speaker>THE HE-APE</speaker>
+        <l>Take the brush here, at least,</l>
+        <l>And sit down on the settle!</l>
+        <stage>(He invites MEPHISTOPHELES to sit down.)</stage>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(who during all this time has been standing before a mirror, now approaching and now
+            retreating from it)</stage>
+        <l>What do I see? What heavenly form revealed</l>
+        <l>Shows through the glass from Magic's fair dominions!</l>
+        <l>O lend me, Love, the swiftest of thy pinions,</l>
+        <l>And bear me to her beauteous field!</l>
+        <l>Ah, if I leave this spot with fond designing,</l>
+        <l>If I attempt to venture near,</l>
+        <l>Dim, as through gathering mist, her charms appear!—</l>
+        <l>A woman's form, in beauty shining!</l>
+        <l>Can woman, then, so lovely be?</l>
+        <l>And must I find her body, there reclining,</l>
+        <l>Of all the heavens the bright epitome?</l>
+        <l>Can Earth with such a thing be mated?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Why, surely, if a God first plagues Himself six days,</l>
+        <l>Then, self-contented, Bravo! says,</l>
+        <l>Must something clever be created.</l>
+        <l>This time, thine eyes be satiate!</l>
+        <l>I'll yet detect thy sweetheart and ensnare her,</l>
+        <l>And blest is he, who has the lucky fate,</l>
+        <l>Some day, as bridegroom, home to bear her.</l>
+        <stage>(FAUST gazes continually in the mirror. MEPHISTOPHELES, stretching himself out on the
+            settle, and playing with the brush, continues to speak.)</stage>
+        <l>So sit I, like the King upon his throne:</l>
+        <l>I hold the sceptre, here,—and lack the crown alone.</l>
+    </sp>
+    <sp>
+        <speaker>THE ANIMALS</speaker>
+        <stage>(who up to this time have been making all kinds of fantastic movements together bring
+            a crown to MEPHISTOPHELES with great noise.)</stage>
+        <l>O be thou so good</l>
+        <l>With sweat and with blood</l>
+        <l>The crown to belime!</l>
+        <stage>(They handle the crown awkwardly and break it into two pieces, with which they spring
+            around.)</stage>
+        <l>'Tis done, let it be!</l>
+        <l>We speak and we see,</l>
+        <l>We hear and we rhyme!</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(before the mirror)</stage>
+        <l>Woe's me! I fear to lose my wits.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(pointing to the Animals)</stage>
+        <l>My own head, now, is really nigh to sinking.</l>
+    </sp>
+    <sp>
+        <speaker>THE ANIMALS</speaker>
+        <l>If lucky our hits,</l>
+        <l>And everything fits,</l>
+        <l>'Tis thoughts, and we're thinking!</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(as above)</stage>
+        <l>My bosom burns with that sweet vision;</l>
+        <l>Let us, with speed, away from here!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(in the same attitude)</stage>
+        <l>One must, at least, make this admission—</l>
+        <l>They're poets, genuine and sincere.</l>
+        <stage>(The caldron, which the SHE-APE has up to this time neglected to watch, begins to
+            boil over: there ensues a great flame, which blazes out the chimney. The WITCH comes
+            careering down through the flame, with terrible cries.)</stage>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <l>Ow! ow! ow! ow!</l>
+        <l>The damnéd beast—the curséd sow!</l>
+        <l>To leave the kettle, and singe the Frau!</l>
+        <l>Accurséd fere!</l>
+        <stage>(Perceiving FAUST and MEPHISTOPHELES.)</stage>
+        <l>What is that here?</l>
+        <l>Who are you here?</l>
+        <l>What want you thus?</l>
+        <l>Who sneaks to us?</l>
+        <l>The fire-pain</l>
+        <l>Burn bone and brain!</l>
+        <stage>(She plunges the skimming-ladle into the caldron, and scatters flames towards FAUST,
+            MEPHISTOPHELES, and the Animals. The Animals whimper.)</stage>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(reversing the brush, which he has been holding in his hand, and striding among the
+            jars and glasses)</stage>
+        <l>In two! in two!</l>
+        <l>There lies the brew!</l>
+        <l>There lies the glass!</l>
+        <l>The joke will pass,</l>
+        <l>As time, foul ass!</l>
+        <l>To the singing of thy crew.</l>
+        <stage>(As the WITCH starts back, full of wrath and horror)</stage>
+        <l>Ha! know'st thou me? Abomination, thou!</l>
+        <l>Know'st thou, at last, thy Lord and Master?</l>
+        <l>What hinders me from smiting now</l>
+        <l>Thee and thy monkey-sprites with fell disaster?</l>
+        <l>Hast for the scarlet coat no reverence?</l>
+        <l>Dost recognize no more the tall cock's-feather?</l>
+        <l>Have I concealed this countenance?—</l>
+        <l>Must tell my name, old face of leather?</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <l>O pardon, Sir, the rough salute!</l>
+        <l>Yet I perceive no cloven foot;</l>
+        <l>And both your ravens, where are they now?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>This time, I'll let thee 'scape the debt;</l>
+        <l>For since we two together met,</l>
+        <l>'Tis verily full many a day now.</l>
+        <l>Culture, which smooth the whole world licks,</l>
+        <l>Also unto the Devil sticks.</l>
+        <l>The days of that old Northern phantom now are over:</l>
+        <l>Where canst thou horns and tail and claws discover?</l>
+        <l>And, as regards the foot, which I can't spare, in truth,</l>
+        <l>'Twould only make the people shun me;</l>
+        <l>Therefore I've worn, like many a spindly youth,</l>
+        <l>False calves these many years upon me.</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <stage>(dancing)</stage>
+        <l>Reason and sense forsake my brain,</l>
+        <l>Since I behold Squire Satan here again!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Woman, from such a name refrain!</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <l>Why so? What has it done to thee?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>It's long been written in the Book of Fable;</l>
+        <l>Yet, therefore, no whit better men we see:</l>
+        <l>The Evil One has left, the evil ones are stable.</l>
+        <l>Sir Baron call me thou, then is the matter good;</l>
+        <l>A cavalier am I, like others in my bearing.</l>
+        <l>Thou hast no doubt about my noble blood:</l>
+        <l>See, here's the coat-of-arms that I am wearing!</l>
+        <stage>(He makes an indecent gesture.)</stage>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <stage>(laughs immoderately)</stage>
+        <l>Ha! ha! That's just your way, I know:</l>
+        <l>A rogue you are, and you were always so.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(to FAUST)</stage>
+        <l>My friend, take proper heed, I pray!</l>
+        <l>To manage witches, this is just the way.</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <l>Wherein, Sirs, can I be of use?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Give us a goblet of the well-known juice!</l>
+        <l>But, I must beg you, of the oldest brewage;</l>
+        <l>The years a double strength produce.</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <l>With all my heart! Now, here's a bottle,</l>
+        <l>Wherefrom, sometimes, I wet my throttle,</l>
+        <l>Which, also, not the slightest, stinks;</l>
+        <l>And willingly a glass I'll fill him.</l>
+        <stage>(Whispering)</stage>
+        <l>Yet, if this man without due preparation drinks,</l>
+        <l>As well thou know'st, within an hour 'twill kill him.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>He is a friend of mine, with whom it will agree,</l>
+        <l>And he deserves thy kitchen's best potation:</l>
+        <l>Come, draw thy circle, speak thine adjuration,</l>
+        <l>And fill thy goblet full and free!</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <stage>(with fantastic gestures draws a circle and places mysterious articles therein;
+            meanwhile the glasses begin to ring, the caldron to sound, and make a musical
+            accompaniment. Finally she brings a great book, and stations in the circle the Apes, who
+            are obliged to serve as reading-desk, and to hold the torches. She then beckons FAUST to
+            approach.)</stage>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(to MEPHISTOPHELES)</stage>
+        <l>Now, what shall come of this? the creatures antic,</l>
+        <l>The crazy stuff, the gestures frantic,—</l>
+        <l>All the repulsive cheats I view,—</l>
+        <l>Are known to me, and hated, too.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>O, nonsense! That's a thing for laughter;</l>
+        <l>Don't be so terribly severe!</l>
+        <l>She juggles you as doctor now, that, after,</l>
+        <l>The beverage may work the proper cheer.</l>
+        <stage>(He persuades FAUST to step into the circle.)</stage>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <stage>(begins to declaim, with much emphasis, from the book)</stage>
+        <l>See, thus it's done!</l>
+        <l>Make ten of one,</l>
+        <l>And two let be,</l>
+        <l>Make even three,</l>
+        <l>And rich thou 'It be.</l>
+        <l>Cast o'er the four!</l>
+        <l>From five and six</l>
+        <stage>(The witch's tricks)</stage>
+        <l>Make seven and eight,</l>
+        <l>'Tis finished straight!</l>
+        <l>And nine is one,</l>
+        <l>And ten is none.</l>
+        <l>This is the witch's once-one's-one!</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <l>She talks like one who raves in fever.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Thou'lt hear much more before we leave her.</l>
+        <l>'Tis all the same: the book I can repeat,</l>
+        <l>Such time I've squandered o'er the history:</l>
+        <l>A contradiction thus complete</l>
+        <l>Is always for the wise, no less than fools, a mystery.</l>
+        <l>The art is old and new, for verily</l>
+        <l>All ages have been taught the matter,—</l>
+        <l>By Three and One, and One and Three,</l>
+        <l>Error instead of Truth to scatter.</l>
+        <l>They prate and teach, and no one interferes;</l>
+        <l>All from the fellowship of fools are shrinking.</l>
+        <l>Man usually believes, if only words he hears,</l>
+        <l>That also with them goes material for thinking!</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <stage>(continues)</stage>
+        <l>The lofty skill</l>
+        <l>Of Science, still</l>
+        <l>From all men deeply hidden!</l>
+        <l>Who takes no thought,</l>
+        <l>To him 'tis brought,</l>
+        <l>'Tis given unsought, unbidden!</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <l>What nonsense she declaims before us!</l>
+        <l>My head is nigh to split, I fear:</l>
+        <l>It seems to me as if I hear</l>
+        <l>A hundred thousand fools in chorus.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>O Sibyl excellent, enough of adjuration!</l>
+        <l>But hither bring us thy potation,</l>
+        <l>And quickly fill the beaker to the brim!</l>
+        <l>This drink will bring my friend no injuries:</l>
+        <l>He is a man of manifold degrees,</l>
+        <l>And many draughts are known to him.</l>
+        <stage>(The WITCH, with many ceremonies, pours the drink into a cup; as FAUST sets it to his
+            lips, a light flame arises.)</stage>
+        <l>Down with it quickly! Drain it off!</l>
+        <l>'Twill warm thy heart with new desire:</l>
+        <l>Art with the Devil hand and glove,</l>
+        <l>And wilt thou be afraid of fire?</l>
+        <stage>(The WITCH breaks the circle: FAUST steps forth.)</stage>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>And now, away! Thou dar'st not rest.</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <l>And much good may the liquor do thee!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(to the WITCH)</stage>
+        <l>Thy wish be on Walpurgis Night expressed;</l>
+        <l>What boon I have, shall then be given unto thee.</l>
+    </sp>
+    <sp>
+        <speaker>THE WITCH</speaker>
+        <l>Here is a song, which, if you sometimes sing,</l>
+        <l>You'll find it of peculiar operation.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(to FAUST)</stage>
+        <l>Come, walk at once! A rapid occupation</l>
+        <l>Must start the needful perspiration,</l>
+        <l>And through thy frame the liquor's potence fling.</l>
+        <l>The noble indolence I'll teach thee then to treasure,</l>
+        <l>And soon thou'lt be aware, with keenest thrills of pleasure,</l>
+        <l>How Cupid stirs and leaps, on light and restless wing.</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <l>One rapid glance within the mirror give me,</l>
+        <l>How beautiful that woman-form!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>No, no! The paragon of all, believe me,</l>
+        <l>Thou soon shalt see, alive and warm.</l>
+        <stage>(Aside)</stage>
+        <l>Thou'lt find, this drink thy blood compelling,</l>
+        <l>Each woman beautiful as Helen!</l>
+    </sp>
+</scene>
