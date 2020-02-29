@@ -1,0 +1,216 @@
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+
+<scene n="VIII">EVENING A SMALL, NEATLY KEPT CHAMBER <sp>
+        <speaker>MARGARET</speaker>
+
+        <stage>(plaiting and binding up the braids of her hair)</stage>
+
+        <l>I'd something give, could I but say</l>
+        <l>Who was that gentleman, to-day.</l>
+        <l>Surely a gallant man was he,</l>
+        <l>And of a noble family;</l>
+        <l>And much could I in his face behold,—</l>
+        <l>And he wouldn't, else, have been so bold!</l>
+
+        <stage>[Exit</stage>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES FAUST</speaker>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Come in, but gently: follow me!</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(after a moment's silence)</stage>
+
+        <l>Leave me alone, I beg of thee!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(prying about)</stage>
+
+        <l>Not every girl keeps things so neat.</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(looking around)</stage>
+
+        <l>O welcome, twilight soft and sweet,</l>
+        <l>That breathes throughout this hallowed shrine!</l>
+        <l>Sweet pain of love, bind thou with fetters fleet</l>
+        <l>The heart that on the dew of hope must pine!</l>
+        <l>How all around a sense impresses</l>
+        <l>Of quiet, order, and content!</l>
+        <l>This poverty what bounty blesses!</l>
+        <l>What bliss within this narrow den is pent!</l>
+
+        <stage>(He throws himself into a leathern arm-chair near the bed.)</stage>
+
+        <l>Receive me, thou, that in thine open arms</l>
+        <l>Departed joy and pain wert wont to gather!</l>
+        <l>How oft the children, with their ruddy charms,</l>
+        <l>Hung here, around this throne, where sat the father!</l>
+        <l>Perchance my love, amid the childish band,</l>
+        <l>Grateful for gifts the Holy Christmas gave her,</l>
+        <l>Here meekly kissed the grandsire's withered hand.</l>
+        <l>I feel, O maid! thy very soul</l>
+        <l>Of order and content around me whisper,—</l>
+        <l>Which leads thee with its motherly control,</l>
+        <l>The cloth upon thy board bids smoothly thee unroll,</l>
+        <l>The sand beneath thy feet makes whiter, crisper.</l>
+        <l>O dearest hand, to thee 'tis given</l>
+        <l>To change this hut into a lower heaven!</l>
+        <l>And here!</l>
+
+        <stage>(He lifts one of the bed-curtains.)</stage>
+
+        <l>What sweetest thrill is in my blood!</l>
+        <l>Here could I spend whole hours, delaying:</l>
+        <l>Here Nature shaped, as if in sportive playing,</l>
+        <l>The angel blossom from the bud.</l>
+        <l>Here lay the child, with Life's warm essence</l>
+        <l>The tender bosom filled and fair,</l>
+        <l>And here was wrought, through holier, purer presence,</l>
+        <l>The form diviner beings wear!</l>
+
+        <l>And I? What drew me here with power?</l>
+        <l>How deeply am I moved, this hour!</l>
+        <l>What seek I? Why so full my heart, and sore?</l>
+        <l>Miserable Faust! I know thee now no more.</l>
+
+        <l>Is there a magic vapor here?</l>
+        <l>I came, with lust of instant pleasure,</l>
+        <l>And lie dissolved in dreams of love's sweet leisure!</l>
+        <l>Are we the sport of every changeful atmosphere?</l>
+
+        <l>And if, this moment, came she in to me,</l>
+        <l>How would I for the fault atonement render!</l>
+        <l>How small the giant lout would be,</l>
+        <l>Prone at her feet, relaxed and tender!</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Be quick! I see her there, returning.</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>Go! go! I never will retreat.</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Here is a casket, not unmeet,</l>
+        <l>Which elsewhere I have just been earning.</l>
+        <l>Here, set it in the press, with haste!</l>
+        <l>I swear, 'twill turn her head, to spy it:</l>
+        <l>Some baubles I therein had placed,</l>
+        <l>That you might win another by it.</l>
+        <l>True, child is child, and play is play.</l>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>I know not, should I do it?</l>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Ask you, pray?</l>
+
+        <l>Yourself, perhaps, would keep the bubble?</l>
+        <l>Then I suggest, 'twere fair and just</l>
+        <l>To spare the lovely day your lust,</l>
+        <l>And spare to me the further trouble.</l>
+        <l>You are not miserly, I trust?</l>
+        <l>I rub my hands, in expectation tender—</l>
+
+        <stage>(He places the casket in the press, and locks it again.)</stage>
+
+        <l>Now quick, away!</l>
+        <l>The sweet young maiden to betray,</l>
+        <l>So that by wish and will you bend her;</l>
+        <l>And you look as though</l>
+        <l>To the lecture-hall you were forced to go,—</l>
+        <l>As if stood before you, gray and loath,</l>
+        <l>Physics and Metaphysics both!</l>
+        <l>But away!</l>
+
+        <stage>[Exeunt.</stage>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <stage>(with a lamp)</stage>
+
+        <l>It is so close, so sultry, here!</l>
+
+        <stage>(She opens the window)</stage>
+
+        <l>And yet 'tis not so warm outside.</l>
+        <l>I feel, I know not why, such fear!—</l>
+        <l>Would mother came!—where can she bide?</l>
+        <l>My body's chill and shuddering,—</l>
+        <l>I'm but a silly, fearsome thing!</l>
+
+        <stage>(She begins to sing while undressing)</stage>
+
+        <l>There was a King in Thule,</l>
+        <l>Was faithful till the grave,—</l>
+        <l>To whom his mistress, dying,</l>
+        <l>A golden goblet gave.</l>
+
+        <l>Naught was to him more precious;</l>
+        <l>He drained it at every bout:</l>
+        <l>His eyes with tears ran over,</l>
+        <l>As oft as he drank thereout.</l>
+
+        <l>When came his time of dying,</l>
+        <l>The towns in his land he told,</l>
+        <l>Naught else to his heir denying</l>
+        <l>Except the goblet of gold.</l>
+
+        <l>He sat at the royal banquet</l>
+        <l>With his knights of high degree,</l>
+        <l>In the lofty hall of his fathers</l>
+        <l>In the Castle by the Sea.</l>
+
+        <l>There stood the old carouser,</l>
+        <l>And drank the last life-glow;</l>
+        <l>And hurled the hallowed goblet</l>
+        <l>Into the tide below.</l>
+
+        <l>He saw it plunging and filling,</l>
+        <l>And sinking deep in the sea:</l>
+        <l>Then fell his eyelids forever,</l>
+        <l>And never more drank he!</l>
+        <stage>(She opens the press in order to arrange her clothes, and perceives the casket of
+            jewels.)</stage>
+
+        <l>How comes that lovely casket here to me?</l>
+        <l>I locked the press, most certainly.</l>
+        <l>'Tis truly wonderful! What can within it be?</l>
+        <l>Perhaps 'twas brought by some one as a pawn,</l>
+        <l>And mother gave a loan thereon?</l>
+        <l>And here there hangs a key to fit:</l>
+        <l>I have a mind to open it.</l>
+        <l>What is that? God in Heaven! Whence came</l>
+        <l>Such things? Never beheld I aught so fair!</l>
+        <l>Rich ornaments, such as a noble dame</l>
+        <l>On highest holidays might wear!</l>
+        <l>How would the pearl-chain suit my hair?</l>
+        <l>Ah, who may all this splendor own?</l>
+
+        <stage>(She adorns herself with the jewelry, and steps before the mirror.)</stage>
+
+        <l>Were but the ear-rings mine, alone!</l>
+        <l>One has at once another air.</l>
+        <l>What helps one's beauty, youthful blood?</l>
+        <l>One may possess them, well and good;</l>
+        <l>But none the more do others care.</l>
+        <l>They praise us half in pity, sure:</l>
+        <l>To gold still tends,</l>
+        <l>On gold depends</l>
+        <l>All, all! Alas, we poor!</l>
+    </sp></scene>
