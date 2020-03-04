@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="markup/scene.rnc" type="application/relax-ng-compact-syntax"?>
+<Scene>III
+
+<title>THE STUDY</title>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<stage>(Entering, with the poodle.)</stage>
+
+<line>Behind me, field and meadow sleeping,</line>
+<line>I leave in deep, prophetic night,</line>
+<line>Within whose dread and holy keeping</line>
+<line>The better soul awakes to light.</line>
+<line>The wild desires no longer win us,</line>
+<line>The deeds of passion cease to chain;</line>
+<line>The love of Man revives within us,</line>
+<line>The love of God revives again.</line>
+
+<line>Be still, thou poodle; make not such racket and riot!</line>
+<line>Why at the threshold wilt snuffing be?</line>
+<line>Behind the stove repose thee in quiet!</line>
+<line>My softest cushion I give to thee.</line>
+<line>As thou, up yonder, with running and leaping</line>
+<line>Amused us hast, on the mountain's crest,</line>
+
+<line>So now I take thee into my keeping,</line>
+<line>A welcome, but also a silent, guest.</line>
+
+<line>Ah, when, within our narrow chamber</line>
+<line>The lamp with friendly lustre glows,</line>
+<line>Flames in the breast each faded ember,</line>
+<line>And in the heart, itself that knows.</line>
+<line>Then Hope again lends sweet assistance,</line>
+<line>And Reason then resumes her speech:</line>
+<line>One yearns, the rivers of existence,</line>
+<line>The very founts of Life, to reach.</line>
+
+<line>Snarl not, poodle! To the sound that rises,</line>
+<line>The sacred tones that my soul embrace,</line>
+<line>This bestial noise is out of place.</line>
+<line>We are used to see, that Man despises</line>
+<line>What he never comprehends,</line>
+<line>And the Good and the Beautiful vilipends,</line>
+<line>Finding them often hard to measure:</line>
+<line>Will the dog, like man, snarl his displeasure?</line>
+
+<line>But ah! I feel, though will thereto be stronger,</line>
+<line>Contentment flows from out my breast no longer.</line>
+<line>Why must the stream so soon run dry and fail us,</line>
+<line>And burning thirst again assail us?</line>
+<line>Therein I've borne so much probation!</line>
+<line>And yet, this want may be supplied us;</line>
+<line>We call the Supernatural to guide us;</line>
+<line>We pine and thirst for Revelation,</line>
+<line>Which nowhere worthier is, more nobly sent,</line>
+<line>Than here, in our New Testament.</line>
+<line>I feel impelled, its meaning to determine,—</line>
+<line>With honest purpose, once for all,</line>
+<line>The hallowed Original</line>
+<line>To change to my beloved German.</line>
+
+<stage>(He opens a volume, and commences.)</stage>
+'Tis written: "In the Beginning was the Word."
+<line>Here am I balked: who, now can help afford?</line>
+<line>The Word?—impossible so high to rate it;</line>
+<line>And otherwise must I translate it.</line>
+<line>If by the Spirit I am truly taught.</line>
+<line>Then thus: "In the Beginning was the Thought"</line>
+<line>This first line let me weigh completely,</line>
+<line>Lest my impatient pen proceed too fleetly.</line>
+<line>Is it the Thought which works, creates, indeed?</line>
+"In the Beginning was the Power," I read.
+<line>Yet, as I write, a warning is suggested,</line>
+<line>That I the sense may not have fairly tested.</line>
+<line>The Spirit aids me: now I see the light!</line>
+"In the Beginning was the Act," I write.
+
+<line>If I must share my chamber with thee,</line>
+<line>Poodle, stop that howling, prithee!</line>
+<line>Cease to bark and bellow!</line>
+<line>Such a noisy, disturbing fellow</line>
+<line>I'll no longer suffer near me.</line>
+<line>One of us, dost hear me!</line>
+<line>Must leave, I fear me.</line>
+<line>No longer guest-right I bestow;</line>
+<line>The door is open, art free to go.</line>
+<line>But what do I see in the creature?</line>
+<line>Is that in the course of nature?</line>
+<line>Is't actual fact? or Fancy's shows?</line>
+<line>How long and broad my poodle grows!</line>
+<line>He rises mightily:</line>
+<line>A canine form that cannot be!</line>
+<line>What a spectre I've harbored thus!</line>
+<line>He resembles a hippopotamus,</line>
+<line>With fiery eyes, teeth terrible to see:</line>
+<line>O, now am I sure of thee!</line>
+<line>For all of thy half-hellish brood</line>
+<line>The Key of Solomon is good.</line>
+
+
+</sp>
+<sp>
+<speaker>SPIRITS</speaker> <stage>(in the corridor)</stage>
+
+<line>Some one, within, is caught!</line>
+<line>Stay without, follow him not!</line>
+<line>Like the fox in a snare,</line>
+<line>Quakes the old hell-lynx there.</line>
+<line>Take heed—look about!</line>
+<line>Back and forth hover,</line>
+<line>Under and over,</line>
+<line>And he'll work himself out.</line>
+<line>If your aid avail him,</line>
+<line>Let it not fail him;</line>
+<line>For he, without measure,</line>
+<line>Has wrought for our pleasure.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>First, to encounter the beast,</line>
+<line>The Words of the Four be addressed:</line>
+<line>Salamander, shine glorious!</line>
+<line>Wave, Undine, as bidden!</line>
+<line>Sylph, be thou hidden!</line>
+<line>Gnome, be laborious!</line>
+
+<line>Who knows not their sense</line>
+<stage>(These elements)</stage>,—
+<line>Their properties</line>
+<line>And power not sees,—</line>
+<line>No mastery he inherits</line>
+<line>Over the Spirits.</line>
+
+<line>Vanish in flaming ether,</line>
+<line>Salamander!</line>
+<line>Flow foamingly together,</line>
+<line>Undine!</line>
+<line>Shine in meteor-sheen,</line>
+<line>Sylph!</line>
+<line>Bring help to hearth and shelf.</line>
+<line>Incubus! Incubus!</line>
+<line>Step forward, and finish thus!</line>
+
+<line>Of the Four, no feature</line>
+<line>Lurks in the creature.</line>
+<line>Quiet he lies, and grins disdain:</line>
+<line>Not yet, it seems, have I given him pain.</line>
+<line>Now, to undisguise thee,</line>
+<line>Hear me exorcise thee!</line>
+<line>Art thou, my gay one,</line>
+<line>Hell's fugitive stray-one?</line>
+<line>The sign witness now,</line>
+<line>Before which they bow,</line>
+<line>The cohorts of Hell!</line>
+
+<line>With hair all bristling, it begins to swell.</line>
+
+<line>Base Being, hearest thou?</line>
+<line>Knowest and fearest thou</line>
+<line>The One, unoriginate,</line>
+<line>Named inexpressibly,</line>
+<line>Through all Heaven impermeate,</line>
+<line>Pierced irredressibly!</line>
+
+<line>Behind the stove still banned,</line>
+<line>See it, an elephant, expand!</line>
+<line>It fills the space entire,</line>
+<line>Mist-like melting, ever faster.</line>
+'Tis enough: ascend no higher,—
+<line>Lay thyself at the feet of the Master!</line>
+<line>Thou seest, not vain the threats I bring thee:</line>
+<line>With holy fire I'll scorch and sting thee!</line>
+<line>Wait not to know</line>
+<line>The threefold dazzling glow!</line>
+<line>Wait not to know</line>
+<line>The strongest art within my hands!</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+(while the vapor is dissipating, steps forth from behind the
+<line>stove, in the costume of a Travelling Scholar.)</line>
+<line>Why such a noise? What are my lord's commands?</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>This was the poodle's real core,</line>
+<line>A travelling scholar, then? The casus is diverting.</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>The learned gentleman I bow before:</line>
+<line>You've made me roundly sweat, that's certain!</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>What is thy name?</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>A question small, it seems,</line>
+<line>For one whose mind the Word so much despises;</line>
+<line>Who, scorning all external gleams,</line>
+<line>The depths of being only prizes.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>With all you gentlemen, the name's a test,</line>
+<line>Whereby the nature usually is expressed.</line>
+<line>Clearly the latter it implies</line>
+<line>In names like Beelzebub, Destroyer, Father of Lies.</line>
+<line>Who art thou, then?</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Part of that Power, not understood,</line>
+<line>Which always wills the Bad, and always works the Good.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>What hidden sense in this enigma lies?</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>I am the Spirit that Denies!</line>
+<line>And justly so: for all things, from the Void</line>
+<line>Called forth, deserve to be destroyed:</line>
+'Twere better, then, were naught created.
+<line>Thus, all which you as Sin have rated,—</line>
+<line>Destruction,—aught with Evil blent,—</line>
+<line>That is my proper element.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Thou nam'st thyself a part, yet show'st complete to me?</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>The modest truth I speak to thee.</line>
+<line>If Man, that microcosmic fool, can see</line>
+<line>Himself a whole so frequently,</line>
+<line>Part of the Part am I, once All, in primal Night,—</line>
+<line>Part of the Darkness which brought forth the Light,</line>
+<line>The haughty Light, which now disputes the space,</line>
+<line>And claims of Mother Night her ancient place.</line>
+<line>And yet, the struggle fails; since Light, howe'er it weaves,</line>
+<line>Still, fettered, unto bodies cleaves:</line>
+<line>It flows from bodies, bodies beautifies;</line>
+<line>By bodies is its course impeded;</line>
+<line>And so, but little time is needed,</line>
+<line>I hope, ere, as the bodies die, it dies!</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>I see the plan thou art pursuing:</line>
+<line>Thou canst not compass general ruin,</line>
+<line>And hast on smaller scale begun.</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>And truly 'tis not much, when all is done.</line>
+<line>That which to Naught is in resistance set,—</line>
+<line>The Something of this clumsy world,—has yet,</line>
+<line>With all that I have undertaken,</line>
+<line>Not been by me disturbed or shaken:</line>
+<line>From earthquake, tempest, wave, volcano's brand,</line>
+<line>Back into quiet settle sea and land!</line>
+<line>And that damned stuff, the bestial, human brood,—</line>
+<line>What use, in having that to play with?</line>
+<line>How many have I made away with!</line>
+<line>And ever circulates a newer, fresher blood.</line>
+<line>It makes me furious, such things beholding:</line>
+<line>From Water, Earth, and Air unfolding,</line>
+<line>A thousand germs break forth and grow,</line>
+<line>In dry, and wet, and warm, and chilly;</line>
+<line>And had I not the Flame reserved, why, really,</line>
+<line>There's nothing special of my own to show!</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>So, to the actively eternal</line>
+<line>Creative force, in cold disdain</line>
+<line>You now oppose the fist infernal,</line>
+<line>Whose wicked clench is all in vain!</line>
+<line>Some other labor seek thou rather,</line>
+<line>Queer Son of Chaos, to begin!</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Well, we'll consider: thou canst gather</line>
+<line>My views, when next I venture in.</line>
+<line>Might I, perhaps, depart at present?</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Why thou shouldst ask, I don't perceive.</line>
+<line>Though our acquaintance is so recent,</line>
+<line>For further visits thou hast leave.</line>
+<line>The window's here, the door is yonder;</line>
+<line>A chimney, also, you behold.</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>I must confess that forth I may not wander,</line>
+<line>My steps by one slight obstacle controlled,—</line>
+<line>The wizard's-foot, that on your threshold made is.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>The pentagram prohibits thee?</line>
+<line>Why, tell me now, thou Son of Hades,</line>
+<line>If that prevents, how cam'st thou in to me?</line>
+<line>Could such a spirit be so cheated?</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Inspect the thing: the drawing's not completed.</line>
+<line>The outer angle, you may see,</line>
+<line>Is open left—the lines don't fit it.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Well,—Chance, this time, has fairly hit it!</line>
+<line>And thus, thou'rt prisoner to me?</line>
+<line>It seems the business has succeeded.</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>The poodle naught remarked, as after thee he speeded;</line>
+<line>But other aspects now obtain:</line>
+<line>The Devil can't get out again.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Try, then, the open window-pane!</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>For Devils and for spectres this is law:</line>
+<line>Where they have entered in, there also they withdraw.</line>
+<line>The first is free to us; we're governed by the second.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>In Hell itself, then, laws are reckoned?</line>
+<line>That's well! So might a compact be</line>
+<line>Made with you gentlemen—and binding,—surely?</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>All that is promised shall delight thee purely;</line>
+<line>No skinflint bargain shalt thou see.</line>
+<line>But this is not of swift conclusion;</line>
+<line>We'll talk about the matter soon.</line>
+<line>And now, I do entreat this boon—</line>
+<line>Leave to withdraw from my intrusion.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>One moment more I ask thee to remain,</line>
+<line>Some pleasant news, at least, to tell me.</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Release me, now! I soon shall come again;</line>
+<line>Then thou, at will, mayst question and compel me.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>I have not snares around thee cast;</line>
+<line>Thyself hast led thyself into the meshes.</line>
+<line>Who traps the Devil, hold him fast!</line>
+<line>Not soon a second time he'll catch a prey so precious.</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>An't please thee, also I'm content to stay,</line>
+<line>And serve thee in a social station;</line>
+<line>But stipulating, that I may</line>
+<line>With arts of mine afford thee recreation.</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Thereto I willingly agree,</line>
+<line>If the diversion pleasant be.</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>My friend, thou'lt win, past all pretences,</line>
+<line>More in this hour to soothe thy senses,</line>
+<line>Than in the year's monotony.</line>
+<line>That which the dainty spirits sing thee,</line>
+<line>The lovely pictures they shall bring thee,</line>
+<line>Are more than magic's empty show.</line>
+<line>Thy scent will be to bliss invited;</line>
+<line>Thy palate then with taste delighted,</line>
+<line>Thy nerves of touch ecstatic glow!</line>
+<line>All unprepared, the charm I spin:</line>
+<line>We're here together, so begin!</line>
+
+
+</sp>
+<sp>
+<speaker>SPIRITS</speaker>
+
+<line>Vanish, ye darking</line>
+<line>Arches above him!</line>
+<line>Loveliest weather,</line>
+<line>Born of blue ether,</line>
+<line>Break from the sky!</line>
+<line>O that the darkling</line>
+<line>Clouds had departed!</line>
+<line>Starlight is sparkling,</line>
+<line>Tranquiller-hearted</line>
+<line>Suns are on high.</line>
+<line>Heaven's own children</line>
+<line>In beauty bewildering,</line>
+<line>Waveringly bending,</line>
+<line>Pass as they hover;</line>
+<line>Longing unending</line>
+<line>Follows them over.</line>
+<line>They, with their glowing</line>
+<line>Garments, out-flowing,</line>
+<line>Cover, in going,</line>
+<line>Landscape and bower,</line>
+<line>Where, in seclusion,</line>
+<line>Lovers are plighted,</line>
+<line>Lost in illusion.</line>
+<line>Bower on bower!</line>
+<line>Tendrils unblighted!</line>
+<line>Lo! in a shower</line>
+<line>Grapes that o'ercluster</line>
+<line>Gush into must, or</line>
+<line>Flow into rivers</line>
+<line>Of foaming and flashing</line>
+<line>Wine, that is dashing</line>
+<line>Gems, as it boundeth</line>
+<line>Down the high places,</line>
+<line>And spreading, surroundeth</line>
+<line>With crystalline spaces,</line>
+<line>In happy embraces,</line>
+<line>Blossoming forelands,</line>
+<line>Emerald shore-lands!</line>
+<line>And the winged races</line>
+<line>Drink, and fly onward—</line>
+<line>Fly ever sunward</line>
+<line>To the enticing</line>
+<line>Islands, that flatter,</line>
+<line>Dipping and rising</line>
+<line>Light on the water!</line>
+<line>Hark, the inspiring</line>
+<line>Sound of their quiring!</line>
+<line>See, the entrancing</line>
+<line>Whirl of their dancing!</line>
+<line>All in the air are</line>
+<line>Freer and fairer.</line>
+<line>Some of them scaling</line>
+<line>Boldly the highlands,</line>
+<line>Others are sailing,</line>
+<line>Circling the islands;</line>
+<line>Others are flying;</line>
+<line>Life-ward all hieing,—</line>
+<line>All for the distant</line>
+<line>Star of existent</line>
+<line>Rapture and Love!</line>
+
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>He sleeps! Enough, ye fays! your airy number</line>
+<line>Have sung him truly into slumber:</line>
+<line>For this performance I your debtor prove.—</line>
+<line>Not yet art thou the man, to catch the Fiend and hold him!—</line>
+<line>With fairest images of dreams infold him,</line>
+<line>Plunge him in seas of sweet untruth!</line>
+<line>Yet, for the threshold's magic which controlled him,</line>
+<line>The Devil needs a rat's quick tooth.</line>
+<line>I use no lengthened invocation:</line>
+<line>Here rustles one that soon will work my liberation.</line>
+
+<line>The lord of rats and eke of mice,</line>
+<line>Of flies and bed-bugs, frogs and lice,</line>
+<line>Summons thee hither to the door-sill,</line>
+<line>To gnaw it where, with just a morsel</line>
+<line>Of oil, he paints the spot for thee:—</line>
+<line>There com'st thou, hopping on to me!</line>
+<line>To work, at once! The point which made me craven</line>
+<line>Is forward, on the ledge, engraven.</line>
+<line>Another bite makes free the door:</line>
+<line>So, dream thy dreams, O Faust, until we meet once more!</line>
+
+
+</sp>
+<sp>
+<speaker>FAUST</speaker> <stage>(awaking)</stage>
+
+<line>Am I again so foully cheated?</line>
+<line>Remains there naught of lofty spirit-sway,</line>
+<line>But that a dream the Devil counterfeited,</line>
+<line>And that a poodle ran away?</line>
+
+
+</sp>
+</Scene>
