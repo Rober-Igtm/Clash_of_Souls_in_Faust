@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene>IV
+
+<title>THE STUDY 
+</title>
+<stage>FAUST MEPHISTOPHELES</stage>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>A knock? Come in! Again my quiet broken?</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>'Tis I!</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Come in!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Thrice must the words be spoken.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Come in, then!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Thus thou pleasest me.</line>
+<line>I hope we'll suit each other well;</line>
+<line>For now, thy vapors to dispel,</line>
+<line>I come, a squire of high degree,</line>
+<line>In scarlet coat, with golden trimming,</line>
+<line>A cloak in silken lustre swimming,</line>
+<line>A tall cock's-feather in my hat,</line>
+<line>A long, sharp sword for show or quarrel,—</line>
+<line>And I advise thee, brief and flat,</line>
+<line>To don the self-same gay apparel,</line>
+<line>That, from this den released, and free,</line>
+<line>Life be at last revealed to thee!</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>This life of earth, whatever my attire,</line>
+<line>Would pain me in its wonted fashion.</line>
+<line>Too old am I to play with passion;</line>
+<line>Too young, to be without desire.</line>
+<line>What from the world have I to gain?</line>
+<line>Thou shalt abstain—renounce—refrain!</line>
+<line>Such is the everlasting song</line>
+<line>That in the ears of all men rings,—</line>
+<line>That unrelieved, our whole life long,</line>
+<line>Each hour, in passing, hoarsely sings.</line>
+<line>In very terror I at morn awake,</line>
+<line>Upon the verge of bitter weeping,</line>
+<line>To see the day of disappointment break,</line>
+<line>To no one hope of mine—not one—its promise keeping:—</line>
+<line>That even each joy's presentiment</line>
+<line>With wilful cavil would diminish,</line>
+<line>With grinning masks of life prevent</line>
+<line>My mind its fairest work to finish!</line>
+<line>Then, too, when night descends, how anxiously</line>
+<line>Upon my couch of sleep I lay me:</line>
+<line>There, also, comes no rest to me,</line>
+<line>But some wild dream is sent to fray me.</line>
+<line>The God that in my breast is owned</line>
+<line>Can deeply stir the inner sources;</line>
+<line>The God, above my powers enthroned,</line>
+<line>He cannot change external forces.</line>
+<line>So, by the burden of my days oppressed,</line>
+<line>Death is desired, and Life a thing unblest!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>And yet is never Death a wholly welcome guest.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>O fortunate, for whom, when victory glances,</line>
+<line>The bloody laurels on the brow he bindeth!</line>
+<line>Whom, after rapid, maddening dances,</line>
+<line>In clasping maiden-arms he findeth!</line>
+<line>O would that I, before that spirit-power,</line>
+<line>Ravished and rapt from life, had sunken!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>And yet, by some one, in that nightly hour,</line>
+<line>A certain liquid was not drunken.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Eavesdropping, ha! thy pleasure seems to be.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Omniscient am I not; yet much is known to me.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Though some familiar tone, retrieving</line>
+<line>My thoughts from torment, led me on,</line>
+<line>And sweet, clear echoes came, deceiving</line>
+<line>A faith bequeathed from Childhood's dawn,</line>
+<line>Yet now I curse whate'er entices</line>
+<line>And snares the soul with visions vain;</line>
+<line>With dazzling cheats and dear devices</line>
+<line>Confines it in this cave of pain!</line>
+<line>Cursed be, at once, the high ambition</line>
+<line>Wherewith the mind itself deludes!</line>
+<line>Cursed be the glare of apparition</line>
+<line>That on the finer sense intrudes!</line>
+<line>Cursed be the lying dream's impression</line>
+<line>Of name, and fame, and laurelled brow!</line>
+<line>Cursed, all that flatters as possession,</line>
+<line>As wife and child, as knave and plow!</line>
+<line>Cursed Mammon be, when he with treasures</line>
+<line>To restless action spurs our fate!</line>
+<line>Cursed when, for soft, indulgent leisures,</line>
+<line>He lays for us the pillows straight!</line>
+<line>Cursed be the vine's transcendent nectar,—</line>
+<line>The highest favor Love lets fall!</line>
+<line>Cursed, also, Hope!—cursed Faith, the spectre!</line>
+<line>And cursed be Patience most of all!</line>
+
+</sp>
+
+<sp>
+<speaker>CHORUS OF SPIRITS</speaker> <stage>(invisible)</stage>
+
+<line>Woe! woe!</line>
+<line>Thou hast it destroyed,</line>
+<line>The beautiful world,</line>
+<line>With powerful fist:</line>
+<line>In ruin 'tis hurled,</line>
+<line>By the blow of a demigod shattered!</line>
+<line>The scattered</line>
+<line>Fragments into the Void we carry,</line>
+<line>Deploring!</line>
+<line>The beauty perished beyond restoring.</line>
+<line>Mightier!</line>
+<line>For the children of men,</line>
+<line>Brightlier!</line>
+<line>Build it again,</line>
+<line>In thine own bosom build it anew!</line>
+<line>Bid the new career</line>
+<line>Commence,</line>
+<line>With clearer sense,</line>
+<line>And the new songs of cheer</line>
+<line>Be sung thereto!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>These are the small dependants</line>
+<line>Who give me attendance.</line>
+<line>Hear them, to deeds and passion</line>
+<line>Counsel in shrewd old-fashion!</line>
+<line>Into the world of strife,</line>
+<line>Out of this lonely life</line>
+<line>That of senses and sap has betrayed thee,</line>
+<line>They would persuade thee.</line>
+<line>This nursing of the pain forego thee,</line>
+<line>That, like a vulture, feeds upon thy breast!</line>
+<line>The worst society thou find'st will show thee</line>
+<line>Thou art a man among the rest.</line>
+<line>But 'tis not meant to thrust</line>
+<line>Thee into the mob thou hatest!</line>
+<line>I am not one of the greatest,</line>
+<line>Yet, wilt thou to me entrust</line>
+<line>Thy steps through life, I'll guide thee,—</line>
+<line>Will willingly walk beside thee,—</line>
+<line>Will serve thee at once and forever</line>
+<line>With best endeavor,</line>
+<line>And, if thou art satisfied,</line>
+<line>Will as servant, slave, with thee abide.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>And what shall be my counter-service therefor?</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>The time is long: thou need'st not now insist.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>No—no! The Devil is an egotist,</line>
+<line>And is not apt, without a why or wherefore,</line>
+<line>"For God's sake," others to assist.</line>
+<line>Speak thy conditions plain and clear!</line>
+<line>With such a servant danger comes, I fear.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Here, an unwearied slave, I'll wear thy tether,</line>
+<line>And to thine every nod obedient be:</line>
+<line>When There again we come together,</line>
+<line>Then shalt thou do the same for me.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>The There my scruples naught increases.</line>
+<line>When thou hast dashed this world to pieces,</line>
+<line>The other, then, its place may fill.</line>
+<line>Here, on this earth, my pleasures have their sources;</line>
+<line>Yon sun beholds my sorrows in his courses;</line>
+<line>And when from these my life itself divorces,</line>
+<line>Let happen all that can or will!</line>
+<line>I'll hear no more: 'tis vain to ponder</line>
+<line>If there we cherish love or hate,</line>
+<line>Or, in the spheres we dream of yonder,</line>
+<line>A High and Low our souls await.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>In this sense, even, canst thou venture.</line>
+<line>Come, bind thyself by prompt indenture,</line>
+<line>And thou mine arts with joy shalt see:</line>
+<line>What no man ever saw, I'll give to thee.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Canst thou, poor Devil, give me whatsoever?</line>
+<line>When was a human soul, in its supreme endeavor,</line>
+<line>E'er understood by such as thou?</line>
+<line>Yet, hast thou food which never satiates, now,—</line>
+<line>The restless, ruddy gold hast thou,</line>
+<line>That runs, quicksilver-like, one's fingers through,—</line>
+<line>A game whose winnings no man ever knew,—</line>
+<line>A maid that, even from my breast,</line>
+<line>Beckons my neighbor with her wanton glances,</line>
+<line>And Honor's godlike zest,</line>
+<line>The meteor that a moment dances,—</line>
+<line>Show me the fruits that, ere they're gathered, rot,</line>
+<line>And trees that daily with new leafage clothe them!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Such a demand alarms me not:</line>
+<line>Such treasures have I, and can show them.</line>
+<line>But still the time may reach us, good my friend.</line>
+<line>When peace we crave and more luxurious diet.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>When on an idler's bed I stretch myself in quiet.</line>
+<line>There let, at once, my record end!</line>
+<line>Canst thou with lying flattery rule me,</line>
+<line>Until, self-pleased, myself I see,—</line>
+<line>Canst thou with rich enjoyment fool me,</line>
+<line>Let that day be the last for me!</line>
+<line>The bet I offer.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Done!</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>And heartily!</line>
+<line>When thus I hail the Moment flying:</line>
+<line>"Ah, still delay—thou art so fair!"</line>
+<line>Then bind me in thy bonds undying,</line>
+<line>My final ruin then declare!</line>
+<line>Then let the death-bell chime the token.</line>
+<line>Then art thou from thy service free!</line>
+<line>The clock may stop, the hand be broken,</line>
+<line>Then Time be finished unto me!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Consider well: my memory good is rated.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Thou hast a perfect right thereto.</line>
+<line>My powers I have not rashly estimated:</line>
+<line>A slave am I, whate'er I do—</line>
+<line>If thine, or whose? 'tis needless to debate it.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Then at the Doctors'-banquet I, to-day,</line>
+<line>Will as a servant wait behind thee.</line>
+<line>But one thing more! Beyond all risk to bind thee,</line>
+<line>Give me a line or two, I pray.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Demand'st thou, Pedant, too, a document?</line>
+<line>Hast never known a man, nor proved his word's intent?</line>
+<line>Is't not enough, that what I speak to-day</line>
+<line>Shall stand, with all my future days agreeing?</line>
+<line>In all its tides sweeps not the world away,</line>
+<line>And shall a promise bind my being?</line>
+<line>Yet this delusion in our hearts we bear:</line>
+<line>Who would himself therefrom deliver?</line>
+<line>Blest he, whose bosom Truth makes pure and fair!</line>
+<line>No sacrifice shall he repent of ever.</line>
+<line>Nathless a parchment, writ and stamped with care,</line>
+<line>A spectre is, which all to shun endeavor.</line>
+<line>The word, alas! dies even in the pen,</line>
+<line>And wax and leather keep the lordship then.</line>
+<line>What wilt from me, Base Spirit, say?—</line>
+<line>Brass, marble, parchment, paper, clay?</line>
+<line>The terms with graver, quill, or chisel, stated?</line>
+<line>I freely leave the choice to thee.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Why heat thyself, thus instantly,</line>
+<line>With eloquence exaggerated?</line>
+<line>Each leaf for such a pact is good;</line>
+<line>And to subscribe thy name thou'lt take a drop of blood.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>If thou therewith art fully satisfied,</line>
+<line>So let us by the farce abide.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Blood is a juice of rarest quality.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Fear not that I this pact shall seek to sever?</line>
+<line>The promise that I make to thee</line>
+<line>Is just the sum of my endeavor.</line>
+<line>I have myself inflated all too high;</line>
+<line>My proper place is thy estate:</line>
+<line>The Mighty Spirit deigns me no reply,</line>
+<line>And Nature shuts on me her gate.</line>
+<line>The thread of Thought at last is broken,</line>
+<line>And knowledge brings disgust unspoken.</line>
+<line>Let us the sensual deeps explore,</line>
+<line>To quench the fervors of glowing passion!</line>
+<line>Let every marvel take form and fashion</line>
+<line>Through the impervious veil it wore!</line>
+<line>Plunge we in Time's tumultuous dance,</line>
+<line>In the rush and roll of Circumstance!</line>
+<line>Then may delight and distress,</line>
+<line>And worry and success,</line>
+<line>Alternately follow, as best they can:</line>
+<line>Restless activity proves the man!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>For you no bound, no term is set.</line>
+<line>Whether you everywhere be trying,</line>
+<line>Or snatch a rapid bliss in flying,</line>
+<line>May it agree with you, what you get!</line>
+<line>Only fall to, and show no timid balking.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>But thou hast heard, 'tis not of joy we're talking.</line>
+<line>I take the wildering whirl, enjoyment's keenest pain,</line>
+<line>Enamored hate, exhilarant disdain.</line>
+<line>My bosom, of its thirst for knowledge sated,</line>
+<line>Shall not, henceforth, from any pang be wrested,</line>
+<line>And all of life for all mankind created</line>
+<line>Shall be within mine inmost being tested:</line>
+<line>The highest, lowest forms my soul shall borrow,</line>
+<line>Shall heap upon itself their bliss and sorrow,</line>
+<line>And thus, my own sole self to all their selves expanded,</line>
+<line>I too, at last, shall with them all be stranded!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Believe me, who for many a thousand year</line>
+<line>The same tough meat have chewed and tested,</line>
+<line>That from the cradle to the bier</line>
+<line>No man the ancient leaven has digested!</line>
+<line>Trust one of us, this Whole supernal</line>
+<line>Is made but for a God's delight!</line>
+<line>He dwells in splendor single and eternal,</line>
+<line>But us he thrusts in darkness, out of sight,</line>
+<line>And you he dowers with Day and Night.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Nay, but I will!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>A good reply!</line>
+<line>One only fear still needs repeating:</line>
+<line>The art is long, the time is fleeting.</line>
+<line>Then let thyself be taught, say I!</line>
+<line>Go, league thyself with a poet,</line>
+<line>Give the rein to his imagination,</line>
+<line>Then wear the crown, and show it,</line>
+<line>Of the qualities of his creation,—</line>
+<line>The courage of the lion's breed,</line>
+<line>The wild stag's speed,</line>
+<line>The Italian's fiery blood,</line>
+<line>The North's firm fortitude!</line>
+<line>Let him find for thee the secret tether</line>
+<line>That binds the Noble and Mean together.</line>
+<line>And teach thy pulses of youth and pleasure</line>
+<line>To love by rule, and hate by measure!</line>
+<line>I'd like, myself, such a one to see:</line>
+<line>Sir Microcosm his name should be.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>What am I, then, if 'tis denied my part</line>
+<line>The crown of all humanity to win me,</line>
+<line>Whereto yearns every sense within me?</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Why, on the whole, thou'rt—what thou art.</line>
+<line>Set wigs of million curls upon thy head, to raise thee,</line>
+<line>Wear shoes an ell in height,—the truth betrays thee,</line>
+<line>And thou remainest—what thou art.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>I feel, indeed, that I have made the treasure</line>
+<line>Of human thought and knowledge mine, in vain;</line>
+<line>And if I now sit down in restful leisure,</line>
+<line>No fount of newer strength is in my brain:</line>
+<line>I am no hair's-breadth more in height,</line>
+<line>Nor nearer, to the Infinite,</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Good Sir, you see the facts precisely</line>
+<line>As they are seen by each and all.</line>
+<line>We must arrange them now, more wisely,</line>
+<line>Before the joys of life shall pall.</line>
+<line>Why, Zounds! Both hands and feet are, truly—</line>
+<line>And head and virile forces—thine:</line>
+<line>Yet all that I indulge in newly,</line>
+<line>Is't thence less wholly mine?</line>
+<line>If I've six stallions in my stall,</line>
+<line>Are not their forces also lent me?</line>
+<line>I speed along, completest man of all,</line>
+<line>As though my legs were four-and-twenty.</line>
+<line>Take hold, then! let reflection rest,</line>
+<line>And plunge into the world with zest!</line>
+<line>I say to thee, a speculative wight</line>
+<line>Is like a beast on moorlands lean,</line>
+<line>That round and round some fiend misleads to evil plight,</line>
+<line>While all about lie pastures fresh and green.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Then how shall we begin?</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>We'll try a wider sphere.</line>
+<line>What place of martyrdom is here!</line>
+<line>Is't life, I ask, is't even prudence,</line>
+<line>To bore thyself and bore the students?</line>
+<line>Let Neighbor Paunch to that attend!</line>
+<line>Why plague thyself with threshing straw forever?</line>
+<line>The best thou learnest, in the end</line>
+<line>Thou dar'st not tell the youngsters—never!</line>
+<line>I hear one's footsteps, hither steering.</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>To see him now I have no heart.</line>
+
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>So long the poor boy waits a hearing,</line>
+<line>He must not unconsoled depart.</line>
+<line>Thy cap and mantle straightway lend me!</line>
+<line>I'll play the comedy with art.</line>
+
+<stage>(He disguises himself.)</stage>
+
+<line>My wits, be certain, will befriend me.</line>
+<line>But fifteen minutes' time is all I need;</line>
+<line>For our fine trip, meanwhile, prepare thyself with speed!</line>
+
+<stage>[Exit FAUST]
+</stage>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<stage>(In FAUST'S long mantle.)</stage>
+
+<line>Reason and Knowledge only thou despise,</line>
+<line>The highest strength in man that lies!</line>
+<line>Let but the Lying Spirit bind thee</line>
+<line>With magic works and shows that blind thee,</line>
+<line>And I shall have thee fast and sure!—</line>
+<line>Fate such a bold, untrammelled spirit gave him,</line>
+<line>As forwards, onwards, ever must endure;</line>
+<line>Whose over-hasty impulse drave him</line>
+<line>Past earthly joys he might secure.</line>
+<line>Dragged through the wildest life, will I enslave him,</line>
+<line>Through flat and stale indifference;</line>
+<line>With struggling, chilling, checking, so deprave him</line>
+<line>That, to his hot, insatiate sense,</line>
+<line>The dream of drink shall mock, but never lave him:</line>
+<line>Refreshment shall his lips in vain implore—</line>
+<line>Had he not made himself the Devil's, naught could save him,</line>
+<line>Still were he lost forevermore!</line>
+
+<stage>(A STUDENT enters.)</stage>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>A short time, only, am I here,</line>
+<line>And come, devoted and sincere,</line>
+<line>To greet and know the man of fame,</line>
+<line>Whom men to me with reverence name.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Your courtesy doth flatter me:</line>
+<line>You see a man, as others be.</line>
+<line>Have you, perchance, elsewhere begun?</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>Receive me now, I pray, as one</line>
+<line>Who comes to you with courage good,</line>
+<line>Somewhat of cash, and healthy blood:</line>
+<line>My mother was hardly willing to let me;</line>
+<line>But knowledge worth having I fain would get me.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Then you have reached the right place now.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I'd like to leave it, I must avow;</line>
+<line>I find these walls, these vaulted spaces</line>
+<line>Are anything but pleasant places.</line>
+<line>Tis all so cramped and close and mean;</line>
+<line>One sees no tree, no glimpse of green,</line>
+<line>And when the lecture-halls receive me,</line>
+<line>Seeing, hearing, and thinking leave me.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>All that depends on habitude.</line>
+<line>So from its mother's breasts a child</line>
+<line>At first, reluctant, takes its food,</line>
+<line>But soon to seek them is beguiled.</line>
+<line>Thus, at the breasts of Wisdom clinging,</line>
+<line>Thou'lt find each day a greater rapture bringing.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I'll hang thereon with joy, and freely drain them;</line>
+<line>But tell me, pray, the proper means to gain them.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Explain, before you further speak,</line>
+<line>The special faculty you seek.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I crave the highest erudition;</line>
+<line>And fain would make my acquisition</line>
+<line>All that there is in Earth and Heaven,</line>
+<line>In Nature and in Science too.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Here is the genuine path for you;</line>
+<line>Yet strict attention must be given.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>Body and soul thereon I'll wreak;</line>
+<line>Yet, truly, I've some inclination</line>
+<line>On summer holidays to seek</line>
+<line>A little freedom and recreation.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Use well your time! It flies so swiftly from us;</line>
+<line>But time through order may be won, I promise.</line>
+<line>So, Friend <stage>(my views to briefly sum)</stage>,</line>
+<line>First, the collegium logicum.</line>
+<line>There will your mind be drilled and braced,</line>
+<line>As if in Spanish boots 'twere laced,</line>
+<line>And thus, to graver paces brought,</line>
+<line>'Twill plod along the path of thought,</line>
+<line>Instead of shooting here and there,</line>
+<line>A will-o'-the-wisp in murky air.</line>
+<line>Days will be spent to bid you know,</line>
+<line>What once you did at a single blow,</line>
+<line>Like eating and drinking, free and strong,—</line>
+<line>That one, two, three! thereto belong.</line>
+<line>Truly the fabric of mental fleece</line>
+<line>Resembles a weaver's masterpiece,</line>
+<line>Where a thousand threads one treadle throws,</line>
+<line>Where fly the shuttles hither and thither.</line>
+<line>Unseen the threads are knit together.</line>
+<line>And an infinite combination grows.</line>
+<line>Then, the philosopher steps in</line>
+<line>And shows, no otherwise it could have been:</line>
+<line>The first was so, the second so,</line>
+<line>Therefore the third and fourth are so;</line>
+<line>Were not the first and second, then</line>
+<line>The third and fourth had never been.</line>
+<line>The scholars are everywhere believers,</line>
+<line>But never succeed in being weavers.</line>
+<line>He who would study organic existence,</line>
+<line>First drives out the soul with rigid persistence;</line>
+<line>Then the parts in his hand he may hold and class,</line>
+<line>But the spiritual link is lost, alas!</line>
+<line>Encheiresin natures, this Chemistry names,</line>
+<line>Nor knows how herself she banters and blames!</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I cannot understand you quite.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Your mind will shortly be set aright,</line>
+<line>When you have learned, all things reducing,</line>
+<line>To classify them for your using.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I feel as stupid, from all you've said,</line>
+<line>As if a mill-wheel whirled in my head!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>And after—first and foremost duty—Of</line>
+<line>Metaphysics learn the use and beauty!</line>
+<line>See that you most profoundly gain</line>
+<line>What does not suit the human brain!</line>
+<line>A splendid word to serve, you'll find</line>
+<line>For what goes in—or won't go in—your mind.</line>
+<line>But first, at least this half a year,</line>
+<line>To order rigidly adhere;</line>
+<line>Five hours a day, you understand,</line>
+<line>And when the clock strikes, be on hand!</line>
+<line>Prepare beforehand for your part</line>
+<line>With paragraphs all got by heart,</line>
+<line>So you can better watch, and look</line>
+<line>That naught is said but what is in the book:</line>
+<line>Yet in thy writing as unwearied be,</line>
+<line>As did the Holy Ghost dictate to thee!</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>No need to tell me twice to do it!</line>
+<line>I think, how useful 'tis to write;</line>
+<line>For what one has, in black and white,</line>
+<line>One carries home and then goes through it.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Yet choose thyself a faculty!</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I cannot reconcile myself to Jurisprudence.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Nor can I therefore greatly blame you students:</line>
+<line>I know what science this has come to be.</line>
+<line>All rights and laws are still transmitted</line>
+<line>Like an eternal sickness of the race,—</line>
+<line>From generation unto generation fitted,</line>
+<line>And shifted round from place to place.</line>
+<line>Reason becomes a sham, Beneficence a worry:</line>
+<line>Thou art a grandchild, therefore woe to thee!</line>
+<line>The right born with us, ours in verity,</line>
+<line>This to consider, there's, alas! no hurry.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>My own disgust is strengthened by your speech:</line>
+<line>O lucky he, whom you shall teach!</line>
+<line>I've almost for Theology decided.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>I should not wish to see you here misguided:</line>
+<line>For, as regards this science, let me hint</line>
+<line>'Tis very hard to shun the false direction;</line>
+<line>There's so much secret poison lurking in 't,</line>
+<line>So like the medicine, it baffles your detection.</line>
+<line>Hear, therefore, one alone, for that is best, in sooth,</line>
+<line>And simply take your master's words for truth.</line>
+<line>On words let your attention centre!</line>
+<line>Then through the safest gate you'll enter</line>
+<line>The temple-halls of Certainty.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>Yet in the word must some idea be.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Of course! But only shun too over-sharp a tension,</line>
+<line>For just where fails the comprehension,</line>
+<line>A word steps promptly in as deputy.</line>
+<line>With words 'tis excellent disputing;</line>
+<line>Systems to words 'tis easy suiting;</line>
+<line>On words 'tis excellent believing;</line>
+<line>No word can ever lose a jot from thieving.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>Pardon! With many questions I detain you.</line>
+<line>Yet must I trouble you again.</line>
+<line>Of Medicine I still would fain</line>
+<line>Hear one strong word that might explain you.</line>
+<line>Three years is but a little space.</line>
+<line>And, God! who can the field embrace?</line>
+<line>If one some index could be shown,</line>
+<line>'Twere easier groping forward, truly.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker> <stage>(aside)</stage>
+
+<line>I'm tired enough of this dry tone,—</line>
+<line>Must play the Devil again, and fully.</line>
+
+<stage>(Aloud)</stage>
+
+<line>To grasp the spirit of Medicine is easy:</line>
+<line>Learn of the great and little world your fill,</line>
+<line>To let it go at last, so please ye,</line>
+<line>Just as God will!</line>
+<line>In vain that through the realms of science you may drift;</line>
+<line>Each one learns only—just what learn he can:</line>
+<line>Yet he who grasps the Moment's gift,</line>
+<line>He is the proper man.</line>
+<line>Well-made you are, 'tis not to be denied,</line>
+<line>The rest a bold address will win you;</line>
+<line>If you but in yourself confide,</line>
+<line>At once confide all others in you.</line>
+<line>To lead the women, learn the special feeling!</line>
+<line>Their everlasting aches and groans,</line>
+<line>In thousand tones,</line>
+<line>Have all one source, one mode of healing;</line>
+<line>And if your acts are half discreet,</line>
+<line>You'll always have them at your feet.</line>
+<line>A title first must draw and interest them,</line>
+<line>And show that yours all other arts exceeds;</line>
+<line>Then, as a greeting, you are free to touch and test them,</line>
+<line>While, thus to do, for years another pleads.</line>
+<line>You press and count the pulse's dances,</line>
+<line>And then, with burning sidelong glances,</line>
+<line>You clasp the swelling hips, to see</line>
+<line>If tightly laced her corsets be.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>That's better, now! The How and Where, one sees.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>My worthy friend, gray are all theories,</line>
+<line>And green alone Life's golden tree.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I swear to you, 'tis like a dream to me.</line>
+<line>Might I again presume, with trust unbounded,</line>
+<line>To hear your wisdom thoroughly expounded?</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Most willingly, to what extent I may.</line>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker>
+
+<line>I cannot really go away:</line>
+<line>Allow me that my album first I reach you,—</line>
+<line>Grant me this favor, I beseech you!</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Assuredly.</line>
+
+<stage>(He writes, and returns the book.)</stage>
+
+</sp>
+
+<sp>
+<speaker>STUDENT</speaker> <stage>(reads)</stage>
+
+<line>Eritis sicut Deus, scientes bonum et malum.</line>
+<stage>(Closes the book with reverence, and withdraws)</stage>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>Follow the ancient text, and the snake thou wast ordered to trample!</line>
+<line>With all thy likeness to God, thou'lt yet be a sorry example!</line>
+
+<stage>(FAUST enters.)</stage>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Now, whither shall we go?</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>As best it pleases thee.</line>
+<line>The little world, and then the great, we'll see.</line>
+<line>With what delight, what profit winning,</line>
+<line>Shalt thou sponge through the term beginning!</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>Yet with the flowing beard I wear,</line>
+<line>Both ease and grace will fail me there.</line>
+<line>The attempt, indeed, were a futile strife;</line>
+<line>I never could learn the ways of life.</line>
+<line>I feel so small before others, and thence</line>
+<line>Should always find embarrassments.</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>My friend, thou soon shalt lose all such misgiving:</line>
+<line>Be thou but self-possessed, thou hast the art of living!</line>
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<line>How shall we leave the house, and start?</line>
+<line>Where hast thou servant, coach and horses?</line>
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<line>We'll spread this cloak with proper art,</line>
+<line>Then through the air direct our courses.</line>
+<line>But only, on so bold a flight,</line>
+<line>Be sure to have thy luggage light.</line>
+<line>A little burning air, which I shall soon prepare us,</line>
+<line>Above the earth will nimbly bear us,</line>
+<line>And, if we're light, we'll travel swift and clear:</line>
+<line>I gratulate thee on thy new career!</line>
+
+</sp>
+
+</scene>
