@@ -9,7 +9,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>A knock? Come in! Again my quiet broken?</line>
+<earthly><line>A knock? Come in! Again my quiet broken?</line></earthly>
 
 </sp>
 
@@ -23,7 +23,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Come in!</line>
+<divine><line>Come in!</line></divine>
 
 </sp>
 
@@ -37,7 +37,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Come in, then!</line>
+<divine><line>Come in, then!</line></divine>
 
 </sp>
 
@@ -62,34 +62,34 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>This life of earth, whatever my attire,</line>
-<line>Would pain me in its wonted fashion.</line>
-<line>Too old am I to play with passion;</line>
-<line>Too young, to be without desire.</line>
-<line>What from the world have I to gain?</line>
-<line>Thou shalt abstain—renounce—refrain!</line>
-<line>Such is the everlasting song</line>
+<divine><line>This life of earth, whatever my attire,</line>
+<line>Would pain me in its wonted fashion.</line></divine>
+<earthly><line>Too old am I to play with passion;</line>
+<line>Too young, to be without desire.</line></earthly>
+<divine><line>What from the world have I to gain?</line></divine>
+<earthly><line>Thou shalt abstain—renounce—refrain!</line></earthly>
+<earthly><line>Such is the everlasting song</line>
 <line>That in the ears of all men rings,—</line>
 <line>That unrelieved, our whole life long,</line>
-<line>Each hour, in passing, hoarsely sings.</line>
-<line>In very terror I at morn awake,</line>
+<line>Each hour, in passing, hoarsely sings.</line></earthly>
+<divine><line>In very terror I at morn awake,</line>
 <line>Upon the verge of bitter weeping,</line>
 <line>To see the day of disappointment break,</line>
 <line>To no one hope of mine—not one—its promise keeping:—</line>
 <line>That even each joy's presentiment</line>
 <line>With wilful cavil would diminish,</line>
 <line>With grinning masks of life prevent</line>
-<line>My mind its fairest work to finish!</line>
-<line>Then, too, when night descends, how anxiously</line>
+<line>My mind its fairest work to finish!</line></divine>
+<earthly><line>Then, too, when night descends, how anxiously</line>
 <line>Upon my couch of sleep I lay me:</line>
 <line>There, also, comes no rest to me,</line>
-<line>But some wild dream is sent to fray me.</line>
-<line>The God that in my breast is owned</line>
+<line>But some wild dream is sent to fray me.</line></earthly>
+<divine><line>The God that in my breast is owned</line>
 <line>Can deeply stir the inner sources;</line>
 <line>The God, above my powers enthroned,</line>
-<line>He cannot change external forces.</line>
-<line>So, by the burden of my days oppressed,</line>
-<line>Death is desired, and Life a thing unblest!</line>
+<line>He cannot change external forces.</line></divine>
+<earthly><line>So, by the burden of my days oppressed,</line>
+<line>Death is desired, and Life a thing unblest!</line></earthly>
 
 </sp>
 
@@ -103,12 +103,12 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>O fortunate, for whom, when victory glances,</line>
-<line>The bloody laurels on the brow he bindeth!</line>
-<line>Whom, after rapid, maddening dances,</line>
-<line>In clasping maiden-arms he findeth!</line>
-<line>O would that I, before that spirit-power,</line>
-<line>Ravished and rapt from life, had sunken!</line>
+<earthly><line>O fortunate, for whom, when victory glances,</line>
+<line>The bloody laurels on the brow he bindeth!</line></earthly>
+<earthly><line>Whom, after rapid, maddening dances,</line>
+<line>In clasping maiden-arms he findeth!</line></earthly>
+<earthly><line>O would that I, before that spirit-power,</line>
+<line>Ravished and rapt from life, had sunken!</line></earthly>
 
 </sp>
 
@@ -123,7 +123,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Eavesdropping, ha! thy pleasure seems to be.</line>
+<divine><line>Eavesdropping, ha! thy pleasure seems to be.</line></divine>
 
 </sp>
 
@@ -137,30 +137,30 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Though some familiar tone, retrieving</line>
+<divine><line>Though some familiar tone, retrieving</line>
 <line>My thoughts from torment, led me on,</line>
 <line>And sweet, clear echoes came, deceiving</line>
-<line>A faith bequeathed from Childhood's dawn,</line>
-<line>Yet now I curse whate'er entices</line>
+<line>A faith bequeathed from Childhood's dawn,</line></divine>
+<earthly><line>Yet now I curse whate'er entices</line>
 <line>And snares the soul with visions vain;</line>
 <line>With dazzling cheats and dear devices</line>
-<line>Confines it in this cave of pain!</line>
-<line>Cursed be, at once, the high ambition</line>
-<line>Wherewith the mind itself deludes!</line>
-<line>Cursed be the glare of apparition</line>
-<line>That on the finer sense intrudes!</line>
-<line>Cursed be the lying dream's impression</line>
-<line>Of name, and fame, and laurelled brow!</line>
-<line>Cursed, all that flatters as possession,</line>
-<line>As wife and child, as knave and plow!</line>
-<line>Cursed Mammon be, when he with treasures</line>
-<line>To restless action spurs our fate!</line>
-<line>Cursed when, for soft, indulgent leisures,</line>
-<line>He lays for us the pillows straight!</line>
-<line>Cursed be the vine's transcendent nectar,—</line>
-<line>The highest favor Love lets fall!</line>
-<line>Cursed, also, Hope!—cursed Faith, the spectre!</line>
-<line>And cursed be Patience most of all!</line>
+<line>Confines it in this cave of pain!</line></earthly>
+<earthly><line>Cursed be, at once, the high ambition</line>
+<line>Wherewith the mind itself deludes!</line></earthly>
+<earthly><line>Cursed be the glare of apparition</line>
+<line>That on the finer sense intrudes!</line></earthly>
+<earthly><line>Cursed be the lying dream's impression</line>
+<line>Of name, and fame, and laurelled brow!</line></earthly>
+<earthly><line>Cursed, all that flatters as possession,</line>
+<line>As wife and child, as knave and plow!</line></earthly>
+<earthly><line>Cursed Mammon be, when he with treasures</line>
+<line>To restless action spurs our fate!</line></earthly>
+<earthly><line>Cursed when, for soft, indulgent leisures,</line>
+<line>He lays for us the pillows straight!</line></earthly>
+<earthly><line>Cursed be the vine's transcendent nectar,—</line>
+<line>The highest favor Love lets fall!</line></earthly>
+<earthly><line>Cursed, also, Hope!—cursed Faith, the spectre!</line></earthly>
+<earthly><line>And cursed be Patience most of all!</line></earthly>
 
 </sp>
 
@@ -221,7 +221,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>And what shall be my counter-service therefor?</line>
+<divine><line>And what shall be my counter-service therefor?</line></divine>
 
 </sp>
 
@@ -235,12 +235,12 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>No—no! The Devil is an egotist,</line>
+<divine><line>No—no! The Devil is an egotist,</line>
 <line>And is not apt, without a why or wherefore,</line>
-<line>"For God's sake," others to assist.</line>
-<line>Speak thy conditions plain and clear!</line>
+<line>"For God's sake," others to assist.</line></divine>
+<divine><line>Speak thy conditions plain and clear!</line>
 <line>With such a servant danger comes, I fear.</line>
-
+</divine>
 </sp>
 
 <sp>
@@ -256,17 +256,17 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>The There my scruples naught increases.</line>
-<line>When thou hast dashed this world to pieces,</line>
-<line>The other, then, its place may fill.</line>
-<line>Here, on this earth, my pleasures have their sources;</line>
+<divine><line>The There my scruples naught increases.</line></divine>
+<earthly><line>When thou hast dashed this world to pieces,</line>
+<line>The other, then, its place may fill.</line></earthly>
+<<earthly>line>Here, on this earth, my pleasures have their sources;</line>
 <line>Yon sun beholds my sorrows in his courses;</line>
 <line>And when from these my life itself divorces,</line>
-<line>Let happen all that can or will!</line>
-<line>I'll hear no more: 'tis vain to ponder</line>
+<line>Let happen all that can or will!</line></earthly>
+<divine><line>I'll hear no more: 'tis vain to ponder</line>
 <line>If there we cherish love or hate,</line>
 <line>Or, in the spheres we dream of yonder,</line>
-<line>A High and Low our souls await.</line>
+<line>A High and Low our souls await.</line></divine>
 
 </sp>
 
@@ -283,10 +283,10 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Canst thou, poor Devil, give me whatsoever?</line>
-<line>When was a human soul, in its supreme endeavor,</line>
-<line>E'er understood by such as thou?</line>
-<line>Yet, hast thou food which never satiates, now,—</line>
+<divine><line>Canst thou, poor Devil, give me whatsoever?</line></divine>
+<divine><line>When was a human soul, in its supreme endeavor,</line>
+<line>E'er understood by such as thou?</line></divine>
+<divine><line>Yet, hast thou food which never satiates, now,—</line>
 <line>The restless, ruddy gold hast thou,</line>
 <line>That runs, quicksilver-like, one's fingers through,—</line>
 <line>A game whose winnings no man ever knew,—</line>
@@ -295,7 +295,7 @@
 <line>And Honor's godlike zest,</line>
 <line>The meteor that a moment dances,—</line>
 <line>Show me the fruits that, ere they're gathered, rot,</line>
-<line>And trees that daily with new leafage clothe them!</line>
+<line>And trees that daily with new leafage clothe them!</line></divine>
 
 </sp>
 
@@ -312,13 +312,13 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>When on an idler's bed I stretch myself in quiet.</line>
-<line>There let, at once, my record end!</line>
-<line>Canst thou with lying flattery rule me,</line>
+<divine><line>When on an idler's bed I stretch myself in quiet.</line>
+<line>There let, at once, my record end!</line></divine>
+<divine><line>Canst thou with lying flattery rule me,</line>
 <line>Until, self-pleased, myself I see,—</line>
 <line>Canst thou with rich enjoyment fool me,</line>
-<line>Let that day be the last for me!</line>
-<line>The bet I offer.</line>
+<line>Let that day be the last for me!</line></divine>
+<divine><line>The bet I offer.</line></divine>
 
 </sp>
 
@@ -332,15 +332,15 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>And heartily!</line>
-<line>When thus I hail the Moment flying:</line>
+<divine><line>And heartily!</line></divine>
+<divine><line>When thus I hail the Moment flying:</line>
 <line>"Ah, still delay—thou art so fair!"</line>
 <line>Then bind me in thy bonds undying,</line>
-<line>My final ruin then declare!</line>
-<line>Then let the death-bell chime the token.</line>
-<line>Then art thou from thy service free!</line>
-<line>The clock may stop, the hand be broken,</line>
-<line>Then Time be finished unto me!</line>
+<line>My final ruin then declare!</line></divine>
+<divine><line>Then let the death-bell chime the token.</line>
+<line>Then art thou from thy service free!</line></divine>
+<divine><line>The clock may stop, the hand be broken,</line>
+<line>Then Time be finished unto me!</line></divine>
 
 </sp>
 
@@ -354,10 +354,10 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Thou hast a perfect right thereto.</line>
-<line>My powers I have not rashly estimated:</line>
+<divine><line>Thou hast a perfect right thereto.</line></divine>
+<divine><line>My powers I have not rashly estimated:</line>
 <line>A slave am I, whate'er I do—</line>
-<line>If thine, or whose? 'tis needless to debate it.</line>
+<line>If thine, or whose? 'tis needless to debate it.</line></divine>
 
 </sp>
 
@@ -374,24 +374,24 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Demand'st thou, Pedant, too, a document?</line>
-<line>Hast never known a man, nor proved his word's intent?</line>
-<line>Is't not enough, that what I speak to-day</line>
-<line>Shall stand, with all my future days agreeing?</line>
-<line>In all its tides sweeps not the world away,</line>
-<line>And shall a promise bind my being?</line>
-<line>Yet this delusion in our hearts we bear:</line>
-<line>Who would himself therefrom deliver?</line>
-<line>Blest he, whose bosom Truth makes pure and fair!</line>
-<line>No sacrifice shall he repent of ever.</line>
-<line>Nathless a parchment, writ and stamped with care,</line>
-<line>A spectre is, which all to shun endeavor.</line>
-<line>The word, alas! dies even in the pen,</line>
-<line>And wax and leather keep the lordship then.</line>
-<line>What wilt from me, Base Spirit, say?—</line>
+<divine><line>Demand'st thou, Pedant, too, a document?</line>
+<line>Hast never known a man, nor proved his word's intent?</line></divine>
+<divine><line>Is't not enough, that what I speak to-day</line>
+<line>Shall stand, with all my future days agreeing?</line></divine>
+<divine><line>In all its tides sweeps not the world away,</line>
+<line>And shall a promise bind my being?</line></divine>
+<earthly><line>Yet this delusion in our hearts we bear:</line>
+<line>Who would himself therefrom deliver?</line></earthly>
+<divine><line>Blest he, whose bosom Truth makes pure and fair!</line>
+<line>No sacrifice shall he repent of ever.</line></divine>
+<divine><line>Nathless a parchment, writ and stamped with care,</line>
+<line>A spectre is, which all to shun endeavor.</line></divine>
+<earthly><line>The word, alas! dies even in the pen,</line>
+<line>And wax and leather keep the lordship then.</line></earthly>
+<divine><line>What wilt from me, Base Spirit, say?—</line>
 <line>Brass, marble, parchment, paper, clay?</line>
 <line>The terms with graver, quill, or chisel, stated?</line>
-<line>I freely leave the choice to thee.</line>
+<line>I freely leave the choice to thee.</line></divine>
 
 </sp>
 
@@ -408,8 +408,8 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>If thou therewith art fully satisfied,</line>
-<line>So let us by the farce abide.</line>
+<divine><line>If thou therewith art fully satisfied,</line>
+<line>So let us by the farce abide.</line></divine>
 
 </sp>
 
@@ -423,25 +423,25 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Fear not that I this pact shall seek to sever?</line>
-<line>The promise that I make to thee</line>
-<line>Is just the sum of my endeavor.</line>
-<line>I have myself inflated all too high;</line>
+<divine><line>Fear not that I this pact shall seek to sever?</line></divine>
+<divine><line>The promise that I make to thee</line>
+<line>Is just the sum of my endeavor.</line></divine>
+<earthly><line>I have myself inflated all too high;</line>
 <line>My proper place is thy estate:</line>
 <line>The Mighty Spirit deigns me no reply,</line>
-<line>And Nature shuts on me her gate.</line>
-<line>The thread of Thought at last is broken,</line>
-<line>And knowledge brings disgust unspoken.</line>
-<line>Let us the sensual deeps explore,</line>
-<line>To quench the fervors of glowing passion!</line>
-<line>Let every marvel take form and fashion</line>
-<line>Through the impervious veil it wore!</line>
-<line>Plunge we in Time's tumultuous dance,</line>
-<line>In the rush and roll of Circumstance!</line>
-<line>Then may delight and distress,</line>
+<line>And Nature shuts on me her gate.</line></earthly>
+<earthly><line>The thread of Thought at last is broken,</line>
+<line>And knowledge brings disgust unspoken.</line></earthly>
+<earthly><line>Let us the sensual deeps explore,</line>
+<line>To quench the fervors of glowing passion!</line></earthly>
+<earthly><line>Let every marvel take form and fashion</line>
+<line>Through the impervious veil it wore!</line></earthly>
+<earthly><line>Plunge we in Time's tumultuous dance,</line>
+<line>In the rush and roll of Circumstance!</line></earthly>
+<earthly><line>Then may delight and distress,</line>
 <line>And worry and success,</line>
 <line>Alternately follow, as best they can:</line>
-<line>Restless activity proves the man!</line>
+<line>Restless activity proves the man!</line></earthly>
 
 </sp>
 
@@ -459,17 +459,17 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>But thou hast heard, 'tis not of joy we're talking.</line>
-<line>I take the wildering whirl, enjoyment's keenest pain,</line>
-<line>Enamored hate, exhilarant disdain.</line>
-<line>My bosom, of its thirst for knowledge sated,</line>
+<earthly><line>But thou hast heard, 'tis not of joy we're talking.</line></earthly>
+<earthly><line>I take the wildering whirl, enjoyment's keenest pain,</line>
+<line>Enamored hate, exhilarant disdain.</line></earthly>
+<divine><line>My bosom, of its thirst for knowledge sated,</line>
 <line>Shall not, henceforth, from any pang be wrested,</line>
 <line>And all of life for all mankind created</line>
-<line>Shall be within mine inmost being tested:</line>
-<line>The highest, lowest forms my soul shall borrow,</line>
+<line>Shall be within mine inmost being tested:</line></divine>
+<divine><line>The highest, lowest forms my soul shall borrow,</line>
 <line>Shall heap upon itself their bliss and sorrow,</line>
 <line>And thus, my own sole self to all their selves expanded,</line>
-<line>I too, at last, shall with them all be stranded!</line>
+<line>I too, at last, shall with them all be stranded!</line></divine>
 
 </sp>
 
@@ -491,7 +491,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Nay, but I will!</line>
+<divine><line>Nay, but I will!</line></divine>
 
 </sp>
 
@@ -522,9 +522,9 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>What am I, then, if 'tis denied my part</line>
+<earthly><line>What am I, then, if 'tis denied my part</line>
 <line>The crown of all humanity to win me,</line>
-<line>Whereto yearns every sense within me?</line>
+<line>Whereto yearns every sense within me?</line></earthly>
 
 </sp>
 
@@ -541,12 +541,12 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>I feel, indeed, that I have made the treasure</line>
-<line>Of human thought and knowledge mine, in vain;</line>
-<line>And if I now sit down in restful leisure,</line>
-<line>No fount of newer strength is in my brain:</line>
-<line>I am no hair's-breadth more in height,</line>
-<line>Nor nearer, to the Infinite,</line>
+<earthly><line>I feel, indeed, that I have made the treasure</line>
+<line>Of human thought and knowledge mine, in vain;</line></earthly>
+<earthly><line>And if I now sit down in restful leisure,</line>
+<line>No fount of newer strength is in my brain:</line></earthly>
+<earthly><line>I am no hair's-breadth more in height,</line>
+<line>Nor nearer, to the Infinite,</line></earthly>
 
 </sp>
 
@@ -577,7 +577,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Then how shall we begin?</line>
+<divine><line>Then how shall we begin?</line></divine>
 
 </sp>
 
@@ -599,7 +599,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>To see him now I have no heart.</line>
+<earthly><line>To see him now I have no heart.</line></earthly>
 
 <speaker>MEPHISTOPHELES</speaker>
 
@@ -1044,7 +1044,7 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Now, whither shall we go?</line>
+<divine><line>Now, whither shall we go?</line></divine>
 
 </sp>
 
@@ -1061,12 +1061,12 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>Yet with the flowing beard I wear,</line>
-<line>Both ease and grace will fail me there.</line>
-<line>The attempt, indeed, were a futile strife;</line>
-<line>I never could learn the ways of life.</line>
-<line>I feel so small before others, and thence</line>
-<line>Should always find embarrassments.</line>
+<earthly><line>Yet with the flowing beard I wear,</line>
+<line>Both ease and grace will fail me there.</line></earthly>
+<earthly><line>The attempt, indeed, were a futile strife;</line>
+<line>I never could learn the ways of life.</line></earthly>
+<earthly><line>I feel so small before others, and thence</line>
+<line>Should always find embarrassments.</line></earthly>
 
 </sp>
 
@@ -1081,9 +1081,9 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<line>How shall we leave the house, and start?</line>
+<divine><line>How shall we leave the house, and start?</line>
 <line>Where hast thou servant, coach and horses?</line>
-
+</divine>
 </sp>
 
 <sp>

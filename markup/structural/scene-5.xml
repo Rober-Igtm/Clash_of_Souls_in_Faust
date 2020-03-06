@@ -257,10 +257,12 @@
         <speaker>MEPHISTOPHELES <stage>(to FAUST)</stage></speaker>
 
         <line>Not if he had them by the neck, I vow,</line>
-        <line>Would e'er these people scent the Devil!</line>
+        <line>Would e'er these people scent the Devil!</line></sp>
 
-        <line>FAUST Fair greeting, gentlemen!</line>
-    </sp>
+       <sp>
+           <speaker>FAUST</speaker>
+           <earthly><line> Fair greeting, gentlemen!</line></sp></earthly>
+    
     <sp>
         <speaker>SIEBEL</speaker>
 
@@ -605,7 +607,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <line>To leave them is my inclination.</line>
+        <divine><line>To leave them is my inclination.</line></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
