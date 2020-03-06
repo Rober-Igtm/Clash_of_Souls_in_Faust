@@ -6,8 +6,8 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Fair lady, let it not offend you,</l>
-        <l>That arm and escort I would lend you!</l>
+        <earthly><l>Fair lady, let it not offend you,</l>
+        <l>That arm and escort I would lend you!</l></earthly>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
@@ -17,21 +17,21 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>By Heaven, the girl is wondrous fair!</l>
+        <divine><l>By Heaven, the girl is wondrous fair!</l>
         <l>Of all I've seen, beyond compare;</l>
         <l>So sweetly virtuous and pure,</l>
-        <l>And yet a little pert, be sure!</l>
-        <l>The lip so red, the cheek's clear dawn,</l>
-        <l>I'll not forget while the world rolls on!</l>
-        <l>How she cast down her timid eyes,</l>
+        <l>And yet a little pert, be sure!</l></divine>
+        <earthly><l>The lip so red, the cheek's clear dawn,</l>
+        <l>I'll not forget while the world rolls on!</l></earthly>
+        <earthly><l>How she cast down her timid eyes,</l>
         <l>Deep in my heart imprinted lies:</l>
         <l>How short and sharp of speech was she,</l>
-        <l>Why, 'twas a real ecstasy!</l>
+        <l>Why, 'twas a real ecstasy!</l></earthly>
         <stage>(MEPHISTOPHELES enters)</stage>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Hear, of that girl I'd have possession!</l>
+        <earthly><l>Hear, of that girl I'd have possession!</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -39,7 +39,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>The one who just went by.</l>
+        <earthly><l>The one who just went by.</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -52,7 +52,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>And yet, she's older than fourteen.</l>
+        <earthly><l>And yet, she's older than fourteen.</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -64,12 +64,12 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Most Worthy Pedagogue, take heed!</l>
-        <l>Let not a word of moral law be spoken!</l>
-        <l>I claim, I tell thee, all my right;</l>
+        <earthly><l>Most Worthy Pedagogue, take heed!</l>
+        <l>Let not a word of moral law be spoken!</l></earthly>
+        <earthly><l>I claim, I tell thee, all my right;</l>
         <l>And if that image of delight</l>
         <l>Rest not within mine arms to-night,</l>
-        <l>At midnight is our compact broken.</l>
+        <l>At midnight is our compact broken.</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -79,9 +79,9 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Had I but seven hours for all,</l>
+        <earthly><l>Had I but seven hours for all,</l>
         <l>I should not on the Devil call,</l>
-        <l>But win her by my own persuasion.</l>
+        <l>But win her by my own persuasion.</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -96,7 +96,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Without that, I have appetite.</l>
+        <earthly><l>Without that, I have appetite.</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -108,10 +108,10 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Get me something the angel keeps!</l>
-        <l>Lead me thither where she sleeps!</l>
-        <l>Get me a kerchief from her breast,—</l>
-        <l>A garter that her knee has pressed!</l>
+        <earthly><l>Get me something the angel keeps!</l></earthly>
+        <earthly><l>Lead me thither where she sleeps!</l></earthly>
+        <earthly><l>Get me a kerchief from her breast,—</l>
+        <l>A garter that her knee has pressed!</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -122,7 +122,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>And shall I see—possess her?</l>
+        <earthly><l>And shall I see—possess her?</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -134,7 +134,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Can we go thither?</l>
+        <earthly><l>Can we go thither?</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -142,7 +142,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>A gift for her I bid thee get!</l>
+        <earthly><l>A gift for her I bid thee get!</l></earthly>
         <stage>[Exit.</stage>
     </sp>
     <sp>

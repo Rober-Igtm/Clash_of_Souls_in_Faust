@@ -24,7 +24,7 @@
         <speaker>FAUST</speaker>
         <stage>(after a moment's silence)</stage>
 
-        <l>Leave me alone, I beg of thee!</l>
+        <earthly><l>Leave me alone, I beg of thee!</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -34,60 +34,58 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <stage>(looking around)</stage>
+        <earthly><stage>(looking around)</stage></earthly>
 
-        <l>O welcome, twilight soft and sweet,</l>
-        <l>That breathes throughout this hallowed shrine!</l>
-        <l>Sweet pain of love, bind thou with fetters fleet</l>
-        <l>The heart that on the dew of hope must pine!</l>
-        <l>How all around a sense impresses</l>
-        <l>Of quiet, order, and content!</l>
-        <l>This poverty what bounty blesses!</l>
-        <l>What bliss within this narrow den is pent!</l>
+        <earthly><l>O welcome, twilight soft and sweet,</l>
+        <l>That breathes throughout this hallowed shrine!</l></earthly>
+        <earthly><l>Sweet pain of love, bind thou with fetters fleet</l>
+        <l>The heart that on the dew of hope must pine!</l></earthly>
+        <divine><l>How all around a sense impresses</l>
+        <l>Of quiet, order, and content!</l></divine>
+        <earthly><l>This poverty what bounty blesses!</l>
+        <l>What bliss within this narrow den is pent!</l></earthly>
 
-        <stage>(He throws himself into a leathern arm-chair near the bed.)</stage>
-
-        <l>Receive me, thou, that in thine open arms</l>
-        <l>Departed joy and pain wert wont to gather!</l>
-        <l>How oft the children, with their ruddy charms,</l>
-        <l>Hung here, around this throne, where sat the father!</l>
-        <l>Perchance my love, amid the childish band,</l>
+        <earthly><stage>(He throws himself into a leathern arm-chair near the bed.)</stage></earthly>
+        <earthly><l>Receive me, thou, that in thine open arms</l>
+        <l>Departed joy and pain wert wont to gather!</l></earthly>
+        <divine><l>How oft the children, with their ruddy charms,</l>
+        <l>Hung here, around this throne, where sat the father!</l></divine>
+        <divine><l>Perchance my love, amid the childish band,</l>
         <l>Grateful for gifts the Holy Christmas gave her,</l>
-        <l>Here meekly kissed the grandsire's withered hand.</l>
-        <l>I feel, O maid! thy very soul</l>
+        <l>Here meekly kissed the grandsire's withered hand.</l></divine>
+        <earthly><l>I feel, O maid! thy very soul</l>
         <l>Of order and content around me whisper,—</l>
         <l>Which leads thee with its motherly control,</l>
         <l>The cloth upon thy board bids smoothly thee unroll,</l>
-        <l>The sand beneath thy feet makes whiter, crisper.</l>
-        <l>O dearest hand, to thee 'tis given</l>
-        <l>To change this hut into a lower heaven!</l>
-        <l>And here!</l>
+        <l>The sand beneath thy feet makes whiter, crisper.</l></earthly>
+        <earthly><l>O dearest hand, to thee 'tis given</l>
+        <l>To change this hut into a lower heaven!</l></earthly>
+        <earthly><l>And here!</l></earthly>
 
-        <stage>(He lifts one of the bed-curtains.)</stage>
+        <earthly><stage>(He lifts one of the bed-curtains.)</stage></earthly>
 
-        <l>What sweetest thrill is in my blood!</l>
-        <l>Here could I spend whole hours, delaying:</l>
+        <earthly><l>What sweetest thrill is in my blood!</l></earthly>
+        <earthly><l>Here could I spend whole hours, delaying:</l>
         <l>Here Nature shaped, as if in sportive playing,</l>
-        <l>The angel blossom from the bud.</l>
-        <l>Here lay the child, with Life's warm essence</l>
+        <l>The angel blossom from the bud.</l></earthly>
+        <divine><l>Here lay the child, with Life's warm essence</l>
         <l>The tender bosom filled and fair,</l>
         <l>And here was wrought, through holier, purer presence,</l>
-        <l>The form diviner beings wear!</l>
+        <l>The form diviner beings wear!</l></divine>
+        <divine><l>And I? What drew me here with power?</l>
+        <l>How deeply am I moved, this hour!</l></divine>
+        <divine><l>What seek I? Why so full my heart, and sore?</l></divine>
+        <divine><l>Miserable Faust! I know thee now no more.</l></divine>
 
-        <l>And I? What drew me here with power?</l>
-        <l>How deeply am I moved, this hour!</l>
-        <l>What seek I? Why so full my heart, and sore?</l>
-        <l>Miserable Faust! I know thee now no more.</l>
+        <earthly><l>Is there a magic vapor here?</l></earthly>
+        <earthly><l>I came, with lust of instant pleasure,</l>
+        <l>And lie dissolved in dreams of love's sweet leisure!</l></earthly>
+        <earthly><l>Are we the sport of every changeful atmosphere?</l></earthly>
 
-        <l>Is there a magic vapor here?</l>
-        <l>I came, with lust of instant pleasure,</l>
-        <l>And lie dissolved in dreams of love's sweet leisure!</l>
-        <l>Are we the sport of every changeful atmosphere?</l>
-
-        <l>And if, this moment, came she in to me,</l>
-        <l>How would I for the fault atonement render!</l>
-        <l>How small the giant lout would be,</l>
-        <l>Prone at her feet, relaxed and tender!</l>
+        <earthly><l>And if, this moment, came she in to me,</l>
+        <l>How would I for the fault atonement render!</l></earthly>
+        <earthly><l>How small the giant lout would be,</l>
+        <l>Prone at her feet, relaxed and tender!</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -97,7 +95,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Go! go! I never will retreat.</l>
+        <earthly><l>Go! go! I never will retreat.</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -113,7 +111,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>I know not, should I do it?</l>
+        <earthly><l>I know not, should I do it?</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>

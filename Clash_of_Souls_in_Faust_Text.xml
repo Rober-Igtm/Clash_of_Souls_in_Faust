@@ -518,9 +518,9 @@
 <speech soul="earthly"><l>I&apos;ve studied now Philosophy</l>
 <l>And Jurisprudence, Medicine,—</l>
 <l>And even, alas! Theology,—</l></speech>
-<earthly><l>From end to end, with labor keen;</l>
+<speech soul="earthly"><l>From end to end, with labor keen;</l>
 <l>And here, poor fool! with all my lore</l>
-<l>I stand, no wiser than before:</l></earthly>
+<l>I stand, no wiser than before:</l></speech>
 <speech soul="earthly"><l>I&apos;m Magister—yea, Doctor—hight,</l>
 <l>And straight or cross-wise, wrong or right,</l>
 <l>These ten years long, with many woes,</l>

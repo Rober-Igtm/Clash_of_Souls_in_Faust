@@ -8,16 +8,16 @@
     <sp>
         <speaker>FAUST MEPHISTOPHELES</speaker>
         <speaker>FAUST</speaker>
-        <l>These crazy signs of witches' craft repel me!</l>
-        <l>I shall recover, dost thou tell me,</l>
-        <l>Through this insane, chaotic play?</l>
-        <l>From an old hag shall I demand assistance?</l>
-        <l>And will her foul mess take away</l>
-        <l>Full thirty years from my existence?</l>
-        <l>Woe's me, canst thou naught better find!</l>
-        <l>Another baffled hope must be lamented:</l>
+       <divine> <l>These crazy signs of witches' craft repel me!</l></divine>
+        <divine><l>I shall recover, dost thou tell me,</l>
+        <l>Through this insane, chaotic play?</l></divine>
+        <divine><l>From an old hag shall I demand assistance?</l></divine>
+        <divine><l>And will her foul mess take away</l>
+        <l>Full thirty years from my existence?</l></divine>
+        <divine><l>Woe's me, canst thou naught better find!</l></divine>
+        <divine><l>Another baffled hope must be lamented:</l>
         <l>Has Nature, then, and has a noble mind</l>
-        <l>Not any potent balsam yet invented?</l>
+        <l>Not any potent balsam yet invented?</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -28,7 +28,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Yet will I know it.</l>
+        <earthly><l>Yet will I know it.</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -46,9 +46,9 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>I am not used to that; I cannot stoop to try it—</l>
-        <l>To take the spade in hand, and ply it.</l>
-        <l>The narrow being suits me not at all.</l>
+        <divine><l>I am not used to that; I cannot stoop to try it—</l>
+        <l>To take the spade in hand, and ply it.</l></divine>
+        <divine><l>The narrow being suits me not at all.</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -56,8 +56,8 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Wherefore the hag, and her alone?</l>
-        <l>Canst thou thyself not brew the potion?</l>
+        <earthly><l>Wherefore the hag, and her alone?</l></earthly>
+        <earthly><l>Canst thou thyself not brew the potion?</l></earthly>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -188,20 +188,20 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <stage>(who during all this time has been standing before a mirror, now approaching and now
-            retreating from it)</stage>
-        <l>What do I see? What heavenly form revealed</l>
-        <l>Shows through the glass from Magic's fair dominions!</l>
-        <l>O lend me, Love, the swiftest of thy pinions,</l>
-        <l>And bear me to her beauteous field!</l>
-        <l>Ah, if I leave this spot with fond designing,</l>
+        <divine><stage>(who during all this time has been standing before a mirror, now approaching and now
+            retreating from it)</stage></divine>
+        <divine><l>What do I see? What heavenly form revealed</l>
+        <l>Shows through the glass from Magic's fair dominions!</l></divine>
+        <divine><l>O lend me, Love, the swiftest of thy pinions,</l>
+        <l>And bear me to her beauteous field!</l></divine>
+        <divine><l>Ah, if I leave this spot with fond designing,</l>
         <l>If I attempt to venture near,</l>
-        <l>Dim, as through gathering mist, her charms appear!—</l>
-        <l>A woman's form, in beauty shining!</l>
-        <l>Can woman, then, so lovely be?</l>
-        <l>And must I find her body, there reclining,</l>
-        <l>Of all the heavens the bright epitome?</l>
-        <l>Can Earth with such a thing be mated?</l>
+        <l>Dim, as through gathering mist, her charms appear!—</l></divine>
+        <divine><l>A woman's form, in beauty shining!</l></divine>
+        <divine><l>Can woman, then, so lovely be?</l></divine>
+        <divine><l>And must I find her body, there reclining,</l>
+        <l>Of all the heavens the bright epitome?</l></divine>
+        <divine><l>Can Earth with such a thing be mated?</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -233,7 +233,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <stage>(before the mirror)</stage>
-        <l>Woe's me! I fear to lose my wits.</l>
+        <divine><l>Woe's me! I fear to lose my wits.</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -249,8 +249,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <stage>(as above)</stage>
-        <l>My bosom burns with that sweet vision;</l>
-        <l>Let us, with speed, away from here!</l>
+        <divine><l>My bosom burns with that sweet vision;</l>
+        <l>Let us, with speed, away from here!</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -392,10 +392,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <stage>(to MEPHISTOPHELES)</stage>
-        <l>Now, what shall come of this? the creatures antic,</l>
+        <divine><l>Now, what shall come of this? the creatures antic,</l>
         <l>The crazy stuff, the gestures frantic,—</l>
         <l>All the repulsive cheats I view,—</l>
-        <l>Are known to me, and hated, too.</l>
+        <l>Are known to me, and hated, too.</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -424,7 +424,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>She talks like one who raves in fever.</l>
+        <divine><l>She talks like one who raves in fever.</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -454,10 +454,10 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>What nonsense she declaims before us!</l>
-        <l>My head is nigh to split, I fear:</l>
+        <divine><l>What nonsense she declaims before us!</l></divine>
+       <divine> <l>My head is nigh to split, I fear:</l>
         <l>It seems to me as if I hear</l>
-        <l>A hundred thousand fools in chorus.</l>
+        <l>A hundred thousand fools in chorus.</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -506,8 +506,8 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>One rapid glance within the mirror give me,</l>
-        <l>How beautiful that woman-form!</l>
+        <divine><l>One rapid glance within the mirror give me,</l>
+        <l>How beautiful that woman-form!</l></divine>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
