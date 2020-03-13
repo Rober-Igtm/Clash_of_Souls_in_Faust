@@ -27,9 +27,12 @@
             1. This can be neatly avoided by simply dragging the closing `</l>` tag after a stage element and moving it directly after the speaker.
       1. Replace: `<speaker>\1</speaker>`
    1. It's likely that the title was placed inside a speaker element. It should be deleted so it doesn't interfere when we create the `<sp>` elements.
+1. Line groups `<lg>`
+   1. Find: `\n\n(<l>.+?)\n\n`
+   1. Replace: `\n\n<lg>\n\1\n</lg>\n\n`
 1. Speech `<sp>`
    1. Find: `(<speaker>.+?)(?=\n<speaker>)`
-   1. Replace: `<sp>\n\1</sp>`
+   1. Replace: `<sp>\n\1</sp>\n`
    1. Dot matches all: checked
       1. This should create almost all of the `<sp>` elements that we need except for the very last one. So, we need to scroll to the bottom in do it manually ourselves, because there is no `<speaker>` element for it to look at, so it does not include the last `<sp>` for us. The `\n` included inside the expressions is just to make our markup look neater when we pretty print it.
 1. Scene `<scene>`
