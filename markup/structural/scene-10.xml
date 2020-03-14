@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n = "X">
+
+    <stage>THE NEIGHBOR'S HOUSE</stage>
+    <sp>
+        <speaker>MARTHA</speaker> <stage>(solus)</stage>
+
+        <l>God forgive my husband, yet he</l>
+        <l>Hasn't done his duty by me!</l>
+        <l>Off in the world he went straightway,—</l>
+        <l>Left me lie in the straw where I lay.</l>
+        <l>And, truly, I did naught to fret him:</l>
+        <l>God knows I loved, and can't forget him!</l>
+
+        <stage>(She weeps.)</stage>
+
+        <l>Perhaps he's even dead! Ah, woe!—</l>
+        <l>Had I a certificate to show!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET </speaker><stage>(comes)</stage>
+
+        <l>Dame Martha!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Margaret! what's happened thee?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>I scarce can stand, my knees are trembling!</l>
+        <l>I find a box, the first resembling,</l>
+        <l>Within my press! Of ebony,—</l>
+        <l>And things, all splendid to behold,</l>
+        <l>And richer far than were the old.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>You mustn't tell it to your mother!</l>
+        <l>'Twould go to the priest, as did the other.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>Ah, look and see—just look and see!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA </speaker><stage>(adorning her)</stage>
+
+        <l>O, what a blessed luck for thee!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>But, ah! in the streets I dare not bear them,</l>
+        <l>Nor in the church be seen to wear them.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Yet thou canst often this way wander,</l>
+        <l>And secretly the jewels don,</l>
+        <l>Walk up and down an hour, before the mirror yonder,—</l>
+        <l>We'll have our private joy thereon.</l>
+        <l>And then a chance will come, a holiday,</l>
+        <l>When, piece by piece, can one the things abroad display,</l>
+        <l>A chain at first, then other ornament:</l>
+        <l>Thy mother will not see, and stories we'll invent.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>Whoever could have brought me things so precious?</l>
+        <l>That something's wrong, I feel suspicious.</l>
+
+        <stage>(A knock)</stage>
+
+        <l>Good Heaven! My mother can that have been?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA </speaker> <stage>(peeping through the blind)</stage>
+
+        <l>'Tis some strange gentleman.—Come in!</l>
+
+        <stage>(MEPHISTOPHELES enters.)</stage>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>That I so boldly introduce me,</l>
+        <l>I beg you, ladies, to excuse me.</l>
+        <stage>(Steps back reverently, on seeing MARGARET.)</stage>
+
+        <l>For Martha Schwerdtlein I'd inquire!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>I'm she: what does the gentleman desire?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES </speaker> <stage>(aside to her)</stage>
+
+        <l>It is enough that you are she:</l>
+        <l>You've a visitor of high degree.</l>
+        <l>Pardon the freedom I have ta'en,—</l>
+        <l>Will after noon return again.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA </speaker> <stage>(aloud)</stage>
+
+        <l>Of all things in the world! Just hear—</l>
+        <l>He takes thee for a lady, dear!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>I am a creature young and poor:</l>
+        <l>The gentleman's too kind, I'm sure.</l>
+        <l>The jewels don't belong to me.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Ah, not alone the jewelry!</l>
+        <l>The look, the manner, both betray—</l>
+        <l>Rejoiced am I that I may stay!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>What is your business? I would fain—</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>I would I had a more cheerful strain!</l>
+        <l>Take not unkindly its repeating:</l>
+        <l>Your husband's dead, and sends a greeting.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Is dead? Alas, that heart so true!</l>
+        <l>My husband dead! Let me die, too!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>Ah, dearest dame, let not your courage fail!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Hear me relate the mournful tale!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>Therefore I'd never love, believe me!</l>
+        <l>A loss like this to death would grieve me.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Joy follows woe, woe after joy comes flying.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Relate his life's sad close to me!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>In Padua buried, he is lying</l>
+        <l>Beside the good Saint Antony,</l>
+        <l>Within a grave well consecrated,</l>
+        <l>For cool, eternal rest created.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>He gave you, further, no commission?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Yes, one of weight, with many sighs:</l>
+        <l>Three hundred masses buy, to save him from perdition!</l>
+        <l>My hands are empty, otherwise.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>What! Not a pocket-piece? no jewelry?</l>
+        <l>What every journeyman within his wallet spares,</l>
+        <l>And as a token with him bears,</l>
+        <l>And rather starves or begs, than loses?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Madam, it is a grief to me;</l>
+        <l>Yet, on my word, his cash was put to proper uses.</l>
+        <l>Besides, his penitence was very sore,</l>
+        <l>And he lamented his ill fortune all the more.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>Alack, that men are so unfortunate!</l>
+        <l>Surely for his soul's sake full many a prayer I'll proffer.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>You well deserve a speedy marriage-offer:</l>
+        <l>You are so kind, compassionate.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>O, no! As yet, it would not do.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>If not a husband, then a beau for you!</l>
+        <l>It is the greatest heavenly blessing,</l>
+        <l>To have a dear thing for one's caressing.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>The country's custom is not so.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Custom, or not! It happens, though.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Continue, pray!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>I stood beside his bed of dying.</l>
+        <l>'Twas something better than manure,—</l>
+        <l>Half-rotten straw: and yet, he died a Christian, sure,</l>
+        <l>And found that heavier scores to his account were lying.</l>
+        <l>He cried: "I find my conduct wholly hateful!</l>
+        <l>To leave my wife, my trade, in manner so ungrateful!</l>
+        <l>Ah, the remembrance makes me die!</l>
+        <l>Would of my wrong to her I might be shriven!"</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA  </speaker> <stage>(weeping)</stage>
+
+        <l>The dear, good man! Long since was he forgiven.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>"Yet she, God knows! was more to blame than I."</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>He lied! What! On the brink of death he slandered?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>In the last throes his senses wandered,</l>
+        <l>If I such things but half can judge.</l>
+        <l>He said: "I had no time for play, for gaping freedom:</l>
+        <l>First children, and then work for bread to feed 'em,—</l>
+        <l>For bread, in the widest sense, to drudge,</l>
+        <l>And could not even eat my share in peace and quiet!"</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Had he all love, all faith forgotten in his riot?</l>
+        <l>My work and worry, day and night?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Not so: the memory of it touched him quite.</l>
+        <l>Said he: "When I from Malta went away</l>
+        <l>My prayers for wife and little ones were zealous,</l>
+        <l>And such a luck from Heaven befell us,</l>
+        <l>We made a Turkish merchantman our prey,</l>
+        <l>That to the Soldan bore a mighty treasure.</l>
+        <l>Then I received, as was most fit,</l>
+        <l>Since bravery was paid in fullest measure,</l>
+        <l>My well-apportioned share of it."</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Say, how? Say, where? If buried, did he own it?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Who knows, now, whither the four winds have blown it?</l>
+        <l>A fair young damsel took him in her care,</l>
+        <l>As he in Naples wandered round, unfriended;</l>
+        <l>And she much love, much faith to him did bear,</l>
+        <l>So that he felt it till his days were ended.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>The villain! From his children thieving!</l>
+        <l>Even all the misery on him cast</l>
+        <l>Could not prevent his shameful way of living!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>But see! He's dead therefrom, at last.</l>
+        <l>Were I in your place, do not doubt me,</l>
+        <l>I'd mourn him decently a year,</l>
+        <l>And for another keep, meanwhile, my eyes about me.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Ah, God! another one so dear</l>
+        <l>As was my first, this world will hardly give me.</l>
+        <l>There never was a sweeter fool than mine,</l>
+        <l>Only he loved to roam and leave me,</l>
+        <l>And foreign wenches and foreign wine,</l>
+        <l>And the damned throw of dice, indeed.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Well, well! That might have done, however,</l>
+        <l>If he had only been as clever,</l>
+        <l>And treated your slips with as little heed.</l>
+        <l>I swear, with this condition, too,</l>
+        <l>I would, myself, change rings with you.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>The gentleman is pleased to jest.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>I'll cut away, betimes, from here:</l>
+        <l>She'd take the Devil at his word, I fear.</l>
+
+
+    <stage>(To MARGARET)</stage>
+    <l>How fares the heart within your breast?</l>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>What means the gentleman?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES <stage>(aside)</stage></speaker>
+
+        <l>Sweet innocent, thou art!</l>
+
+        <stage>(Aloud.)</stage>
+
+        <l>Ladies, farewell!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>Farewell!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>A moment, ere we part!</l>
+        <l>I'd like to have a legal witness,</l>
+        <l>Where, how, and when he died, to certify his fitness.</l>
+        <l>Irregular ways I've always hated;</l>
+        <l>I want his death in the weekly paper stated.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Yes, my good dame, a pair of witnesses</l>
+        <l>Always the truth establishes.</l>
+        <l>I have a friend of high condition,</l>
+        <l>Who'll also add his deposition.</l>
+        <l>I'll bring him here.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Good Sir, pray do!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>And this young lady will be present, too?</l>
+        <l>A gallant youth! has travelled far:</l>
+        <l>Ladies with him delighted are.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <l>Before him I should blush, ashamed.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Before no king that could be named!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+
+        <l>Behind the house, in my garden, then,</l>
+        <l>This eve we'll expect the gentlemen.</l>
+
+
+    </sp>
+</scene>

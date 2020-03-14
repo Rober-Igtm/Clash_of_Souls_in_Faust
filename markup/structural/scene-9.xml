@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="IX">
+    <stage>PROMENADE</stage>
+    <stage>(FAUST, walking thoughtfully up and down. To him MEPHISTOPHELES.)</stage>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>By all love ever rejected! By hell-fire hot and unsparing!</l>
+        <l>I wish I knew something worse, that I might use it for</l>
+        <l>swearing!</l>
+
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>What ails thee? What is't gripes thee, elf?</l>
+        <l>A face like thine beheld I never.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>I would myself unto the Devil deliver,</l>
+        <l>If I were not a Devil myself!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>Thy head is out of order, sadly:</l>
+        <l>It much becomes thee to be raving madly.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Just think, the pocket of a priest should get</l>
+        <l>The trinkets left for Margaret!</l>
+        <l>The mother saw them, and, instanter,</l>
+        <l>A secret dread began to haunt her.</l>
+        <l>Keen scent has she for tainted air;</l>
+        <l>She snuffs within her book of prayer,</l>
+        <l>And smells each article, to see</l>
+        <l>If sacred or profane it be;</l>
+        <l>So here she guessed, from every gem,</l>
+        <l>That not much blessing came with them.</l>
+        <l>"My child," she said, "ill-gotten good</l>
+        <l>Ensnares the soul, consumes the blood.</l>
+        <l>Before the Mother of God we'll lay it;</l>
+        <l>With heavenly manna she'll repay it!"</l>
+        <l>But Margaret thought, with sour grimace,</l>
+        <l>"A gift-horse is not out of place,</l>
+        <l>And, truly! godless cannot be</l>
+        <l>The one who brought such things to me."</l>
+        <l>A parson came, by the mother bidden:</l>
+        <l>He saw, at once, where the game was hidden,</l>
+        <l>And viewed it with a favor stealthy.</l>
+        <l>He spake: "That is the proper view,—</l>
+        <l>Who overcometh, winneth too.</l>
+        <l>The Holy Church has a stomach healthy:</l>
+        <l>Hath eaten many a land as forfeit,</l>
+        <l>And never yet complained of surfeit:</l>
+        <l>The Church alone, beyond all question,</l>
+        <l>Has for ill-gotten goods the right digestion."</l>
+
+
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>A general practice is the same,</l>
+        <l>Which Jew and King may also claim.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Then bagged the spangles, chains, and rings,</l>
+        <l>As if but toadstools were the things,</l>
+        <l>And thanked no less, and thanked no more</l>
+        <l>Than if a sack of nuts he bore,—</l>
+        <l>Promised them fullest heavenly pay,</l>
+        <l>And deeply edified were they.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>And Margaret?</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>Sits unrestful still,</l>
+        <l>And knows not what she should, or will;</l>
+        <l>Thinks on the jewels, day and night,</l>
+        <l>But more on him who gave her such delight.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>The darling's sorrow gives me pain.</l>
+        <l>Get thou a set for her again!</l>
+        <l>The first was not a great display.</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+
+        <l>O yes, the gentleman finds it all child's-play!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+
+        <l>Fix and arrange it to my will;</l>
+        <l>And on her neighbor try thy skill!</l>
+        <l>Don't be a Devil stiff as paste,</l>
+        <l>But get fresh jewels to her taste!</l>
+
+
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <l>Yes, gracious Sir, in all obedience!</l>
+        <stage>[Exit FAUST]</stage>
+        <l>Such an enamored fool in air would blow</l>
+        <l>Sun, moon, and all the starry legions,</l>
+        <l>To give his sweetheart a diverting show.</l>
+    </sp>
+    <stage>[Exit]</stage>
+</scene>
