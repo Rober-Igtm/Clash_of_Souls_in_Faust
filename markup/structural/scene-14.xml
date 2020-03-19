@@ -1,224 +1,275 @@
-<scene n="14">FOREST AND CAVERN
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="14">
+    <head>FOREST AND CAVERN</head>
     <sp>
         <speaker>FAUST</speaker>
         <stage>(solus)</stage>
-        <l>Spirit sublime, thou gav'st me, gav'st me all</l>
-        <l>For which I prayed. Not unto me in vain</l>
-        <l>Hast thou thy countenance revealed in fire.</l>
-        <l>Thou gav'st me Nature as a kingdom grand,</l>
-        <l>With power to feel and to enjoy it. Thou</l>
-        <l>Not only cold, amazed acquaintance yield'st,</l>
-        <l>But grantest, that in her profoundest breast</l>
-        <l>I gaze, as in the bosom of a friend.</l>
-        <l>The ranks of living creatures thou dost lead</l>
-        <l>Before me, teaching me to know my brothers</l>
-        <l>In air and water and the silent wood.</l>
-        <l>And when the storm in forests roars and grinds,</l>
-        <l>The giant firs, in falling, neighbor boughs</l>
-        <l>And neighbor trunks with crushing weight bear down,</l>
-        <l>And falling, fill the hills with hollow thunders,—</l>
-        <l>Then to the cave secure thou leadest me,</l>
-        <l>Then show'st me mine own self, and in my breast</l>
-        <l>The deep, mysterious miracles unfold.</l>
-        <l>And when the perfect moon before my gaze</l>
-        <l>Comes up with soothing light, around me float</l>
-        <l>From every precipice and thicket damp</l>
-        <l>The silvery phantoms of the ages past,</l>
-        <l>And temper the austere delight of thought.</l>
-        <l>That nothing can be perfect unto Man</l>
-        <l>I now am conscious. With this ecstasy,</l>
-        <l>Which brings me near and nearer to the Gods,</l>
-        <l>Thou gav'st the comrade, whom I now no more</l>
-        <l>Can do without, though, cold and scornful, he</l>
-        <l>Demeans me to myself, and with a breath,</l>
-        <l>A word, transforms thy gifts to nothingness.</l>
-        <l>Within my breast he fans a lawless fire,</l>
-        <l>Unwearied, for that fair and lovely form:</l>
-        <l>Thus in desire I hasten to enjoyment,</l>
-        <l>And in enjoyment pine to feel desire.</l>
+        <lg>
+            <l>Spirit sublime, thou gav'st me, gav'st me all</l>
+            <l>For which I prayed. Not unto me in vain</l>
+            <l>Hast thou thy countenance revealed in fire.</l>
+            <l>Thou gav'st me Nature as a kingdom grand,</l>
+            <l>With power to feel and to enjoy it. Thou</l>
+            <l>Not only cold, amazed acquaintance yield'st,</l>
+            <l>But grantest, that in her profoundest breast</l>
+            <l>I gaze, as in the bosom of a friend.</l>
+            <l>The ranks of living creatures thou dost lead</l>
+            <l>Before me, teaching me to know my brothers</l>
+            <l>In air and water and the silent wood.</l>
+            <l>And when the storm in forests roars and grinds,</l>
+            <l>The giant firs, in falling, neighbor boughs</l>
+            <l>And neighbor trunks with crushing weight bear down,</l>
+            <l>And falling, fill the hills with hollow thunders,—</l>
+            <l>Then to the cave secure thou leadest me,</l>
+            <l>Then show'st me mine own self, and in my breast</l>
+            <l>The deep, mysterious miracles unfold.</l>
+            <l>And when the perfect moon before my gaze</l>
+            <l>Comes up with soothing light, around me float</l>
+            <l>From every precipice and thicket damp</l>
+            <l>The silvery phantoms of the ages past,</l>
+            <l>And temper the austere delight of thought.</l>
+        </lg>
+        <lg>
+            <l>That nothing can be perfect unto Man</l>
+            <l>I now am conscious. With this ecstasy,</l>
+            <l>Which brings me near and nearer to the Gods,</l>
+            <l>Thou gav'st the comrade, whom I now no more</l>
+            <l>Can do without, though, cold and scornful, he</l>
+            <l>Demeans me to myself, and with a breath,</l>
+            <l>A word, transforms thy gifts to nothingness.</l>
+            <l>Within my breast he fans a lawless fire,</l>
+            <l>Unwearied, for that fair and lovely form:</l>
+            <l>Thus in desire I hasten to enjoyment,</l>
+            <l>And in enjoyment pine to feel desire.</l>
+        </lg>
         <stage>(MEPHISTOPHELES enters.)</stage>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Have you not led this life quite long enough?</l>
-        <l>How can a further test delight you?</l>
-        <l>'Tis very well, that once one tries the stuff,</l>
-        <l>But something new must then requite you.</l>
+        <lg>
+            <l>Have you not led this life quite long enough?</l>
+            <l>How can a further test delight you?</l>
+            <l>'Tis very well, that once one tries the stuff,</l>
+            <l>But something new must then requite you.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Would there were other work for thee!</l>
-        <l>To plague my day auspicious thou returnest.</l>
+        <lg>
+            <l>Would there were other work for thee!</l>
+            <l>To plague my day auspicious thou returnest.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Well! I'll engage to let thee be:</l>
-        <l>Thou darest not tell me so in earnest.</l>
-        <l>The loss of thee were truly very slight,—</l>
-        <l>comrade crazy, rude, repelling:</l>
-        <l>One has one's hands full all the day and night;</l>
-        <l>If what one does, or leaves undone, is right,</l>
-        <l>From such a face as thine there is no telling.</l>
+        <lg>
+            <l>Well! I'll engage to let thee be:</l>
+            <l>Thou darest not tell me so in earnest.</l>
+            <l>The loss of thee were truly very slight,—</l>
+            <l>comrade crazy, rude, repelling:</l>
+            <l>One has one's hands full all the day and night;</l>
+            <l>If what one does, or leaves undone, is right,</l>
+            <l>From such a face as thine there is no telling.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>There is, again, thy proper tone!—</l>
-        <l>That thou hast bored me, I must thankful be!</l>
+
+        <lg>
+            <l>There is, again, thy proper tone!—</l>
+            <l>That thou hast bored me, I must thankful be!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Poor Son of Earth, how couldst thou thus alone</l>
-        <l>Have led thy life, bereft of me?</l>
-        <l>I, for a time, at least, have worked thy cure;</l>
-        <l>Thy fancy's rickets plague thee not at all:</l>
-        <l>Had I not been, so hadst thou, sure,</l>
-        <l>Walked thyself off this earthly ball</l>
-        <l>Why here to caverns, rocky hollows slinking,</l>
-        <l>Sit'st thou, as 'twere an owl a-blinking?</l>
-        <l>Why suck'st, from sodden moss and dripping stone,</l>
-        <l>Toad-like, thy nourishment alone?</l>
-        <l>A fine way, this, thy time to fill!</l>
-        <l>The Doctor's in thy body still.</l>
+        <lg>
+            <l>Poor Son of Earth, how couldst thou thus alone</l>
+            <l>Have led thy life, bereft of me?</l>
+            <l>I, for a time, at least, have worked thy cure;</l>
+            <l>Thy fancy's rickets plague thee not at all:</l>
+            <l>Had I not been, so hadst thou, sure,</l>
+            <l>Walked thyself off this earthly ball</l>
+            <l>Why here to caverns, rocky hollows slinking,</l>
+            <l>Sit'st thou, as 'twere an owl a-blinking?</l>
+            <l>Why suck'st, from sodden moss and dripping stone,</l>
+            <l>Toad-like, thy nourishment alone?</l>
+            <l>A fine way, this, thy time to fill!</l>
+            <l>The Doctor's in thy body still.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>What fresh and vital forces, canst thou guess,</l>
-        <l>Spring from my commerce with the wilderness?</l>
-        <l>But, if thou hadst the power of guessing,</l>
-        <l>Thou wouldst be devil enough to grudge my soul the blessing.</l>
+        <lg>
+            <l>What fresh and vital forces, canst thou guess,</l>
+            <l>Spring from my commerce with the wilderness?</l>
+            <l>But, if thou hadst the power of guessing,</l>
+            <l>Thou wouldst be devil enough to grudge my soul the blessing.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>A blessing drawn from supernatural fountains!</l>
-        <l>In night and dew to lie upon the mountains;</l>
-        <l>All Heaven and Earth in rapture penetrating;</l>
-        <l>Thyself to Godhood haughtily inflating;</l>
-        <l>To grub with yearning force through Earth's dark marrow,</l>
-        <l>Compress the six days' work within thy bosom narrow,—</l>
-        <l>To taste, I know not what, in haughty power,</l>
-        <l>Thine own ecstatic life on all things shower,</l>
-        <l>Thine earthly self behind thee cast,</l>
-        <l>And then the lofty instinct, thus—</l>
+        <lg>
+            <l>A blessing drawn from supernatural fountains!</l>
+            <l>In night and dew to lie upon the mountains;</l>
+            <l>All Heaven and Earth in rapture penetrating;</l>
+            <l>Thyself to Godhood haughtily inflating;</l>
+            <l>To grub with yearning force through Earth's dark marrow,</l>
+            <l>Compress the six days' work within thy bosom narrow,—</l>
+            <l>To taste, I know not what, in haughty power,</l>
+            <l>Thine own ecstatic life on all things shower,</l>
+            <l>Thine earthly self behind thee cast,</l>
+            <l>And then the lofty instinct, thus—</l>
+        </lg>
         <stage>(With a gesture:)</stage>
-        <l>at last,—</l>
-        <l>I daren't say how—to pluck the final flower!</l>
+        <lg>
+            <l>at last,—</l>
+        </lg>
+        <lg>
+            <l>I daren't say how—to pluck the final flower!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Shame on thee!</l>
+        <lg>
+            <l>Shame on thee!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Yes, thou findest that unpleasant!</l>
-        <l>Thou hast the moral right to cry me "shame!" at present.</l>
-        <l>One dares not that before chaste ears declare,</l>
-        <l>Which chaste hearts, notwithstanding, cannot spare;</l>
-        <l>And, once for all, I grudge thee not the pleasure</l>
-        <l>Of lying to thyself in moderate measure.</l>
-        <l>But such a course thou wilt not long endure;</l>
-        <l>Already art thou o'er-excited,</l>
-        <l>And, if it last, wilt soon be plighted</l>
-        <l>To madness and to horror, sure.</l>
-        <l>Enough of that! Thy love sits lonely yonder,</l>
-        <l>By all things saddened and oppressed;</l>
-        <l>Her thoughts and yearnings seek thee, tenderer, fonder,—</l>
-        <l>mighty love is in her breast.</l>
-        <l>First came thy passion's flood and poured around her</l>
-        <l>As when from melted snow a streamlet overflows;</l>
-        <l>Thou hast therewith so filled and drowned her,</l>
-        <l>That now thy stream all shallow shows.</l>
-        <l>Methinks, instead of in the forests lording,</l>
-        <l>The noble Sir should find it good,</l>
-        <l>The love of this young silly blood</l>
-        <l>At once to set about rewarding.</l>
-        <l>Her time is miserably long;</l>
-        <l>She haunts her window, watching clouds that stray</l>
-        <l>O'er the old city-wall, and far away.</l>
-        <l>"Were I a little bird!" so runs her song,</l>
-        <l>Day long, and half night long.</l>
-        <l>Now she is lively, mostly sad,</l>
-        <l>Now, wept beyond her tears;</l>
-        <l>Then again quiet she appears,—Always</l>
-        <l>love-mad.</l>
+        <lg>
+            <l>Yes, thou findest that unpleasant!</l>
+            <l>Thou hast the moral right to cry me "shame!" at present.</l>
+            <l>One dares not that before chaste ears declare,</l>
+            <l>Which chaste hearts, notwithstanding, cannot spare;</l>
+            <l>And, once for all, I grudge thee not the pleasure</l>
+            <l>Of lying to thyself in moderate measure.</l>
+            <l>But such a course thou wilt not long endure;</l>
+            <l>Already art thou o'er-excited,</l>
+            <l>And, if it last, wilt soon be plighted</l>
+            <l>To madness and to horror, sure.</l>
+            <l>Enough of that! Thy love sits lonely yonder,</l>
+            <l>By all things saddened and oppressed;</l>
+            <l>Her thoughts and yearnings seek thee, tenderer, fonder,—</l>
+            <l>mighty love is in her breast.</l>
+            <l>First came thy passion's flood and poured around her</l>
+            <l>As when from melted snow a streamlet overflows;</l>
+            <l>Thou hast therewith so filled and drowned her,</l>
+            <l>That now thy stream all shallow shows.</l>
+            <l>Methinks, instead of in the forests lording,</l>
+            <l>The noble Sir should find it good,</l>
+            <l>The love of this young silly blood</l>
+            <l>At once to set about rewarding.</l>
+            <l>Her time is miserably long;</l>
+            <l>She haunts her window, watching clouds that stray</l>
+            <l>O'er the old city-wall, and far away.</l>
+            <l>"Were I a little bird!" so runs her song,</l>
+            <l>Day long, and half night long.</l>
+            <l>Now she is lively, mostly sad,</l>
+            <l>Now, wept beyond her tears;</l>
+            <l>Then again quiet she appears,—Always</l>
+            <l>love-mad.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Serpent! Serpent!</l>
+        <lg>
+            <l>Serpent! Serpent!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
         <stage>(aside)</stage>
-        <l>Ha! do I trap thee!</l>
+        <lg>
+            <l>Ha! do I trap thee!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Get thee away with thine offences,</l>
-        <l>Reprobate! Name not that fairest thing,</l>
-        <l>Nor the desire for her sweet body bring</l>
-        <l>Again before my half-distracted senses!</l>
+        <lg>
+            <l>Get thee away with thine offences,</l>
+            <l>Reprobate! Name not that fairest thing,</l>
+            <l>Nor the desire for her sweet body bring</l>
+            <l>Again before my half-distracted senses!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>What wouldst thou, then? She thinks that thou art flown;</l>
-        <l>And half and half thou art, I own.</l>
+        <lg>
+            <l>What wouldst thou, then? She thinks that thou art flown;</l>
+            <l>And half and half thou art, I own.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Yet am I near, and love keeps watch and ward;</l>
-        <l>Though I were ne'er so far, it cannot falter:</l>
-        <l>I envy even the Body of the Lord</l>
-        <l>The touching of her lips, before the altar.</l>
+        <lg>
+            <l>Yet am I near, and love keeps watch and ward;</l>
+            <l>Though I were ne'er so far, it cannot falter:</l>
+            <l>I envy even the Body of the Lord</l>
+            <l>The touching of her lips, before the altar.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>'Tis very well! My envy oft reposes</l>
-        <l>On your twin-pair, that feed among the roses.</l>
+        <lg>
+            <l>'Tis very well! My envy oft reposes</l>
+            <l>On your twin-pair, that feed among the roses.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Away, thou pimp!</l>
+        <lg>
+            <l>Away, thou pimp!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>You rail, and it is fun to me.</l>
-        <l>The God, who fashioned youth and maid,</l>
-        <l>Perceived the noblest purpose of His trade,</l>
-        <l>And also made their opportunity.</l>
-        <l>Go on! It is a woe profound!</l>
-        <l>'Tis for your sweetheart's room you're bound,</l>
-        <l>And not for death, indeed.</l>
+        <lg>
+            <l>You rail, and it is fun to me.</l>
+            <l>The God, who fashioned youth and maid,</l>
+            <l>Perceived the noblest purpose of His trade,</l>
+            <l>And also made their opportunity.</l>
+            <l>Go on! It is a woe profound!</l>
+            <l>'Tis for your sweetheart's room you're bound,</l>
+            <l>And not for death, indeed.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>What are, within her arms, the heavenly blisses?</l>
-        <l>Though I be glowing with her kisses,</l>
-        <l>Do I not always share her need?</l>
-        <l>I am the fugitive, all houseless roaming,</l>
-        <l>The monster without air or rest,</l>
-        <l>That like a cataract, down rocks and gorges foaming,</l>
-        <l>Leaps, maddened, into the abyss's breast!</l>
-        <l>And side-wards she, with young unwakened senses,</l>
-        <l>Within her cabin on the Alpine field</l>
-        <l>Her simple, homely life commences,</l>
-        <l>Her little world therein concealed.</l>
-        <l>And I, God's hate flung o'er me,</l>
-        <l>Had not enough, to thrust</l>
-        <l>The stubborn rocks before me</l>
-        <l>And strike them into dust!</l>
-        <l>She and her peace I yet must undermine:</l>
-        <l>Thou, Hell, hast claimed this sacrifice as thine!</l>
-        <l>Help, Devil! through the coming pangs to push me;</l>
-        <l>What must be, let it quickly be!</l>
-        <l>Let fall on me her fate, and also crush me,—</l>
-        <l>One ruin whelm both her and me!</l>
+        <lg>
+            <l>What are, within her arms, the heavenly blisses?</l>
+            <l>Though I be glowing with her kisses,</l>
+            <l>Do I not always share her need?</l>
+            <l>I am the fugitive, all houseless roaming,</l>
+            <l>The monster without air or rest,</l>
+            <l>That like a cataract, down rocks and gorges foaming,</l>
+            <l>Leaps, maddened, into the abyss's breast!</l>
+            <l>And side-wards she, with young unwakened senses,</l>
+            <l>Within her cabin on the Alpine field</l>
+            <l>Her simple, homely life commences,</l>
+            <l>Her little world therein concealed.</l>
+            <l>And I, God's hate flung o'er me,</l>
+            <l>Had not enough, to thrust</l>
+            <l>The stubborn rocks before me</l>
+            <l>And strike them into dust!</l>
+            <l>She and her peace I yet must undermine:</l>
+            <l>Thou, Hell, hast claimed this sacrifice as thine!</l>
+            <l>Help, Devil! through the coming pangs to push me;</l>
+            <l>What must be, let it quickly be!</l>
+            <l>Let fall on me her fate, and also crush me,—</l>
+            <l>One ruin whelm both her and me!</l>
+        </lg>
     </sp>
-    <sp><speaker>MEPHISTOPHELES</speaker>
-        <l>Again it seethes, again it glows!</l>
-        <l>Thou fool, go in and comfort her!</l>
-        <l>When such a head as thine no outlet knows,</l>
-        <l>It thinks the end must soon occur.</l>
-        <l>Hail him, who keeps a steadfast mind!</l>
-        <l>Thou, else, dost well the devil-nature wear:</l>
-        <l>Naught so insipid in the world I find</l>
-        <l>As is a devil in despair.</l>
-    </sp></scene>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>Again it seethes, again it glows!</l>
+            <l>Thou fool, go in and comfort her!</l>
+            <l>When such a head as thine no outlet knows,</l>
+            <l>It thinks the end must soon occur.</l>
+            <l>Hail him, who keeps a steadfast mind!</l>
+            <l>Thou, else, dost well the devil-nature wear:</l>
+            <l>Naught so insipid in the world I find</l>
+            <l>As is a devil in despair.</l>
+        </lg>
+    </sp>
+</scene>

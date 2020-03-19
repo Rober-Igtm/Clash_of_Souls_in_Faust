@@ -1,72 +1,105 @@
-<scene n="13">A GARDEN-ARBOR <stage>(MARGARET comes in, conceals herself behind the door, puts her
-        finger to her lips, and peeps through the crack.)</stage>
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="13">
+    <head>A GARDEN-ARBOR</head>
+    <stage>(MARGARET comes in, conceals herself behind the door, puts her finger to her lips, and
+        peeps through the crack.)</stage>
     <sp>
         <speaker>MARGARET</speaker>
-        <l>He comes!</l>
+        <lg>
+            <l>He comes!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
         <stage>(entering)</stage>
-        <l>Ah, rogue! a tease thou art:</l>
-        <l>I have thee!</l>
+        <lg>
+            <l>Ah, rogue! a tease thou art:</l>
+            <l>I have thee!</l>
+        </lg>
         <stage>(He kisses her.)</stage>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
         <stage>(clasping him, and returning the kiss)</stage>
-        <l>Dearest man! I love thee from my heart.</l>
+        <lg>
+            <l>Dearest man! I love thee from my heart.</l>
+        </lg>
         <stage>(MEPHISTOPHELES knocks)</stage>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
         <stage>(stamping his foot)</stage>
-        <l>Who's there?</l>
+        <lg>
+            <l>Who's there?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>A friend!</l>
+        <lg>
+            <l>A friend!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>A beast!</l>
+        <lg>
+            <l>A beast!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Tis time to separate.</l>
+        <lg>
+            <l>Tis time to separate.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
         <stage>(coming)</stage>
-        <l>Yes, Sir, 'tis late.</l>
+        <lg>
+            <l>Yes, Sir, 'tis late.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>May I not, then, upon you wait?</l>
+        <lg>
+            <l>May I not, then, upon you wait?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-        <l>My mother would—farewell!</l>
+        <lg>
+            <l>My mother would—farewell!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <l>Ah, can I not remain?</l>
-        <l>Farewell!</l>
+        <lg>
+            <l>Ah, can I not remain?</l>
+            <l>Farewell!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-        <l>Adieu!</l>
+        <lg>
+            <l>Adieu!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-        <l>And soon to meet again!</l>
+        <lg>
+            <l>And soon to meet again!</l>
+        </lg>
         <stage>[Exeunt FAUST and MEPHISTOPHELES.</stage>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-        <l>Dear God! However is it, such</l>
-        <l>A man can think and know so much?</l>
-        <l>I stand ashamed and in amaze,</l>
-        <l>And answer "Yes" to all he says,</l>
-        <l>A poor, unknowing child! and he—</l>
-        <l>I can't think what he finds in me! [Exit.</l>
-    </sp></scene>
+        <lg>
+            <l>Dear God! However is it, such</l>
+            <l>A man can think and know so much?</l>
+            <l>I stand ashamed and in amaze,</l>
+            <l>And answer "Yes" to all he says,</l>
+            <l>A poor, unknowing child! and he—</l>
+            <l>I can't think what he finds in me!</l>
+            <stage>[Exit.</stage>
+        </lg>
+    </sp>
+</scene>

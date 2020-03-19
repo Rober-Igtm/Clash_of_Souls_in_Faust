@@ -26,7 +26,11 @@
          1. This will find the rest of the speaker elements, though if you deleted like me, you might have included an extra space in there. This is fixed by the `(?= )`, which is a positive lookahead. This matches the previous part of the statement without including the empty space. So, this will not work if there is no empty space. However, this part is just as simple to do with Find: `^[A-Z]+` or `^[A-Z -]+`, and then mark them up manually by highlighting and Ctrl-E.
             1. This can be neatly avoided by simply dragging the closing `</l>` tag after a stage element and moving it directly after the speaker.
       1. Replace: `<speaker>\1</speaker>`
-   1. It's likely that the title was placed inside a speaker element. It should be deleted so it doesn't interfere when we create the `<sp>` elements.
+   1. It's likely that the title was placed inside a speaker element. Delete the stage tags around it, and replace them with a `<head>` element
+   1. There are seemingly sets of two `<speaker>` elements that occur. The first should be a `<stage>` element because it denotes the characters present.
+      1. Find: `<speaker>(.+?)</speaker>(?=\s+<speaker>.+?</speaker>)`
+         1. So, this finds the speaker elements that are followed by another speaker element
+      1. Replace: `<stage>\1</stage>`
    1. It's possible that our lines of speaker elements are not properly separated from the rest of the lines in the text from Gutenberg. For example, the next speaker is directly underneath the previous set of lines from the last speaker.
       1. Find: `(?<!\n{2,})<speaker>.+?</speaker>`
          1. This Regex will find all the speakers that do not have two or more lines behind it
@@ -44,3 +48,6 @@
       1. This should create almost all of the `<sp>` elements that we need except for the very last one. So, we need to scroll to the bottom in do it manually ourselves, because there is no `<speaker>` element for it to look at, so it does not include the last `<sp>` for us. The `\n` included inside the expressions is just to make our markup look neater when we pretty print it.
 1. Scene `<scene>`
    1. Highlight the entire document in encase it in a `<scene>` element. This can clickly be done by using Find: `.+` to highlight the entire document. Add an `@n` for the scene number afterwards.
+1. Delete the multiple newlines in the text
+   1. Find: `\n\n`
+   1. Replace: `\n`

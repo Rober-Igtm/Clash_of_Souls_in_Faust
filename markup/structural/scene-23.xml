@@ -1,0 +1,17 @@
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="23">
+    <head>DREARY DAY</head>
+    <stage>A FIELD</stage>
+    <stage>FAUST MEPHISTOPHELES</stage>
+    <sp>
+        <speaker>FAUST</speaker>
+        <p> In misery! In despair! Long wretchedly astray on the face of the earth, and now
+            imprisoned! That gracious, ill-starred creature shut in a dungeon as a criminal, and
+            given up to fearful torments! To this has it come! to this!—Treacherous, contemptible
+            spirit, and thou hast concealed it from me!—Stand, then,—stand! Roll the devilish eyes
+            wrathfully in thy head! Stand and defy me with thine intolerable presence! Imprisoned!
+            In irretrievable misery! Delivered up to evil spirits, and to condemning, unfeeling Man!
+            And thou hast lulled me, meanwhile, with the most insipid dissipations, hast concealed
+            from me her increasing wretchedness, and suffered her to go helplessly to ruin! </p>
+    </sp>
+</scene>

@@ -1,9 +1,11 @@
 start = scene
-scene = element scene {n, text, (stage | sp)*}
+scene = element scene {n, head, (stage | sp)*}
+head = element head {text}
 n = attribute n {text}
 stage = element stage {text}
-sp = element sp {speaker+, (stage | lg | earthly | divine)+}
+sp = element sp {speaker+, (stage | lg | p | earthly | divine)+}
 lg = element lg {(l | stage | earthly | divine)+}
+p = element p {(text | earthly | divine)*}
 earthly = element earthly {(stage | l)+}
 divine = element divine {(stage | l)+}
 speaker = element speaker {text}

@@ -1,9 +1,10 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="21">WALPURGIS-NIGHT
+<scene n="21">
+    <head>WALPURGIS-NIGHT</head>
     <stage>THE HARTZ MOUNTAINS.</stage>
     <stage>District of Schierke and Elend.</stage>
+    <stage>FAUST MEPHISTOPHELES</stage>
     <sp>
-        <speaker>FAUST MEPHISTOPHELES</speaker>
         <speaker>MEPHISTOPHELES</speaker>
         <lg>
             <l>DOST thou not wish a broomstick-steed's assistance?</l>

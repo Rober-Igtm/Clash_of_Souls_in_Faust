@@ -1,7 +1,8 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="16">MARTHA'S GARDEN
+<scene n="16">
+    <head>MARTHA'S GARDEN</head>
+    <stage>MARGARET FAUST</stage>
     <sp>
-        <speaker>MARGARET FAUST</speaker>
         <speaker>MARGARET</speaker>
         <lg>
             <l>Promise me, Henry!—</l>
@@ -351,4 +352,5 @@
         <lg>
             <l>Yet my delight 'twill also be!</l>
         </lg>
-    </sp></scene>
+    </sp>
+</scene>
