@@ -1,58 +1,70 @@
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene n="16">MARTHA'S GARDEN
     <sp>
         <speaker>MARGARET FAUST</speaker>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>Promise me, Henry!—</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>What I can!</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>How is't with thy religion, pray?</l>
             <l>Thou art a dear, good-hearted man,</l>
             <l>And yet, I think, dost not incline that way.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Leave that, my child! Thou know'st my love is tender;</l>
             <l>For love, my blood and life would I surrender,</l>
             <l>And as for Faith and Church, I grant to each his own.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>That's not enough: we must believe thereon.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Must we?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>Would that I had some influence!</l>
-        </lg> <l>Then, too, thou honorest not the Holy Sacraments.</l>
+            <l>Then, too, thou honorest not the Holy Sacraments.</l>
+        </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>I honor them.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>Desiring no possession</l>
             <l>'Tis long since thou hast been to mass or to confession.</l>
             <l>Believest thou in God?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>My darling, who shall dare</l>
             <l>"I believe in God!" to say?</l>
             <l>Ask priest or sage the answer to declare,</l>
@@ -61,12 +73,14 @@
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>Then thou believest not!</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Hear me not falsely, sweetest countenance!</l>
             <l>Who dare express Him?</l>
             <l>And who profess Him,</l>
@@ -98,14 +112,16 @@
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>All that is fine and good, to hear it so:</l>
             <l>Much the same way the preacher spoke,</l>
             <l>Only with slightly different phrases.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>The same thing, in all places,</l>
             <l>All hearts that beat beneath the heavenly day—</l>
             <l>Each in its language—say;</l>
@@ -113,30 +129,35 @@
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>To hear it thus, it may seem passable;</l>
             <l>And yet, some hitch in't there must be</l>
             <l>For thou hast no Christianity.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Dear love!</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>I've long been grieved to see</l>
             <l>That thou art in such company.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>How so?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>The man who with thee goes, thy mate,</l>
             <l>Within my deepest, inmost soul I hate.</l>
             <l>In all my life there's nothing</l>
@@ -145,12 +166,14 @@
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Nay, fear him not, my sweetest one!</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>I feel his presence like something ill.</l>
             <l>I've else, for all, a kindly will,</l>
             <l>But, much as my heart to see thee yearneth,</l>
@@ -160,12 +183,14 @@
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>There must be such queer birds, however.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>Live with the like of him, may I never!</l>
             <l>When once inside the door comes he,</l>
             <l>He looks around so sneeringly,</l>
@@ -179,12 +204,14 @@
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Foreboding angel that thou art!</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>It overcomes me in such degree,</l>
             <l>That wheresoe'er he meets us, even,</l>
             <l>I feel as though I'd lost my love for thee.</l>
@@ -194,24 +221,28 @@
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>There, now, is thine antipathy!</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>But I must go.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Ah, shall there never be</l>
             <l>A quiet hour, to see us fondly plighted,</l>
             <l>With breast to breast, and soul to soul united?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>Ah, if I only slept alone!</l>
             <l>I'd draw the bolts to-night, for thy desire;</l>
             <l>But mother's sleep so light has grown,</l>
@@ -220,7 +251,8 @@
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Thou angel, fear it not!</l>
             <l>Here is a phial: in her drink</l>
             <l>But three drops of it measure,</l>
@@ -228,36 +260,43 @@
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>What would I not, to give thee pleasure?</l>
             <l>It will not harm her, when one tries it?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>If 'twould, my love, would I advise it?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MARGARET</speaker> <lg>
+        <speaker>MARGARET</speaker>
+        <lg>
             <l>Ah, dearest man, if but thy face I see,</l>
             <l>I know not what compels me to thy will:</l>
             <l>So much have I already done for thee,</l>
             <l>That scarcely more is left me to fulfil.</l>
-        </lg> <stage>(Enter MEPHISTOPHELES.) [Exit.</stage>
+        </lg>
+        <stage>(Enter MEPHISTOPHELES.) [Exit.</stage>
     </sp>
     <sp>
-        <speaker>MEPHISTOPHELES</speaker> <lg>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
             <l>The monkey! Is she gone?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Hast played the spy again?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MEPHISTOPHELES</speaker> <lg>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
             <l>I've heard, most fully, how she drew thee.</l>
             <l>The Doctor has been catechised, 'tis plain;</l>
             <l>Great good, I hope, the thing will do thee.</l>
@@ -267,7 +306,8 @@
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Thou, monster, wilt nor see nor own</l>
             <l>How this pure soul, of faith so lowly,</l>
             <l>So loving and ineffable,—</l>
@@ -277,18 +317,21 @@
         </lg>
     </sp>
     <sp>
-        <speaker>MEPHISTOPHELES</speaker> <lg>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
             <l>Thou, full of sensual, super-sensual desire,</l>
             <l>A girl by the nose is leading thee.</l>
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>Abortion, thou, of filth and fire!</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MEPHISTOPHELES</speaker> <lg>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
             <l>And then, how masterly she reads physiognomy!</l>
             <l>When I am present she's impressed, she knows not how;</l>
             <l>She in my mask a hidden sense would read:</l>
@@ -298,12 +341,14 @@
         </lg>
     </sp>
     <sp>
-        <speaker>FAUST</speaker> <lg>
+        <speaker>FAUST</speaker>
+        <lg>
             <l>What's that to thee?</l>
         </lg>
     </sp>
     <sp>
-        <speaker>MEPHISTOPHELES</speaker> <lg>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
             <l>Yet my delight 'twill also be!</l>
         </lg>
     </sp></scene>
