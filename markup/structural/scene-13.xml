@@ -13,8 +13,8 @@
         <speaker>FAUST</speaker>
         <stage>(entering)</stage>
         <lg>
-            <l>Ah, rogue! a tease thou art:</l>
-            <l>I have thee!</l>
+            <earthly><l>Ah, rogue! a tease thou art:</l>
+            <l>I have thee!</l></earthly>
         </lg>
         <stage>(He kisses her.)</stage>
     </sp>
@@ -30,7 +30,7 @@
         <speaker>FAUST</speaker>
         <stage>(stamping his foot)</stage>
         <lg>
-            <l>Who's there?</l>
+           <earthly> <l>Who's there?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -42,7 +42,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>A beast!</l>
+            <earthly><l>A beast!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -61,7 +61,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>May I not, then, upon you wait?</l>
+            <earthly><l>May I not, then, upon you wait?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -73,8 +73,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Ah, can I not remain?</l>
-            <l>Farewell!</l>
+            <earthly><l>Ah, can I not remain?</l></earthly>
+            <divine><l>Farewell!</l></divine>
         </lg>
     </sp>
     <sp>

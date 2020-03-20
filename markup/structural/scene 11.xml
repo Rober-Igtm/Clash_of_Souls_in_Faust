@@ -6,7 +6,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>How is it? under way? and soon complete?</l>
+        <earthly><l>How is it? under way? and soon complete?</l></earthly>
 
 
     </sp>
@@ -24,7 +24,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Tis well.</l>
+        <earthly><l>Tis well.</l></earthly>
 
 
     </sp>
@@ -38,7 +38,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>One service pays the other thus.</l>
+        <earthly><l>One service pays the other thus.</l></earthly>
 
 
     </sp>
@@ -54,8 +54,8 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Most wise! And first, of course, we'll make the journey</l>
-        <l>thither?</l>
+        <earthly><l>Most wise! And first, of course, we'll make the journey</l>
+        <l>thither?</l></earthly>
 
 
     </sp>
@@ -70,7 +70,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>If you've naught better, then, I'll tear your pretty plan!</l>
+        <divine><l>If you've naught better, then, I'll tear your pretty plan!</l></divine>
 
 
     </sp>
@@ -93,8 +93,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Thou art, and thou remain'st, a sophist, liar.</l>
-
+        <divine><l>Thou art, and thou remain'st, a sophist, liar.</l></divine>
 
     </sp>
     <sp>
@@ -110,7 +109,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>And from my heart.</l>
+        <divine><l>And from my heart.</l></divine>
 
 
     </sp>
@@ -128,14 +127,14 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Hold! hold! It will!—If such my flame,</l>
+        <earthly><l>Hold! hold! It will!—If such my flame,</l>
         <l>And for the sense and power intense</l>
-        <l>I seek, and cannot find, a name;</l>
-        <l>Then range with all my senses through creation,</l>
+        <l>I seek, and cannot find, a name;</l></earthly>
+        <divine><l>Then range with all my senses through creation,</l>
         <l>Craving the speech of inspiration,</l>
         <l>And call this ardor, so supernal,</l>
         <l>Endless, eternal and eternal,—</l>
-        <l>Is that a devilish lying game?</l>
+        <l>Is that a devilish lying game?</l></divine>
 
 
     </sp>
@@ -149,16 +148,16 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Mark this, I beg of thee!</l>
+       <divine> <l>Mark this, I beg of thee!</l></divine>
 
-        <l>And spare my lungs henceforth: whoever</l>
+       <divine> <l>And spare my lungs henceforth: whoever</l>
         <l>Intends to have the right, if but his</l>
         <l>tongue be clever,</l>
-        <l>Will have it, certainly.</l>
-        <l>But come: the further talking brings</l>
+        <l>Will have it, certainly.</l></divine>
+        <earthly><l>But come: the further talking brings</l>
         <l>disgust,</l>
         <l>For thou art right, especially since I</l>
-        <l>must.</l>
+        <l>must.</l></earthly>
 
 
     </sp>

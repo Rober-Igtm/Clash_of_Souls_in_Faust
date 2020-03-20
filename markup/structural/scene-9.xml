@@ -14,8 +14,8 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>What ails thee? What is't gripes thee, elf?</l>
-        <l>A face like thine beheld I never.</l>
+        <earthly><l>What ails thee? What is't gripes thee, elf?</l></earthly>
+       <earthly> <l>A face like thine beheld I never.</l></earthly>
 
 
     </sp>
@@ -30,8 +30,8 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Thy head is out of order, sadly:</l>
-        <l>It much becomes thee to be raving madly.</l>
+        <divine><l>Thy head is out of order, sadly:</l>
+        <l>It much becomes thee to be raving madly.</l></divine>
 
 
     </sp>
@@ -72,8 +72,8 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>A general practice is the same,</l>
-        <l>Which Jew and King may also claim.</l>
+        <earthly><l>A general practice is the same,</l>
+        <l>Which Jew and King may also claim.</l></earthly>
 
 
     </sp>
@@ -92,7 +92,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>And Margaret?</l>
+        <earthly><l>And Margaret?</l></earthly>
 
 
     </sp>
@@ -109,9 +109,9 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>The darling's sorrow gives me pain.</l>
-        <l>Get thou a set for her again!</l>
-        <l>The first was not a great display.</l>
+        <divine><l>The darling's sorrow gives me pain.</l></divine>
+        <earthly><l>Get thou a set for her again!</l></earthly>
+        <earthly><l>The first was not a great display.</l></earthly>
 
 
     </sp>
@@ -125,10 +125,10 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Fix and arrange it to my will;</l>
-        <l>And on her neighbor try thy skill!</l>
-        <l>Don't be a Devil stiff as paste,</l>
-        <l>But get fresh jewels to her taste!</l>
+        <earthly><l>Fix and arrange it to my will;</l>
+        <l>And on her neighbor try thy skill!</l></earthly>
+        <earthly><l>Don't be a Devil stiff as paste,</l>
+        <l>But get fresh jewels to her taste!</l></earthly>
 
 
     </sp>
