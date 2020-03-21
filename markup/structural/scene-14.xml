@@ -77,7 +77,7 @@
 
         <lg>
             <divine><l>There is, again, thy proper tone!—</l></divine>
-            <divine></divine><l>That thou hast bored me, I must thankful be!</l></divine>
+            <divine><l>That thou hast bored me, I must thankful be!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -102,7 +102,7 @@
         <lg>
             <divine><l>What fresh and vital forces, canst thou guess,</l>
             <l>Spring from my commerce with the wilderness?</l></divine>
-            <<divine>l>But, if thou hadst the power of guessing,</l>
+            <divine><l>But, if thou hadst the power of guessing,</l>
             <l>Thou wouldst be devil enough to grudge my soul the blessing.</l></divine>
         </lg>
     </sp>
