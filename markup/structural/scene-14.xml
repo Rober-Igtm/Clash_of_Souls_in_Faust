@@ -5,42 +5,42 @@
         <speaker>FAUST</speaker>
         <stage>(solus)</stage>
         <lg>
-            <l>Spirit sublime, thou gav'st me, gav'st me all</l>
+            <divine><l>Spirit sublime, thou gav'st me, gav'st me all</l>
             <l>For which I prayed. Not unto me in vain</l>
-            <l>Hast thou thy countenance revealed in fire.</l>
-            <l>Thou gav'st me Nature as a kingdom grand,</l>
-            <l>With power to feel and to enjoy it. Thou</l>
-            <l>Not only cold, amazed acquaintance yield'st,</l>
+            <l>Hast thou thy countenance revealed in fire.</l></divine>
+            <earthly><l>Thou gav'st me Nature as a kingdom grand,</l>
+            <l>With power to feel and to enjoy it. Thou</l></earthly>
+            <earthly><l>Not only cold, amazed acquaintance yield'st,</l>
             <l>But grantest, that in her profoundest breast</l>
-            <l>I gaze, as in the bosom of a friend.</l>
-            <l>The ranks of living creatures thou dost lead</l>
+            <l>I gaze, as in the bosom of a friend.</l></earthly>
+            <divine><l>The ranks of living creatures thou dost lead</l>
             <l>Before me, teaching me to know my brothers</l>
-            <l>In air and water and the silent wood.</l>
-            <l>And when the storm in forests roars and grinds,</l>
+            <l>In air and water and the silent wood.</l></divine>
+            <divine><l>And when the storm in forests roars and grinds,</l>
             <l>The giant firs, in falling, neighbor boughs</l>
             <l>And neighbor trunks with crushing weight bear down,</l>
             <l>And falling, fill the hills with hollow thunders,—</l>
             <l>Then to the cave secure thou leadest me,</l>
             <l>Then show'st me mine own self, and in my breast</l>
-            <l>The deep, mysterious miracles unfold.</l>
-            <l>And when the perfect moon before my gaze</l>
+            <l>The deep, mysterious miracles unfold.</l></divine>
+           <divine> <l>And when the perfect moon before my gaze</l>
             <l>Comes up with soothing light, around me float</l>
             <l>From every precipice and thicket damp</l>
             <l>The silvery phantoms of the ages past,</l>
-            <l>And temper the austere delight of thought.</l>
+            <l>And temper the austere delight of thought.</l></divine>
         </lg>
         <lg>
-            <l>That nothing can be perfect unto Man</l>
+            <divine><l>That nothing can be perfect unto Man</l>
             <l>I now am conscious. With this ecstasy,</l>
             <l>Which brings me near and nearer to the Gods,</l>
             <l>Thou gav'st the comrade, whom I now no more</l>
             <l>Can do without, though, cold and scornful, he</l>
             <l>Demeans me to myself, and with a breath,</l>
-            <l>A word, transforms thy gifts to nothingness.</l>
-            <l>Within my breast he fans a lawless fire,</l>
+            <l>A word, transforms thy gifts to nothingness.</l></divine>
+            <earthly><l>Within my breast he fans a lawless fire,</l>
             <l>Unwearied, for that fair and lovely form:</l>
             <l>Thus in desire I hasten to enjoyment,</l>
-            <l>And in enjoyment pine to feel desire.</l>
+            <l>And in enjoyment pine to feel desire.</l></earthly>
         </lg>
         <stage>(MEPHISTOPHELES enters.)</stage>
     </sp>
@@ -56,8 +56,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Would there were other work for thee!</l>
-            <l>To plague my day auspicious thou returnest.</l>
+            <divine><l>Would there were other work for thee!</l></divine>
+            <divine><l>To plague my day auspicious thou returnest.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -76,8 +76,8 @@
         <speaker>FAUST</speaker>
 
         <lg>
-            <l>There is, again, thy proper tone!—</l>
-            <l>That thou hast bored me, I must thankful be!</l>
+            <divine><l>There is, again, thy proper tone!—</l></divine>
+            <divine></divine><l>That thou hast bored me, I must thankful be!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -100,10 +100,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>What fresh and vital forces, canst thou guess,</l>
-            <l>Spring from my commerce with the wilderness?</l>
-            <l>But, if thou hadst the power of guessing,</l>
-            <l>Thou wouldst be devil enough to grudge my soul the blessing.</l>
+            <divine><l>What fresh and vital forces, canst thou guess,</l>
+            <l>Spring from my commerce with the wilderness?</l></divine>
+            <<divine>l>But, if thou hadst the power of guessing,</l>
+            <l>Thou wouldst be devil enough to grudge my soul the blessing.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -131,7 +131,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Shame on thee!</l>
+            <divine><l>Shame on thee!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -173,7 +173,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Serpent! Serpent!</l>
+            <divine><l>Serpent! Serpent!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -186,10 +186,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Get thee away with thine offences,</l>
+            <divine><l>Get thee away with thine offences,</l>
             <l>Reprobate! Name not that fairest thing,</l>
             <l>Nor the desire for her sweet body bring</l>
-            <l>Again before my half-distracted senses!</l>
+            <l>Again before my half-distracted senses!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -202,10 +202,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Yet am I near, and love keeps watch and ward;</l>
-            <l>Though I were ne'er so far, it cannot falter:</l>
-            <l>I envy even the Body of the Lord</l>
-            <l>The touching of her lips, before the altar.</l>
+            <earthly><l>Yet am I near, and love keeps watch and ward;</l>
+            <l>Though I were ne'er so far, it cannot falter:</l></earthly>
+            <earthly><l>I envy even the Body of the Lord</l>
+            <l>The touching of her lips, before the altar.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -218,7 +218,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Away, thou pimp!</l>
+            <divine><l>Away, thou pimp!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -236,27 +236,27 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>What are, within her arms, the heavenly blisses?</l>
-            <l>Though I be glowing with her kisses,</l>
-            <l>Do I not always share her need?</l>
-            <l>I am the fugitive, all houseless roaming,</l>
+            <divine><l>What are, within her arms, the heavenly blisses?</l></divine>
+            <divine><l>Though I be glowing with her kisses,</l>
+            <l>Do I not always share her need?</l></divine>
+            <divine><l>I am the fugitive, all houseless roaming,</l>
             <l>The monster without air or rest,</l>
             <l>That like a cataract, down rocks and gorges foaming,</l>
-            <l>Leaps, maddened, into the abyss's breast!</l>
-            <l>And side-wards she, with young unwakened senses,</l>
+            <l>Leaps, maddened, into the abyss's breast!</l></divine>
+            <divine><l>And side-wards she, with young unwakened senses,</l>
             <l>Within her cabin on the Alpine field</l>
             <l>Her simple, homely life commences,</l>
-            <l>Her little world therein concealed.</l>
-            <l>And I, God's hate flung o'er me,</l>
+            <l>Her little world therein concealed.</l></divine>
+            <divine><l>And I, God's hate flung o'er me,</l>
             <l>Had not enough, to thrust</l>
             <l>The stubborn rocks before me</l>
-            <l>And strike them into dust!</l>
-            <l>She and her peace I yet must undermine:</l>
-            <l>Thou, Hell, hast claimed this sacrifice as thine!</l>
-            <l>Help, Devil! through the coming pangs to push me;</l>
-            <l>What must be, let it quickly be!</l>
-            <l>Let fall on me her fate, and also crush me,—</l>
-            <l>One ruin whelm both her and me!</l>
+            <l>And strike them into dust!</l></divine>
+            <earthly><l>She and her peace I yet must undermine:</l>
+            <l>Thou, Hell, hast claimed this sacrifice as thine!</l></earthly>
+            <earthly><l>Help, Devil! through the coming pangs to push me;</l>
+            <l>What must be, let it quickly be!</l></earthly>
+            <earthly><l>Let fall on me her fate, and also crush me,—</l>
+            <l>One ruin whelm both her and me!</l></earthly>
         </lg>
     </sp>
     <sp>

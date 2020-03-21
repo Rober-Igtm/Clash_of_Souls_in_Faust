@@ -18,8 +18,8 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>A look from thee, a word, more entertains</l>
-        <l>Than all the lore of wisest brains.</l>
+       <divine> <l>A look from thee, a word, more entertains</l>
+        <l>Than all the lore of wisest brains.</l></divine>
 
 
     </sp>
@@ -92,8 +92,8 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Trust me, dear heart! what men call sensible</l>
-        <l>Is oft mere vanity and narrowness.</l>
+        <divine><l>Trust me, dear heart! what men call sensible</l>
+        <l>Is oft mere vanity and narrowness.</l></divine>
 
 
     </sp>
@@ -107,10 +107,10 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Ah, that simplicity and innocence ne'er know</l>
-        <l>Themselves, their holy value, and their spell!</l>
-        <l>That meekness, lowliness, the highest graces</l>
-        <l>Which Nature portions out so lovingly—</l>
+        <divine><l>Ah, that simplicity and innocence ne'er know</l>
+        <l>Themselves, their holy value, and their spell!</l></divine>
+        <divine><l>That meekness, lowliness, the highest graces</l>
+        <l>Which Nature portions out so lovingly—</l></divine>
 
 
     </sp>
@@ -125,7 +125,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>No doubt you're much alone?</l>
+        <earthly><l>No doubt you're much alone?</l></earthly>
 
 
     </sp>
@@ -154,7 +154,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>An angel, if like thee!</l>
+        <divine><l>An angel, if like thee!</l></divine>
 
 
     </sp>
@@ -178,7 +178,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>The purest bliss was surely then thy dower.</l>
+        <divine><l>The purest bliss was surely then thy dower.</l></divine>
 
 
     </sp>
@@ -275,8 +275,8 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>And me, thou angel! didst thou recognize,</l>
-        <l>As through the garden-gate I came?</l>
+        <earthly><l>And me, thou angel! didst thou recognize,</l>
+        <l>As through the garden-gate I came?</l></earthly>
 
 
     </sp>
@@ -290,9 +290,9 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>And thou forgiv'st my freedom, and the blame</l>
+        <earthly><l>And thou forgiv'st my freedom, and the blame</l>
         <l>To my impertinence befitting,</l>
-        <l>As the Cathedral thou wert quitting?</l>
+        <l>As the Cathedral thou wert quitting?</l></earthly>
 
 
     </sp>
@@ -315,8 +315,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Sweet darling!</l>
-
+        <earthly><l>Sweet darling!</l></earthly>
 
     </sp>
     <sp>
@@ -331,7 +330,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Shall that a nosegay be?</l>
+        <divine><l>Shall that a nosegay be?</l></divine>
 
 
     </sp>
@@ -345,7 +344,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>How?</l>
+        <earthly><l>How?</l></earthly>
 
 
     </sp>
@@ -360,7 +359,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>What murmurest thou?</l>
+        <divine><l>What murmurest thou?</l></divine>
 
 
     </sp>
@@ -375,7 +374,7 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Thou sweet, angelic soul!</l>
+        <divine><l>Thou sweet, angelic soul!</l></divine>
 
 
     </sp>
@@ -393,9 +392,9 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>Yes, child! and let this blossom-word</l>
-        <l>For thee be speech divine! He loves thee!</l>
-        <l>Ah, know'st thou what it means? He loves thee!</l>
+        <divine><l>Yes, child! and let this blossom-word</l>
+        <l>For thee be speech divine! He loves thee!</l></divine>
+        <divine><l>Ah, know'st thou what it means? He loves thee!</l></divine>
 
         <stage>(He grasps both her hands.)</stage>
 
@@ -411,13 +410,13 @@
     <sp>
         <speaker>FAUST</speaker>
 
-        <l>O tremble not! but let this look,</l>
+        <divine><l>O tremble not! but let this look,</l>
         <l>Let this warm clasp of hands declare thee</l>
-        <l>What is unspeakable!</l>
-        <l>To yield one wholly, and to feel a rapture</l>
-        <l>In yielding, that must be eternal!</l>
-        <l>Eternal!—for the end would be despair.</l>
-        <l>No, no,—no ending! no ending!</l>
+        <l>What is unspeakable!</l></divine>
+        <divine><l>To yield one wholly, and to feel a rapture</l>
+        <l>In yielding, that must be eternal!</l></divine>
+        <divine><l>Eternal!—for the end would be despair.</l></divine>
+        <divine><l>No, no,—no ending! no ending!</l></divine>
 
 
     </sp>

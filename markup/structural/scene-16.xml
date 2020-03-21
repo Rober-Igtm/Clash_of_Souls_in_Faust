@@ -11,7 +11,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>What I can!</l>
+            <earthly><l>What I can!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -25,9 +25,9 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Leave that, my child! Thou know'st my love is tender;</l>
-            <l>For love, my blood and life would I surrender,</l>
-            <l>And as for Faith and Church, I grant to each his own.</l>
+            <earthly><l>Leave that, my child! Thou know'st my love is tender;</l></earthly>
+            <earthly><l>For love, my blood and life would I surrender,</l>
+            <l>And as for Faith and Church, I grant to each his own.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -39,7 +39,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Must we?</l>
+            <earthly><l>Must we?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -52,7 +52,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>I honor them.</l>
+            <divine><l>I honor them.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -66,11 +66,11 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>My darling, who shall dare</l>
-            <l>"I believe in God!" to say?</l>
-            <l>Ask priest or sage the answer to declare,</l>
+            <earthly><l>My darling, who shall dare</l>
+            <l>"I believe in God!" to say?</l></earthly>
+            <earthly><l>Ask priest or sage the answer to declare,</l>
             <l>And it will seem a mocking play,</l>
-            <l>A sarcasm on the asker.</l>
+            <l>A sarcasm on the asker.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -82,34 +82,34 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Hear me not falsely, sweetest countenance!</l>
-            <l>Who dare express Him?</l>
-            <l>And who profess Him,</l>
-            <l>Saying: I believe in Him!</l>
-            <l>Who, feeling, seeing,</l>
+            <earthly><l>Hear me not falsely, sweetest countenance!</l></earthly>
+            <earthly><l>Who dare express Him?</l></earthly>
+            <earthly><l>And who profess Him,</l>
+            <l>Saying: I believe in Him!</l></earthly>
+            <divine><l>Who, feeling, seeing,</l>
             <l>Deny His being,</l>
-            <l>Saying: I believe Him not!</l>
-            <l>The All-enfolding,</l>
+            <l>Saying: I believe Him not!</l></divine>
+            <divine><l>The All-enfolding,</l>
             <l>The All-upholding,</l>
             <l>Folds and upholds he not</l>
-            <l>Thee, me, Himself?</l>
-            <l>Arches not there the sky above us?</l>
-            <l>Lies not beneath us, firm, the earth?</l>
-            <l>And rise not, on us shining,</l>
-            <l>Friendly, the everlasting stars?</l>
-            <l>Look I not, eye to eye, on thee,</l>
+            <l>Thee, me, Himself?</l></divine>
+            <divine><l>Arches not there the sky above us?</l>
+            <l>Lies not beneath us, firm, the earth?</l></divine>
+            <divine><l>And rise not, on us shining,</l>
+            <l>Friendly, the everlasting stars?</l></divine>
+            <divine><l>Look I not, eye to eye, on thee,</l>
             <l>And feel'st not, thronging</l>
             <l>To head and heart, the force,</l>
             <l>Still weaving its eternal secret,</l>
-            <l>Invisible, visible, round thy life?</l>
-            <l>Vast as it is, fill with that force thy heart,</l>
+            <l>Invisible, visible, round thy life?</l></divine>
+            <earthly><l>Vast as it is, fill with that force thy heart,</l>
             <l>And when thou in the feeling wholly blessed art,</l>
             <l>Call it, then, what thou wilt,—</l>
-            <l>Call it Bliss! Heart! Love! God!</l>
-            <l>I have no name to give it!</l>
-            <l>Feeling is all in all:</l>
+            <l>Call it Bliss! Heart! Love! God!</l></earthly>
+            <earthly><l>I have no name to give it!</l></earthly>
+            <earthly><l>Feeling is all in all:</l>
             <l>The Name is sound and smoke,</l>
-            <l>Obscuring Heaven's clear glow.</l>
+            <l>Obscuring Heaven's clear glow.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -123,10 +123,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>The same thing, in all places,</l>
+            <earthly><l>The same thing, in all places,</l>
             <l>All hearts that beat beneath the heavenly day—</l>
             <l>Each in its language—say;</l>
-            <l>Then why not I, in mine, as well?</l>
+            <l>Then why not I, in mine, as well?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -140,7 +140,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Dear love!</l>
+            <earthly><l>Dear love!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -153,7 +153,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>How so?</l>
+            <earthly><l>How so?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -169,7 +169,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Nay, fear him not, my sweetest one!</l>
+            <earthly><l>Nay, fear him not, my sweetest one!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -186,7 +186,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>There must be such queer birds, however.</l>
+          <earthly><l>There must be such queer birds, however.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -207,7 +207,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Foreboding angel that thou art!</l>
+            <divine><l>Foreboding angel that thou art!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -224,7 +224,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>There, now, is thine antipathy!</l>
+           <earthly> <l>There, now, is thine antipathy!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -236,9 +236,9 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Ah, shall there never be</l>
+            <earthly><l>Ah, shall there never be</l>
             <l>A quiet hour, to see us fondly plighted,</l>
-            <l>With breast to breast, and soul to soul united?</l>
+            <l>With breast to breast, and soul to soul united?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -254,10 +254,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Thou angel, fear it not!</l>
-            <l>Here is a phial: in her drink</l>
+            <earthly><l>Thou angel, fear it not!</l></earthly>
+            <earthly><l>Here is a phial: in her drink</l>
             <l>But three drops of it measure,</l>
-            <l>And deepest sleep will on her senses sink.</l>
+            <l>And deepest sleep will on her senses sink.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -270,7 +270,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>If 'twould, my love, would I advise it?</l>
+            <earthly><l>If 'twould, my love, would I advise it?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -292,7 +292,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Hast played the spy again?</l>
+            <earthly><l>Hast played the spy again?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -309,12 +309,12 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Thou, monster, wilt nor see nor own</l>
+            <divine><l>Thou, monster, wilt nor see nor own</l>
             <l>How this pure soul, of faith so lowly,</l>
             <l>So loving and ineffable,—</l>
-            <l>The faith alone</l>
-            <l>That her salvation is,—with scruples holy</l>
-            <l>Pines, lest she hold as lost the man she loves so well!</l>
+            <l>The faith alone</l></divine>
+            <earthly><l>That her salvation is,—with scruples holy</l>
+            <l>Pines, lest she hold as lost the man she loves so well!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -327,7 +327,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Abortion, thou, of filth and fire!</l>
+            <divine><l>Abortion, thou, of filth and fire!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -344,7 +344,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>What's that to thee?</l>
+            <divine><l>What's that to thee?</l></divine>
         </lg>
     </sp>
     <sp>
