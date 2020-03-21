@@ -41,6 +41,7 @@
       1. We use a combination of positive lookaheads and lookbehinds to match line groups. It identifies a line group by finding two sets of two newlines around each set of lines.
    1. Replace: `<lg>\n\1\n</lg>`
       1. This will not add the tags around the last line group in the document unless it has two newlines after it.
+   1. Dot matches all: checked
 1. Speech `<sp>`
    1. Find: `(<speaker>.+?)(?=\n<speaker>)`
    1. Replace: `<sp>\n\1</sp>\n`

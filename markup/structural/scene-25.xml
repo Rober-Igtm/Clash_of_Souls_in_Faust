@@ -1,0 +1,517 @@
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="25">
+    <head>DUNGEON</head>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(with a bunch of keys and a lamp, before an iron door)</stage>
+        <lg>
+            <l>A shudder, long unfelt, comes o'er me;</l>
+            <l>Mankind's collected woe o'erwhelms me, here.</l>
+            <l>She dwells within the dark, damp walls before me,</l>
+            <l>And all her crime was a delusion dear!</l>
+            <l>What! I delay to free her?</l>
+            <l>I dread, once again to see her?</l>
+            <l>On! my shrinking but lingers Death more near.</l>
+        </lg>
+        <stage>(He grasps the lock: the sound of singing is heard inside.)</stage>
+        <lg>
+            <l>My mother, the harlot,</l>
+            <l>Who put me to death;</l>
+            <l>My father, the varlet,</l>
+            <l>Who eaten me hath!</l>
+            <l>Little sister, so good,</l>
+            <l>Laid my bones in the wood,</l>
+            <l>In the damp moss and clay:</l>
+            <l>Then was I a beautiful bird o' the wood;</l>
+            <l>Fly away! Fly away!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(unlocking)</stage>
+        <lg>
+            <l>She does not dream her lover listens near;</l>
+            <l>That he the rattling chain, the rustling straw, can hear.</l>
+        </lg>
+        <stage>(He enters.)</stage>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <stage>(hiding herself on the pallet)</stage>
+        <lg>
+            <l>Woe! woe! They come. O death of bitterness!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(whispering)</stage>
+        <lg>
+            <l>Hush! hush! The hour is come that frees thee.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <stage>(throwing herself before him)</stage>
+        <lg>
+            <l>Art thou a man, then pity my distress!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Thy cries will wake the guards, and they will seize thee!</l>
+        </lg>
+        <stage>(He takes hold of the fetters to unlock them.)</stage>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <stage>(on her knees)</stage>
+        <lg>
+            <l>Who, headsman! unto thee such power</l>
+            <l>Over me could give?</l>
+            <l>Thou'rt come for me at midnight-hour:</l>
+            <l>Have mercy on me, let me live!</l>
+            <l>Is't not soon enough when morning chime has run?</l>
+        </lg>
+        <stage>(She rises.)</stage>
+        <lg>
+            <l>And I am yet so young, so young!</l>
+            <l>And now Death comes, and ruin!</l>
+            <l>I, too, was fair, and that was my undoing.</l>
+            <l>My love was near, but now he's far;</l>
+            <l>Torn lies the wreath, scattered the blossoms are.</l>
+            <l>Seize me not thus so violently!</l>
+            <l>Spare me! What have I done to thee?</l>
+            <l>Let me not vainly entreat thee!</l>
+            <l>I never chanced, in all my days, to meet thee!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Shall I outlive this misery?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Now am I wholly in thy might.</l>
+            <l>But let me suckle, first, my baby!</l>
+            <l>I blissed it all this livelong night;</l>
+            <l>They took 't away, to vex me, maybe,</l>
+            <l>And now they say I killed the child outright.</l>
+            <l>And never shall I be glad again.</l>
+            <l>They sing songs about me! 'tis bad of the folk to do it!</l>
+            <l>There's an old story has the same refrain;</l>
+            <l>Who bade them so construe it?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(falling upon his knees)</stage>
+        <lg>
+            <l>Here lieth one who loves thee ever,</l>
+            <l>The thraldom of thy woe to sever.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <stage>(flinging herself beside him)</stage>
+        <lg>
+            <l>O let us kneel, and call the Saints to hide us!</l>
+            <l>Under the steps beside us,</l>
+            <l>The threshold under,</l>
+            <l>Hell heaves in thunder!</l>
+            <l>The Evil One</l>
+            <l>With terrible wrath</l>
+            <l>Seeketh a path</l>
+            <l>His prey to discover!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(aloud)</stage>
+        <lg>
+            <l>Margaret! Margaret!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <stage>(attentively listening)</stage>
+        <lg>
+            <l>That was the voice of my lover!</l>
+        </lg>
+        <stage>(She springs to her feet: the fetters fall off.)</stage>
+        <lg>
+            <l>Where is he? I heard him call me.</l>
+            <l>I am free! No one shall enthrall me.</l>
+            <l>To his neck will I fly,</l>
+            <l>On his bosom lie!</l>
+            <l>On the threshold he stood, and Margaret! calling,</l>
+            <l>Midst of Hell's howling and noises appalling,</l>
+            <l>Midst of the wrathful, infernal derision,</l>
+            <l>I knew the sweet sound of the voice of the vision!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>'Tis I!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>'Tis thou! O, say it once again!</l>
+        </lg>
+        <stage>(Clasping him.)</stage>
+        <lg>
+            <l>'Tis he! 'tis he! Where now is all my pain?</l>
+            <l>The anguish of the dungeon, and the chain?</l>
+            <l>'Tis thou! Thou comest to save me,</l>
+            <l>And I am saved!—</l>
+            <l>Again the street I see</l>
+            <l>Where first I looked on thee;</l>
+            <l>And the garden, brightly blooming,</l>
+            <l>Where I and Martha wait thy coming.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <stage>(struggling to leave)</stage>
+        <lg>
+            <l>Come! Come with me!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Delay, now!</l>
+            <l>So fain I stay, when thou delayest!</l>
+        </lg>
+        <stage>(Caressing him.)</stage>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Away, now!</l>
+            <l>If longer here thou stayest,</l>
+            <l>We shall be made to dearly rue it.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Kiss me!—canst no longer do it?</l>
+            <l>My friend, so short a time thou'rt missing,</l>
+            <l>And hast unlearned thy kissing?</l>
+            <l>Why is my heart so anxious, on thy breast?</l>
+            <l>Where once a heaven thy glances did create me,</l>
+            <l>A heaven thy loving words expressed,</l>
+            <l>And thou didst kiss, as thou wouldst suffocate me—</l>
+            <l>Kiss me!</l>
+            <l>Or I'll kiss thee!</l>
+        </lg>
+        <stage>(She embraces him.)</stage>
+        <lg>
+            <l>Ah, woe! thy lips are chill,</l>
+            <l>And still.</l>
+            <l>How changed in fashion</l>
+            <l>Thy passion!</l>
+            <l>Who has done me this ill?</l>
+        </lg>
+        <stage>(She turns away from him.)</stage>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Come, follow me! My darling, be more bold:</l>
+            <l>I'll clasp thee, soon, with warmth a thousand-fold;</l>
+            <l>But follow now! 'Tis all I beg of thee.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <stage>(turning to him)</stage>
+        <lg>
+            <l>And is it thou? Thou, surely, certainly?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>'Tis I! Come on!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Thou wilt unloose my chain,</l>
+            <l>And in thy lap wilt take me once again.</l>
+            <l>How comes it that thou dost not shrink from me?—</l>
+            <l>Say, dost thou know, my friend, whom thou mak'st free?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Come! come! The night already vanisheth.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>My mother have I put to death;</l>
+            <l>I've drowned the baby born to thee.</l>
+            <l>Was it not given to thee and me?</l>
+            <l>Thee, too!—'Tis thou! It scarcely true doth seem—</l>
+            <l>Give me thy hand! 'Tis not a dream!</l>
+            <l>Thy dear, dear hand!—But, ah, 'tis wet!</l>
+            <l>Why, wipe it off! Methinks that yet</l>
+            <l>There's blood thereon.</l>
+            <l>Ah, God! what hast thou done?</l>
+            <l>Nay, sheathe thy sword at last!</l>
+            <l>Do not affray me!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>O, let the past be past!</l>
+            <l>Thy words will slay me!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>No, no! Thou must outlive us.</l>
+            <l>Now I'll tell thee the graves to give us:</l>
+            <l>Thou must begin to-morrow</l>
+            <l>The work of sorrow!</l>
+            <l>The best place give to my mother,</l>
+            <l>Then close at her side my brother,</l>
+            <l>And me a little away,</l>
+            <l>But not too very far, I pray!</l>
+            <l>And here, on my right breast, my baby lay!</l>
+            <l>Nobody else will lie beside me!—</l>
+            <l>Ah, within thine arms to hide me,</l>
+            <l>That was a sweet and a gracious bliss,</l>
+            <l>But no more, no more can I attain it!</l>
+            <l>I would force myself on thee and constrain it,</l>
+            <l>And it seems thou repellest my kiss:</l>
+            <l>And yet 'tis thou, so good, so kind to see!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>If thou feel'st it is I, then come with me!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Out yonder?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>To freedom.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>If the grave is there,</l>
+            <l>Death lying in wait, then come!</l>
+            <l>From here to eternal rest:</l>
+            <l>No further step—no, no!</l>
+            <l>Thou goest away! O Henry, if I could go!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Thou canst! Just will it! Open stands the door.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>I dare not go: there's no hope any more.</l>
+            <l>Why should I fly? They'll still my steps waylay!</l>
+            <l>It is so wretched, forced to beg my living,</l>
+            <l>And a bad conscience sharper misery giving!</l>
+            <l>It is so wretched, to be strange, forsaken,</l>
+            <l>And I'd still be followed and taken!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>I'll stay with thee.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Be quick! Be quick!</l>
+            <l>Save thy perishing child!</l>
+            <l>Away! Follow the ridge</l>
+            <l>Up by the brook,</l>
+            <l>Over the bridge,</l>
+            <l>Into the wood,</l>
+            <l>To the left, where the plank is placed</l>
+            <l>In the pool!</l>
+            <l>Seize it in haste!</l>
+            <l>'Tis trying to rise,</l>
+            <l>'Tis struggling still!</l>
+            <l>Save it! Save it!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Recall thy wandering will!</l>
+            <l>One step, and thou art free at last!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>If the mountain we had only passed!</l>
+            <l>There sits my mother upon a stone,—</l>
+            <l>I feel an icy shiver!</l>
+            <l>There sits my mother upon a stone,</l>
+            <l>And her head is wagging ever.</l>
+            <l>She beckons, she nods not, her heavy head falls o'er;</l>
+            <l>She slept so long that she wakes no more.</l>
+            <l>She slept, while we were caressing:</l>
+            <l>Ah, those were the days of blessing!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Here words and prayers are nothing worth;</l>
+            <l>I'll venture, then, to bear thee forth.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>No—let me go! I'll suffer no force!</l>
+            <l>Grasp me not so murderously!</l>
+            <l>I've done, else, all things for the love of thee.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>The day dawns: Dearest! Dearest!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Day? Yes, the day comes,—the last day breaks for me!</l>
+            <l>My wedding-day it was to be!</l>
+            <l>Tell no one thou has been with Margaret!</l>
+            <l>Woe for my garland! The chances</l>
+            <l>Are over—'tis all in vain!</l>
+            <l>We shall meet once again,</l>
+            <l>But not at the dances!</l>
+            <l>The crowd is thronging, no word is spoken:</l>
+            <l>The square below</l>
+            <l>And the streets overflow:</l>
+            <l>The death-bell tolls, the wand is broken.</l>
+            <l>I am seized, and bound, and delivered—</l>
+            <l>Shoved to the block—they give the sign!</l>
+            <l>Now over each neck has quivered</l>
+            <l>The blade that is quivering over mine.</l>
+            <l>Dumb lies the world like the grave!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>O had I ne'er been born!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(appears outside)</stage>
+        <lg>
+            <l>Off! or you're lost ere morn.</l>
+            <l>Useless talking, delaying and praying!</l>
+            <l>My horses are neighing:</l>
+            <l>The morning twilight is near.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>What rises up from the threshold here?</l>
+            <l>He! he! suffer him not!</l>
+            <l>What does he want in this holy spot?</l>
+            <l>He seeks me!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Thou shalt live.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Judgment of God! myself to thee I give.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(to FAUST)</stage>
+        <lg>
+            <l>Come! or I'll leave her in the lurch, and thee!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARGARET</speaker>
+        <lg>
+            <l>Thine am I, Father! rescue me!</l>
+            <l>Ye angels, holy cohorts, guard me,</l>
+            <l>Camp around, and from evil ward me!</l>
+            <l>Henry! I shudder to think of thee.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>She is judged!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>VOICE</speaker>
+        <stage>(from above)</stage>
+        <lg>
+            <l>She is saved!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(to FAUST)</stage>
+        <lg>
+            <l>Hither to me!</l>
+        </lg>
+    </sp>
+    <stage>(He disappears with FAUST.)</stage>
+    <sp>
+        <speaker>VOICE</speaker>
+        <stage>(from within, dying away)</stage>
+        <lg>
+            <l>Henry! Henry!</l>
+        </lg>
+    </sp>
+</scene>

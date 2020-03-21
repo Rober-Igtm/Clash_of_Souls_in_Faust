@@ -1,0 +1,42 @@
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="24">
+    <head>NIGHT</head>
+    <stage>OPEN FIELD</stage>
+    <stage>(FAUST and MEPHISTOPHELES speeding onward on black horses.)</stage>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>What weave they there round the raven-stone?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>I know not what they are brewing and doing.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>Soaring up, sweeping down, bowing and bending!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>A witches'-guild.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <l>They scatter, devote and doom!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>On! on!</l>
+        </lg>
+    </sp>
+</scene>
