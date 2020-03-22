@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="XVII">
+
+<head>AT THE FOUNTAIN</head>
+
+<stage>MARGARET and LISBETH With pitchers.</stage>
+
+
+<sp>
+<speaker>LISBETH</speaker>
+
+<lg><l>Hast nothing heard of Barbara?</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>No, not a word. I go so little out.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>LISBETH</speaker>
+
+<lg><l>It's true, Sibylla said, to-day.</l>
+<l>She's played the fool at last, there's not a doubt.</l>
+<l>Such taking-on of airs!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>How so?</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>LISBETH</speaker>
+<lg>
+<l>It stinks!</l>
+
+<l>She's feeding two, whene'er she eats and drinks.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>Ah!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>LISBETH</speaker>
+
+<lg><l>And so, at last, it serves her rightly.</l>
+<l>She clung to the fellow so long and tightly!</l>
+<l>That was a promenading!</l>
+<l>At village and dance parading!</l>
+<l>As the first they must everywhere shine,</l>
+<l>And he treated her always to pies and wine,</l>
+<l>And she made a to-do with her face so fine;</l>
+<l>So mean and shameless was her behavior,</l>
+<l>She took all the presents the fellow gave her.</l>
+<l>'Twas kissing and coddling, on and on!</l>
+<l>So now, at the end, the flower is gone.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>The poor, poor thing!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>LISBETH</speaker>
+
+<lg><l>Dost pity her, at that?</l>
+
+<l>When one of us at spinning sat,</l>
+<l>And mother, nights, ne'er let us out the door</l>
+<l>She sported with her paramour.</l>
+<l>On the door-bench, in the passage dark,</l>
+<l>The length of the time they'd never mark.</l>
+<l>So now her head no more she'll lift,</l>
+<l>But do church-penance in her sinner's shift!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>He'll surely take her for his wife.</l>
+</lg>
+
+</sp>
+
+<sp>
+<speaker>LISBETH</speaker>
+
+<lg><l>He'd be a fool! A brisk young blade</l>
+<l>Has room, elsewhere, to ply his trade.</l>
+<l>Besides, he's gone.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>That is not fair!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>LISBETH</speaker>
+
+<lg><l>If him she gets, why let her beware!</l>
+<l>The boys shall dash her wreath on the floor,</l>
+<l>And we'll scatter chaff before her door!</l></lg>
+
+<stage>[Exit]</stage>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET </speaker> <stage>(returning home)</stage>
+
+<lg><l>How scornfully I once reviled,</l>
+<l>When some poor maiden was beguiled!</l>
+<l>More speech than any tongue suffices</l>
+<l>I craved, to censure others' vices.</l>
+<l>Black as it seemed, I blackened still,</l>
+<l>And blacker yet was in my will;</l>
+<l>And blessed myself, and boasted high,—</l>
+<l>And now—a living sin am I!</l>
+<l>Yet—all that drove my heart thereto,</l>
+<l>God! was so good, so dear, so true!</l>
+</lg>
+
+</sp>
+
+</scene>

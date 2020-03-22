@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="XX">
+
+    <head>CATHEDRAL</head>
+    <stage> SERVICE, ORGAN and ANTHEM.</stage>
+
+    <stage>(MARGARET among much people: the EVIL SPIRIT behind MARGARET.)</stage>
+
+
+    <sp>
+        <speaker>EVIL SPIRIT</speaker>
+
+        <lg>
+            <l>HOW otherwise was it, Margaret,</l>
+            <l>When thou, still innocent,</l>
+            <l>Here to the altar cam'st,</l>
+            <l>And from the worn and fingered book</l>
+            <l>Thy prayers didst prattle,</l>
+            <l>Half sport of childhood,</l>
+            <l>Half God within thee!</l>
+            <l>Margaret!</l>
+            <l>Where tends thy thought?</l>
+            <l>Within thy bosom</l>
+            <l>What hidden crime?</l>
+            <l>Pray'st thou for mercy on thy mother's soul,</l>
+            <l>That fell asleep to long, long torment, and through thee?</l>
+            <l>Upon thy threshold whose the blood?</l>
+            <l>And stirreth not and quickens</l>
+            <l>Something beneath thy heart,</l>
+            <l>Thy life disquieting</l>
+            <l>With most foreboding presence?</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <lg>
+            <l>Woe! woe!</l>
+            <l>Would I were free from the thoughts</l>
+            <l>That cross me, drawing hither and thither</l>
+            <l>Despite me!</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>CHORUS</speaker>
+
+        <lg>
+            <l>Diesira, dies illa,</l>
+            <l>Solvet soeclum in favilla!</l>
+            <stage>(Sound of the organ.)</stage>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>EVIL SPIRIT</speaker>
+
+        <lg>
+            <l>Wrath takes thee!</l>
+            <l>The trumpet peals!</l>
+            <l>The graves tremble!</l>
+            <l>And thy heart</l>
+            <l>From ashy rest</l>
+            <l>To fiery torments</l>
+            <l>Now again requickened,</l>
+            <l>Throbs to life!</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <lg>
+            <l>Would I were forth!</l>
+            <l>I feel as if the organ here</l>
+            <l>My breath takes from me,</l>
+            <l>My very heart</l>
+            <l>Dissolved by the anthem!</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>CHORUS</speaker>
+
+        <lg>
+            <l>Judex ergo cum sedebit,</l>
+            <l>Quidquid latet, ad parebit,</l>
+            <l>Nil inultum remanebit.</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <lg>
+            <l>I cannot breathe!</l>
+            <l>The massy pillars</l>
+            <l>Imprison me!</l>
+            <l>The vaulted arches</l>
+            <l>Crush me!—Air!</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>EVIL SPIRIT</speaker>
+
+        <lg>
+            <l>Hide thyself! Sin and shame</l>
+            <l>Stay never hidden.</l>
+            <l>Air? Light?</l>
+            <l>Woe to thee!</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>CHORUS</speaker>
+
+        <lg>
+            <l>Quid sum miser tunc dicturus,</l>
+            <l>Quem patronem rogaturus,</l>
+            <l>Cum vix Justus sit securus</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>EVIL SPIRIT</speaker>
+
+        <lg>
+            <l>They turn their faces,</l>
+            <l>The glorified, from thee:</l>
+            <l>The pure, their hands to offer,</l>
+            <l>Shuddering, refuse thee!</l>
+            <l>Woe!</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>CHORUS</speaker>
+
+        <lg>
+            <l>Quid sum miser tune dicturus?</l>
+        </lg>
+
+    </sp>
+
+    <sp>
+        <speaker>MARGARET</speaker>
+
+        <lg>
+            <l>Neighbor! your cordial!</l>
+            <stage>(She falls in a swoon.)</stage>
+        </lg>
+
+    </sp>
+
+</scene>

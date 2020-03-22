@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="XIX">
+
+
+<head>NIGHT</head>
+
+<stage>STREET BEFORE MARGARET'S DOOR
+</stage>
+
+
+<sp>
+<speaker>VALENTINE</speaker> <stage>(a soldier, MARGARET'S brother)</stage>
+
+<lg><l>When I have sat at some carouse.</l>
+<l>Where each to each his brag allows,</l>
+<l>And many a comrade praised to me</l>
+<l>His pink of girls right lustily,</l>
+<l>With brimming glass that spilled the toast,</l>
+<l>And elbows planted as in boast:</l>
+<l>I sat in unconcerned repose,</l>
+<l>And heard the swagger as it rose.</l>
+<l>And stroking then my beard, I'd say,</l>
+<l>Smiling, the bumper in my hand:</l>
+<l>"Each well enough in her own way.</l>
+<l>But is there one in all the land</l>
+<l>Like sister Margaret, good as gold,—</l>
+<l>One that to her can a candle hold?"</l>
+<l>Cling! clang! "Here's to her!" went around</l>
+<l>The board: "He speaks the truth!" cried some;</l>
+<l>"In her the flower o' the sex is found!"</l>
+<l>And all the swaggerers were dumb.</l>
+<l>And now!—I could tear my hair with vexation.</l>
+<l>And dash out my brains in desperation!</l>
+<l>With turned-up nose each scamp may face me,</l>
+<l>With sneers and stinging taunts disgrace me,</l>
+<l>And, like a bankrupt debtor sitting,</l>
+<l>A chance-dropped word may set me sweating!</l>
+<l>Yet, though I thresh them all together,</l>
+<l>I cannot call them liars, either.</l></lg>
+
+<lg><l>But what comes sneaking, there, to view?</l>
+<l>If I mistake not, there are two.</l>
+<l>If he's one, let me at him drive!</l>
+<l>He shall not leave the spot alive.</l></lg>
+
+<stage>FAUST MEPHISTOPHELES</stage>
+
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<lg><l>How from the window of the sacristy</l>
+<l>Upward th'eternal lamp sends forth a glimmer,</l>
+<l>That, lessening side-wards, fainter grows and dimmer,</l>
+<l>Till darkness closes from the sky!</l>
+<l>The shadows thus within my bosom gather.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>I'm like a sentimental tom-cat, rather,</l>
+<l>That round the tall fire-ladders sweeps,</l>
+<l>And stealthy, then, along the coping creeps:</l>
+<l>Quite virtuous, withal, I come,</l>
+<l>A little thievish and a little frolicsome.</l>
+<l>I feel in every limb the presage</l>
+<l>Forerunning the grand Walpurgis-Night:</l>
+<l>Day after to-morrow brings its message,</l>
+<l>And one keeps watch then with delight.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<lg><l>Meanwhile, may not the treasure risen be,</l>
+<l>Which there, behind, I glimmering see?</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>Shalt soon experience the pleasure,</l>
+<l>To lift the kettle with its treasure.</l>
+<l>I lately gave therein a squint—</l>
+<l>Saw splendid lion-dollars in 't.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<lg><l>Not even a jewel, not a ring,</l>
+<l>To deck therewith my darling girl?</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>I saw, among the rest, a thing</l>
+<l>That seemed to be a chain of pearl.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>FAUST</speaker>
+
+<lg><l>That's well, indeed! For painful is it</l>
+<l>To bring no gift when her I visit.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>Thou shouldst not find it so annoying,</l>
+<l>Without return to be enjoying.</l>
+<l>Now, while the sky leads forth its starry throng,</l>
+<l>Thou'lt hear a masterpiece, no work completer:</l>
+<l>I'll sing her, first, a moral song,</l>
+<l>The surer, afterwards, to cheat her.</l></lg>
+
+<stage>(Sings to the cither.)</stage>
+
+<lg><l>What dost thou here</l>
+<l>In daybreak clear,</l>
+<l>Kathrina dear,</l>
+<l>Before thy lover's door?</l>
+<l>Beware! the blade</l>
+<l>Lets in a maid.</l>
+<l>That out a maid</l>
+<l>Departeth nevermore!</l></lg>
+
+<lg><l>The coaxing shun</l>
+<l>Of such an one!</l>
+<l>When once 'tis done</l>
+<l>Good-night to thee, poor thing!</l>
+<l>Love's time is brief:</l>
+<l>Unto no thief</l>
+<l>Be warm and lief,</l>
+<l>But with the wedding-ring!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker> <stage>(comes forward)</stage>
+
+<lg><l>Whom wilt thou lure? God's-element!</l>
+<l>Rat-catching piper, thou!—perdition!</l>
+<l>To the Devil, first, the instrument!</l>
+<l>To the Devil, then, the curst musician!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>The cither's smashed! For nothing more 'tis fitting.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>There's yet a skull I must be splitting!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker> <stage>(to FAUST)</stage>
+
+<lg><l>Sir Doctor, don't retreat, I pray!</l>
+<l>Stand by: I'll lead, if you'll but tarry:</l>
+<l>Out with your spit, without delay!</l>
+<l>You've but to lunge, and I will parry.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>Then parry that!</l></lg>
+
+</sp>
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>Why not? 'tis light.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>That, too!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>Of course.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>I think the Devil must fight!</l>
+<l>How is it, then? my hand's already lame:</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker> <stage>(to FAUST)</stage>
+
+<lg><l>Thrust home!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker> <stage>(jails)</stage>
+
+<lg><l>O God!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MEPHISTOPHELES</speaker>
+
+<lg><l>Now is the lubber tame!</l>
+<l>But come, away! 'Tis time for us to fly;</l>
+<l>For there arises now a murderous cry.</l>
+<l>With the police 'twere easy to compound it,</l>
+<l>But here the penal court will sift and sound it.</l></lg>
+
+<stage>[Exit with FAUST]</stage>
+
+
+</sp>
+
+<sp>
+<speaker>MARTHA</speaker> <stage>(at the window)</stage>
+
+<lg><l>Come out! Come out!</l></lg>
+
+</sp>
+<sp>
+<speaker>MARGARET</speaker> <stage>(at the window)</stage>
+
+<lg><l>Quick, bring a light!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARTHA</speaker> <stage>(as above)</stage>
+
+<lg><l>They swear and storm, they yell and fight!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>PEOPLE</speaker>
+
+<lg><l>Here lies one dead already—see!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARTHA</speaker> <stage>(coming from the house)</stage>
+
+<lg><l>The murderers, whither have they run?</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker> <stage>(coming out)</stage>
+
+<lg><l>Who lies here?</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>PEOPLE</speaker>
+
+<lg><l>'Tis thy mother's son!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>Almighty God! what misery!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>I'm dying! That is quickly said,</l>
+<l>And quicker yet 'tis done.</l>
+<l>Why howl, you women there? Instead,</l>
+<l>Come here and listen, every one!</l></lg>
+
+<stage>(All gather around him)</stage>
+
+<lg><l>My Margaret, see! still young thou art,</l>
+<l>But not the least bit shrewd or smart,</l>
+<l>Thy business thus to slight:</l>
+<l>So this advice I bid thee heed—</l>
+<l>Now that thou art a whore indeed,</l>
+<l>Why, be one then, outright!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>My brother! God! such words to me?</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>In this game let our Lord God be!</l>
+<l>What's done's already done, alas!</l>
+<l>What follows it, must come to pass.</l>
+<l>With one begin'st thou secretly,</l>
+<l>Then soon will others come to thee,</l>
+<l>And when a dozen thee have known,</l>
+<l>Thou'rt also free to all the town.</l>
+<l>When Shame is born and first appears,</l>
+<l>She is in secret brought to light,</l>
+<l>And then they draw the veil of night</l>
+<l>Over her head and ears;</l>
+<l>Her life, in fact, they're loath to spare her.</l>
+<l>But let her growth and strength display,</l>
+<l>She walks abroad unveiled by day,</l>
+<l>Yet is not grown a whit the fairer.</l>
+<l>The uglier she is to sight,</l>
+<l>The more she seeks the day's broad light.</l>
+<l>The time I verily can discern</l>
+<l>When all the honest folk will turn</l>
+<l>From thee, thou jade! and seek protection</l>
+<l>As from a corpse that breeds infection.</l>
+<l>Thy guilty heart shall then dismay thee.</l>
+<l>When they but look thee in the face:—</l>
+<l>Shalt not in a golden chain array thee,</l>
+<l>Nor at the altar take thy place!</l>
+<l>Shalt not, in lace and ribbons flowing,</l>
+<l>Make merry when the dance is going!</l>
+<l>But in some corner, woe betide thee!</l>
+<l>Among the beggars and cripples hide thee;</l>
+<l>And so, though even God forgive,</l>
+<l>On earth a damned existence live!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARTHA</speaker>
+
+<lg><l>Commend your soul to God for pardon,</l>
+<l>That you your heart with slander harden!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>Thou pimp most infamous, be still!</l>
+<l>Could I thy withered body kill,</l>
+<l>'Twould bring, for all my sinful pleasure,</l>
+<l>Forgiveness in the richest measure.</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<lg><l>My brother! This is Hell's own pain!</l></lg>
+
+
+</sp>
+
+<sp>
+<speaker>VALENTINE</speaker>
+
+<lg><l>I tell thee, from thy tears refrain!</l>
+<l>When thou from honor didst depart</l>
+<l>It stabbed me to the very heart.</l>
+<l>Now through the slumber of the grave</l>
+<l>I go to God as a soldier brave.</l></lg>
+
+<stage>(Dies.)</stage>
+
+
+</sp>
+
+</scene>

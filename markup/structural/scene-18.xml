@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="XVIII">
+
+<head>DONJON</head>
+
+<stage>(In a niche of the wall a shrine, with an image of the Mater
+Dolorosa. Pots of flowers before it.)</stage>
+
+<sp>
+<speaker>MARGARET</speaker>
+
+<stage>(putting fresh flowers in the pots)</stage>
+
+<lg><l>Incline, O Maiden,</l>
+<l>Thou sorrow-laden,</l>
+<l>Thy gracious countenance upon my pain!</l>
+</lg>
+
+<lg><l>The sword Thy heart in,</l>
+<l>With anguish smarting,</l>
+<l>Thou lookest up to where Thy Son is slain!</l>
+</lg>
+
+<lg><l>Thou seest the Father;</l>
+<l>Thy sad sighs gather,</l>
+<l>And bear aloft Thy sorrow and His pain!</l>
+</lg>
+
+<lg><l>Ah, past guessing,</l>
+<l>Beyond expressing,</l>
+<l>The pangs that wring my flesh and bone!</l>
+<l>Why this anxious heart so burneth,</l>
+<l>Why it trembleth, why it yearneth,</l>
+<l>Knowest Thou, and Thou alone!</l>
+</lg>
+
+<lg><l>Where'er I go, what sorrow,</l>
+<l>What woe, what woe and sorrow</l>
+<l>Within my bosom aches!</l>
+<l>Alone, and ah! unsleeping,</l>
+<l>I'm weeping, weeping, weeping,</l>
+<l>The heart within me breaks.</l>
+</lg>
+
+<lg><l>The pots before my window,</l>
+<l>Alas! my tears did wet,</l>
+<l>As in the early morning</l>
+<l>For thee these flowers I set.</l>
+</lg>
+
+<lg><l>Within my lonely chamber</l>
+<l>The morning sun shone red:</l>
+<l>I sat, in utter sorrow,</l>
+<l>Already on my bed.</l>
+</lg>
+
+<lg><l>Help! rescue me from death and stain!</l>
+<l>O Maiden!</l>
+<l>Thou sorrow-laden,</l>
+<l>Incline Thy countenance upon my pain!</l></lg>
+
+</sp>
+</scene>
