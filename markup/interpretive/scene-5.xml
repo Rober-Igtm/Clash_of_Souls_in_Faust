@@ -1,792 +1,896 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene>
-        <title>V</title>
-    <stage>AUERBACH'S CELLAR IN LEIPZIG</stage>
+<scene n="5">
+    <head>AUERBACH'S CELLAR IN LEIPZIG</head>
     <stage>CAROUSAL OF JOLLY COMPANIONS</stage>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>Is no one laughing? no one drinking?</line>
-        <line>I'll teach you how to grin, I'm thinking.</line>
-        <line>To-day you're like wet straw, so tame;</line>
-        <line>And usually you're all aflame.</line>
+        <lg>
+            <l>Is no one laughing? no one drinking?</l>
+            <l>I'll teach you how to grin, I'm thinking.</l>
+            <l>To-day you're like wet straw, so tame;</l>
+            <l>And usually you're all aflame.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>Now that's your fault; from you we nothing see,</line>
-        <line>No beastliness and no stupidity.</line>
+        <lg>
+            <l>Now that's your fault; from you we nothing see,</l>
+            <l>No beastliness and no stupidity.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <stage>(Pours a glass of wine over BRANDER'S head.)</stage>
-        <line>There's both together!</line>
+        <lg>
+            <stage>(Pours a glass of wine over BRANDER'S head.)</stage>
+            <l>There's both together!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>Twice a swine!</line>
+        <lg>
+            <l>Twice a swine!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>You wanted them: I've given you mine.</line>
+        <lg>
+            <l>You wanted them: I've given you mine.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>Turn out who quarrels—out the door!</line>
-        <line>With open throat sing chorus, drink and roar!</line>
-        <line>Up! holla! ho!</line>
+        <lg>
+            <l>Turn out who quarrels—out the door!</l>
+            <l>With open throat sing chorus, drink and roar!</l>
+            <l>Up! holla! ho!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <line>Woe's me, the fearful bellow!</line>
-        <line>Bring cotton, quick! He's split my ears, that fellow.</line>
+        <lg>
+            <l>Woe's me, the fearful bellow!</l>
+            <l>Bring cotton, quick! He's split my ears, that fellow.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>When the vault echoes to the song,</line>
-        <line>One first perceives the bass is deep and strong.</line>
+        <lg>
+            <l>When the vault echoes to the song,</l>
+            <l>One first perceives the bass is deep and strong.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>Well said! and out with him that takes the least offence!</line>
-        <line>Ah, tara, lara da!</line>
+        <lg>
+            <l>Well said! and out with him that takes the least offence!</l>
+            <l>Ah, tara, lara da!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <line>Ah, tara, lara, da!</line>
+        <lg>
+            <l>Ah, tara, lara, da!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>The throats are tuned, commence!</line>
-
+        <lg>
+            <l>The throats are tuned, commence!</l>
+            <stage>(Sings.)</stage>
+            <l>The dear old holy Roman realm,</l>
+            <l>How does it hold together?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>A nasty song! Fie! a political song—</l>
+            <l>A most offensive song! Thank God, each morning, therefore,</l>
+            <l>That you have not the Roman realm to care for!</l>
+            <l>At least, I hold it so much gain for me,</l>
+            <l>That I nor Chancellor nor Kaiser be.</l>
+            <l>Yet also we must have a ruling head, I hope,</l>
+            <l>And so we'll choose ourselves a Pope.</l>
+            <l>You know the quality that can</l>
+            <l>Decide the choice, and elevate the man.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <stage>(sings)</stage>
+            <l>Soar up, soar up, Dame Nightingale!</l>
+            <l>Ten thousand times my sweetheart hail!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>No, greet my sweetheart not! I tell you, I'll resent it.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>My sweetheart greet and kiss! I dare you to prevent it!</l>
+        </lg>
         <stage>(Sings.)</stage>
-
-        <line>The dear old holy Roman realm,</line>
-        <line>How does it hold together?</line>
-    </sp>
-    <sp>
-        <speaker>BRANDER</speaker>
-
-        <line>A nasty song! Fie! a political song—</line>
-        <line>A most offensive song! Thank God, each morning, therefore,</line>
-        <line>That you have not the Roman realm to care for!</line>
-        <line>At least, I hold it so much gain for me,</line>
-        <line>That I nor Chancellor nor Kaiser be.</line>
-        <line>Yet also we must have a ruling head, I hope,</line>
-        <line>And so we'll choose ourselves a Pope.</line>
-        <line>You know the quality that can</line>
-        <line>Decide the choice, and elevate the man.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-        <stage>(sings)</stage>
-
-        <line>Soar up, soar up, Dame Nightingale!</line>
-        <line>Ten thousand times my sweetheart hail!</line>
+        <lg>
+            <l>Draw the latch! the darkness makes:</l>
+            <l>Draw the latch! the lover wakes.</l>
+            <l>Shut the latch! the morning breaks</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>No, greet my sweetheart not! I tell you, I'll resent it.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>My sweetheart greet and kiss! I dare you to prevent it!</line>
-    </sp>
-    <stage>(Sings.)</stage>
-    <line>Draw the latch! the darkness makes:</line>
-    <line>Draw the latch! the lover wakes.</line>
-    <line>Shut the latch! the morning breaks</line>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>Yes, sing away, sing on, and praise, and brag of her!</line>
-        <line>I'll wait my proper time for laughter:</line>
-        <line>Me by the nose she led, and now she'll lead you after.</line>
-        <line>Her paramour should be an ugly gnome,</line>
-        <line>Where four roads cross, in wanton play to meet her:</line>
-        <line>An old he-goat, from Blocksberg coming home,</line>
-        <line>Should his good-night in lustful gallop bleat her!</line>
-        <line>A fellow made of genuine flesh and blood</line>
-        <line>Is for the wench a deal too good.</line>
-        <line>Greet her? Not I: unless, when meeting,</line>
-        <line>To smash her windows be a greeting!</line>
-    </sp>
-    <line>BRANDER <stage>(pounding on the table)</stage></line>
-    <line>Attention! Hearken now to me!</line>
-    <line>Confess, Sirs, I know how to live.</line>
-    <line>Enamored persons here have we,</line>
-    <line>And I, as suits their quality,</line>
-    <line>Must something fresh for their advantage give.</line>
-    <line>Take heed! 'Tis of the latest cut, my strain,</line>
-    <line>And all strike in at each refrain!</line>
-    <stage>(He sings.)</stage>
-    <line>There was a rat in the cellar-nest,</line>
-    <line>Whom fat and butter made smoother:</line>
-    <line>He had a paunch beneath his vest</line>
-    <line>Like that of Doctor Luther.</line>
-    <line>The cook laid poison cunningly,</line>
-    <line>And then as sore oppressed was he</line>
-    <line>As if he had love in his bosom.</line>
-    <sp>
-        <speaker>CHORUS <stage>(shouting)</stage></speaker>
-
-        <line>As if he had love in his bosom!</line>
+        <lg>
+            <l>Yes, sing away, sing on, and praise, and brag of her!</l>
+            <l>I'll wait my proper time for laughter:</l>
+            <l>Me by the nose she led, and now she'll lead you after.</l>
+            <l>Her paramour should be an ugly gnome,</l>
+            <l>Where four roads cross, in wanton play to meet her:</l>
+            <l>An old he-goat, from Blocksberg coming home,</l>
+            <l>Should his good-night in lustful gallop bleat her!</l>
+            <l>A fellow made of genuine flesh and blood</l>
+            <l>Is for the wench a deal too good.</l>
+            <l>Greet her? Not I: unless, when meeting,</l>
+            <l>To smash her windows be a greeting!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>He ran around, he ran about,</line>
-        <line>His thirst in puddles laving;</line>
-        <line>He gnawed and scratched the house throughout.</line>
-        <line>But nothing cured his raving.</line>
-        <line>He whirled and jumped, with torment mad,</line>
-        <line>And soon enough the poor beast had,</line>
-        <line>As if he had love in his bosom.</line>
+        <lg>
+            <stage>(pounding on the table)</stage>
+            <l>Attention! Hearken now to me!</l>
+            <l>Confess, Sirs, I know how to live.</l>
+            <l>Enamored persons here have we,</l>
+            <l>And I, as suits their quality,</l>
+            <l>Must something fresh for their advantage give.</l>
+            <l>Take heed! 'Tis of the latest cut, my strain,</l>
+            <l>And all strike in at each refrain!</l>
+            <stage>(He sings.)</stage>
+            <l>There was a rat in the cellar-nest,</l>
+            <l>Whom fat and butter made smoother:</l>
+            <l>He had a paunch beneath his vest</l>
+            <l>Like that of Doctor Luther.</l>
+            <l>The cook laid poison cunningly,</l>
+            <l>And then as sore oppressed was he</l>
+            <l>As if he had love in his bosom.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>CHORUS</speaker>
-
-        <line>As if he had love in his bosom!</line>
+        <stage>(shouting)</stage>
+        <lg>
+            <l>As if he had love in his bosom!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>And driven at last, in open day,</line>
-        <line>He ran into the kitchen,</line>
-        <line>Fell on the hearth, and squirming lay,</line>
-        <line>In the last convulsion twitching.</line>
-        <line>Then laughed the murderess in her glee:</line>
-        <line>"Ha! ha! he's at his last gasp," said she,</line>
-        <line>"As if he had love in his bosom!"</line>
+        <lg>
+            <l>He ran around, he ran about,</l>
+            <l>His thirst in puddles laving;</l>
+            <l>He gnawed and scratched the house throughout.</l>
+            <l>But nothing cured his raving.</l>
+            <l>He whirled and jumped, with torment mad,</l>
+            <l>And soon enough the poor beast had,</l>
+            <l>As if he had love in his bosom.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>CHORUS</speaker>
-
-        <line>As if he had love in his bosom!</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>How the dull fools enjoy the matter!</line>
-        <line>To me it is a proper art</line>
-        <line>Poison for such poor rats to scatter.</line>
+        <lg>
+            <l>As if he had love in his bosom!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>Perhaps you'll warmly take their part?</line>
+        <lg>
+            <l>And driven at last, in open day,</l>
+            <l>He ran into the kitchen,</l>
+            <l>Fell on the hearth, and squirming lay,</l>
+            <l>In the last convulsion twitching.</l>
+            <l>Then laughed the murderess in her glee:</l>
+            <l>"Ha! ha! he's at his last gasp," said she,</l>
+            <l>"As if he had love in his bosom!"</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>CHORUS</speaker>
+        <lg>
+            <l>As if he had love in his bosom!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>How the dull fools enjoy the matter!</l>
+            <l>To me it is a proper art</l>
+            <l>Poison for such poor rats to scatter.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>Perhaps you'll warmly take their part?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <line>The bald-pate pot-belly I have noted:</line>
-        <line>Misfortune tames him by degrees;</line>
-        <line>For in the rat by poison bloated</line>
-        <line>His own most natural form he sees.</line>
+        <lg>
+            <l>The bald-pate pot-belly I have noted:</l>
+            <l>Misfortune tames him by degrees;</l>
+            <l>For in the rat by poison bloated</l>
+            <l>His own most natural form he sees.</l>
+        </lg>
     </sp>
     <stage>FAUST AND MEPHISTOPHELES</stage>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <line>Before all else, I bring thee hither</line>
-        <line>Where boon companions meet together,</line>
-        <line>To let thee see how smooth life runs away.</line>
-        <line>Here, for the folk, each day's a holiday:</line>
-        <line>With little wit, and ease to suit them,</line>
-        <line>They whirl in narrow, circling trails,</line>
-        <line>Like kittens playing with their tails?</line>
-        <line>And if no headache persecute them,</line>
-        <line>So long the host may credit give,</line>
-        <line>They merrily and careless live.</line>
+        <lg>
+            <l>Before all else, I bring thee hither</l>
+            <l>Where boon companions meet together,</l>
+            <l>To let thee see how smooth life runs away.</l>
+            <l>Here, for the folk, each day's a holiday:</l>
+            <l>With little wit, and ease to suit them,</l>
+            <l>They whirl in narrow, circling trails,</l>
+            <l>Like kittens playing with their tails?</l>
+            <l>And if no headache persecute them,</l>
+            <l>So long the host may credit give,</l>
+            <l>They merrily and careless live.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>The fact is easy to unravel,</line>
-        <line>Their air's so odd, they've just returned from travel:</line>
-        <line>A single hour they've not been here.</line>
+        <lg>
+            <l>The fact is easy to unravel,</l>
+            <l>Their air's so odd, they've just returned from travel:</l>
+            <l>A single hour they've not been here.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>You've verily hit the truth! Leipzig to me is dear:</line>
-        <line>Paris in miniature, how it refines its people!</line>
+        <lg>
+            <l>You've verily hit the truth! Leipzig to me is dear:</l>
+            <l>Paris in miniature, how it refines its people!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>Who are the strangers, should you guess?</line>
+        <lg>
+            <l>Who are the strangers, should you guess?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>Let me alone! I'll set them first to drinking,</line>
-        <line>And then, as one a child's tooth draws, with cleverness,</line>
-        <line>I'll worm their secret out, I'm thinking.</line>
-        <line>They're of a noble house, that's very clear:</line>
-        <line>Haughty and discontented they appear.</line>
+        <lg>
+            <l>Let me alone! I'll set them first to drinking,</l>
+            <l>And then, as one a child's tooth draws, with cleverness,</l>
+            <l>I'll worm their secret out, I'm thinking.</l>
+            <l>They're of a noble house, that's very clear:</l>
+            <l>Haughty and discontented they appear.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>They're mountebanks, upon a revel.</line>
+        <lg>
+            <l>They're mountebanks, upon a revel.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <line>Perhaps.</line>
+        <lg>
+            <l>Perhaps.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>Look out, I'll smoke them now!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES <stage>(to FAUST)</stage></speaker>
-
-        <line>Not if he had them by the neck, I vow,</line>
-        <line>Would e'er these people scent the Devil!</line></sp>
-
-       <sp>
-           <speaker>FAUST</speaker>
-           <earthly><line> Fair greeting, gentlemen!</line></sp></earthly>
-    
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>Our thanks: we give the same.</line>
-
-        <stage>(Murmurs, inspecting MEPHISTOPHELES from the side.)</stage>
-        <line>In one foot is the fellow lame?</line>
+        <lg>
+            <l>Look out, I'll smoke them now!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <line>Is it permitted that we share your leisure?</line>
-        <line>In place of cheering drink, which one seeks vainly here,</line>
-        <line>Your company shall give us pleasure.</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>A most fastidious person you appear.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>No doubt 'twas late when you from Rippach started?</line>
-        <line>And supping there with Hans occasioned your delay?</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>We passed, without a call, to-day.</line>
-        <line>At our last interview, before we parted</line>
-        <line>Much of his cousins did he speak, entreating</line>
-        <line>That we should give to each his kindly greeting.</line>
-
-        <stage>(He bows to FROSCH.)</stage>
-
-        <line>ALTMAYER <stage>(aside)</stage></line>
-
-        <line>You have it now! he understands.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>A knave sharp-set!</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>Just wait awhile: I'll have him yet.</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>If I am right, we heard the sound</line>
-        <line>Of well-trained voices, singing chorus;</line>
-        <line>And truly, song must here rebound</line>
-        <line>Superbly from the arches o'er us.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>Are you, perhaps, a virtuoso?</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>O no! my wish is great, my power is only so-so.</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>Give us a song!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>If you desire, a number.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>So that it be a bran-new strain!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>We've just retraced our way from. Spain,</line>
-        <line>The lovely land of wine, and song, and slumber.</line>
-
-        <stage>(Sings.)</stage>
-
-        <line>There was a king once reigning,</line>
-        <line>Who had a big black flea—</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>Hear, hear! A flea! D'ye rightly take the jest?</line>
-        <line>I call a flea a tidy guest.</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES <stage>(sings)</stage></speaker>
-
-        <line>There was a king once reigning,</line>
-        <line>Who had a big black flea,</line>
-        <line>And loved him past explaining,</line>
-        <line>As his own son were he.</line>
-        <line>He called his man of stitches;</line>
-        <line>The tailor came straightway:</line>
-        <line>Here, measure the lad for breeches.</line>
-        <line>And measure his coat, I say!</line>
-    </sp>
-    <sp>
-        <speaker>BRANDER</speaker>
-
-        <line>But mind, allow the tailor no caprices:</line>
-        <line>Enjoin upon him, as his head is dear,</line>
-        <line>To most exactly measure, sew and shear,</line>
-        <line>So that the breeches have no creases!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>In silk and velvet gleaming</line>
-        <line>He now was wholly drest—</line>
-        <line>Had a coat with ribbons streaming,</line>
-        <line>A cross upon his breast.</line>
-        <line>He had the first of stations,</line>
-        <line>A minister's star and name;</line>
-        <line>And also all his relations</line>
-        <line>Great lords at court became.</line>
-
-        <line>And the lords and ladies of honor</line>
-        <line>Were plagued, awake and in bed;</line>
-        <line>The queen she got them upon her,</line>
-        <line>The maids were bitten and bled.</line>
-        <line>And they did not dare to brush them,</line>
-        <line>Or scratch them, day or night:</line>
-        <line>We crack them and we crush them,</line>
-        <line>At once, whene'er they bite.</line>
-    </sp>
-    <sp>
-        <speaker>CHORUS <stage>(shouting)</stage></speaker>
-
-        <line>We crack them and we crush them,</line>
-        <line>At once, whene'er they bite!</line>
-
-        <line>FROSCH Bravo! bravo! that was fine.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>Every flea may it so befall!</line>
-    </sp>
-    <sp>
-        <speaker>BRANDER</speaker>
-
-        <line>Point your fingers and nip them all!</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>Hurrah for Freedom! Hurrah for wine!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>I fain would drink with you, my glass to Freedom clinking,</line>
-        <line>If 'twere a better wine that here I see you drinking.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>Don't let us hear that speech again!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>Did I not fear the landlord might complain,</line>
-        <line>I'd treat these worthy guests, with pleasure,</line>
-        <line>To some from out our cellar's treasure.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>Just treat, and let the landlord me arraign!</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>And if the wine be good, our praises shall be ample.</line>
-        <line>But do not give too very small a sample;</line>
-        <line>For, if its quality I decide,</line>
-        <line>With a good mouthful I must be supplied.</line>
-    </sp>
-    <line>ALTMAYER <stage>(aside)</stage></line>
-    <line>They're from the Rhine! I guessed as much, before.</line>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>Bring me a gimlet here!</line>
-    </sp>
-    <sp>
-        <speaker>BRANDER</speaker>
-
-        <line>What shall therewith be done?</line>
-
-        <line>You've not the casks already at the door?</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>Yonder, within the landlord's box of tools, there's one!</line>
-
-        <line>MEPHISTOPHELES <stage>(takes the gimlet)</stage></line>
-
-        <stage>(To FROSCH.)</stage>
-
-        <line>Now, give me of your taste some intimation.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>How do you mean? Have you so many kinds?</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>The choice is free: make up your minds.</line>
-
-        <line>ALTMAYER <stage>(to FROSCH)</stage></line>
-
-        <line>Aha! you lick your chops, from sheer anticipation.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>Good! if I have the choice, so let the wine be Rhenish!</line>
-        <line>Our Fatherland can best the sparkling cup replenish.</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <stage>(boring a hole in the edge of the table, at the place where FROSCH sits)</stage>
-
-        <line>Get me a little wax, to make the stoppers, quick!</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>Ah! I perceive a juggler's trick.</line>
-
-        <speaker>MEPHISTOPHELES <stage>(to BRANDER)</stage></speaker>
-
-        <line>And you?</line>
-    </sp>
-    <sp>
-        <speaker>BRANDER</speaker>
-
-        <line>Champagne shall be my wine,</line>
-        <line>And let it sparkle fresh and fine!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <stage>(bores: in the meantime one has made the wax stoppers, and plugged the holes with
-            them.)</stage>
-    </sp>
-    <sp>
-        <speaker>BRANDER</speaker>
-
-        <line>What's foreign one can't always keep quite clear of,</line>
-        <line>For good things, oft, are not so near;</line>
-        <line>A German can't endure the French to see or hear of,</line>
-        <line>Yet drinks their wines with hearty cheer.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <stage>(as MEPHISTOPHELES approaches his seat)</stage>
-        <line>For me, I grant, sour wine is out of place;</line>
-        <line>Fill up my glass with sweetest, will you?</line>
-
-        <line>MEPHISTOPHELES <stage>(boring)</stage></line>
-
-        <line>Tokay shall flow at once, to fill you!</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>No—look me, Sirs, straight in the face!</line>
-        <line>I see you have your fun at our expense.</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>O no! with gentlemen of such pretence,</line>
-        <line>That were to venture far, indeed.</line>
-        <line>Speak out, and make your choice with speed! With what a vintage can I serve
-            you?</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>With any—only satisfy our need.</line>
-
-        <stage>(After the holes have been bored and plugged)</stage>
-
-        <line>MEPHISTOPHELES <stage>(with singular gestures)</stage></line>
-
-        <line>Grapes the vine-stem bears,</line>
-        <line>Horns the he-goat wears!</line>
-        <line>The grapes are juicy, the vines are wood,</line>
-        <line>The wooden table gives wine as good!</line>
-        <line>Into the depths of Nature peer,—</line>
-        <line>Only believe there's a miracle here!</line>
-
-        <line>Now draw the stoppers, and drink your fill!</line>
-    </sp>
-    <sp>
-        <speaker>ALL</speaker> (as they draw out the stoppers, and the wine which has been
-            <line>desired flows into the glass of each)</line>
-        <line>O beautiful fountain, that flows at will!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>But have a care that you nothing spill!</line>
-
-        <stage>(They drink repeatedly.)</stage>
-
-        <line>ALL <stage>(sing)</stage></line>
-
-        <line>As 'twere five hundred hogs, we feel</line>
-        <line>So cannibalic jolly!</line>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>See, now, the race is happy—it is free!</line>
+        <stage>(to FAUST)</stage>
+        <lg>
+            <l>Not if he had them by the neck, I vow,</l>
+            <l>Would e'er these people scent the Devil!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><line>To leave them is my inclination.</line></divine>
-    </sp>
-    <sp>
-        <speaker>MEPHISTOPHELES</speaker>
-
-        <line>Take notice, first! their bestiality</line>
-        <line>Will make a brilliant demonstration.</line>
+        <lg>
+            <earthly><l> Fair greeting, gentlemen!</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
+        <lg>
+            <l>Our thanks: we give the same.</l>
+            <stage>(Murmurs, inspecting MEPHISTOPHELES from the side.)</stage>
+            <l>In one foot is the fellow lame?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>Is it permitted that we share your leisure?</l>
+            <l>In place of cheering drink, which one seeks vainly here,</l>
+            <l>Your company shall give us pleasure.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>A most fastidious person you appear.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>No doubt 'twas late when you from Rippach started?</l>
+            <l>And supping there with Hans occasioned your delay?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>We passed, without a call, to-day.</l>
+            <l>At our last interview, before we parted</l>
+            <l>Much of his cousins did he speak, entreating</l>
+            <l>That we should give to each his kindly greeting.</l>
+            <stage>(He bows to FROSCH.)</stage>
+            <l>ALTMAYER <stage>(aside)</stage></l>
+            <l>You have it now! he understands.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>A knave sharp-set!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>Just wait awhile: I'll have him yet.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>If I am right, we heard the sound</l>
+            <l>Of well-trained voices, singing chorus;</l>
+            <l>And truly, song must here rebound</l>
+            <l>Superbly from the arches o'er us.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>Are you, perhaps, a virtuoso?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>O no! my wish is great, my power is only so-so.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>Give us a song!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>If you desire, a number.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>So that it be a bran-new strain!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>We've just retraced our way from. Spain,</l>
+            <l>The lovely land of wine, and song, and slumber.</l>
+            <stage>(Sings.)</stage>
+            <l>There was a king once reigning,</l>
+            <l>Who had a big black flea—</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>Hear, hear! A flea! D'ye rightly take the jest?</l>
+            <l>I call a flea a tidy guest.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(sings)</stage>
+        <lg>
+            <l>There was a king once reigning,</l>
+            <l>Who had a big black flea,</l>
+            <l>And loved him past explaining,</l>
+            <l>As his own son were he.</l>
+            <l>He called his man of stitches;</l>
+            <l>The tailor came straightway:</l>
+            <l>Here, measure the lad for breeches.</l>
+            <l>And measure his coat, I say!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>But mind, allow the tailor no caprices:</l>
+            <l>Enjoin upon him, as his head is dear,</l>
+            <l>To most exactly measure, sew and shear,</l>
+            <l>So that the breeches have no creases!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>In silk and velvet gleaming</l>
+            <l>He now was wholly drest—</l>
+            <l>Had a coat with ribbons streaming,</l>
+            <l>A cross upon his breast.</l>
+            <l>He had the first of stations,</l>
+            <l>A minister's star and name;</l>
+            <l>And also all his relations</l>
+            <l>Great lords at court became.</l>
+            <l>And the lords and ladies of honor</l>
+            <l>Were plagued, awake and in bed;</l>
+            <l>The queen she got them upon her,</l>
+            <l>The maids were bitten and bled.</l>
+            <l>And they did not dare to brush them,</l>
+            <l>Or scratch them, day or night:</l>
+            <l>We crack them and we crush them,</l>
+            <l>At once, whene'er they bite.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>CHORUS</speaker>
+        <stage>(shouting)</stage>
+        <lg>
+            <l>We crack them and we crush them,</l>
+            <l>At once, whene'er they bite!</l>
+            <l>FROSCH Bravo! bravo! that was fine.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>Every flea may it so befall!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>Point your fingers and nip them all!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>Hurrah for Freedom! Hurrah for wine!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>I fain would drink with you, my glass to Freedom clinking,</l>
+            <l>If 'twere a better wine that here I see you drinking.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>Don't let us hear that speech again!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>Did I not fear the landlord might complain,</l>
+            <l>I'd treat these worthy guests, with pleasure,</l>
+            <l>To some from out our cellar's treasure.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>Just treat, and let the landlord me arraign!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>And if the wine be good, our praises shall be ample.</l>
+            <l>But do not give too very small a sample;</l>
+            <l>For, if its quality I decide,</l>
+            <l>With a good mouthful I must be supplied.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <stage>(aside)</stage>
+        <lg>
+            <l>They're from the Rhine! I guessed as much, before.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>Bring me a gimlet here!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>What shall therewith be done?</l>
+            <l>You've not the casks already at the door?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>Yonder, within the landlord's box of tools, there's one!</l>
+            <l>MEPHISTOPHELES <stage>(takes the gimlet)</stage></l>
+            <stage>(To FROSCH.)</stage>
+            <l>Now, give me of your taste some intimation.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>How do you mean? Have you so many kinds?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>The choice is free: make up your minds.</l>
+            <l>ALTMAYER <stage>(to FROSCH)</stage></l>
+            <l>Aha! you lick your chops, from sheer anticipation.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>Good! if I have the choice, so let the wine be Rhenish!</l>
+            <l>Our Fatherland can best the sparkling cup replenish.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <stage>(boring a hole in the edge of the table, at the place where FROSCH sits)</stage>
+            <l>Get me a little wax, to make the stoppers, quick!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>Ah! I perceive a juggler's trick.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(to BRANDER)</stage>
+        <lg>
+            <l>And you?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>Champagne shall be my wine,</l>
+            <l>And let it sparkle fresh and fine!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <stage>(bores: in the meantime one has made the wax stoppers, and plugged the holes with
+                them.)</stage>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>What's foreign one can't always keep quite clear of,</l>
+            <l>For good things, oft, are not so near;</l>
+            <l>A German can't endure the French to see or hear of,</l>
+            <l>Yet drinks their wines with hearty cheer.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <stage>(as MEPHISTOPHELES approaches his seat)</stage>
+            <l>For me, I grant, sour wine is out of place;</l>
+            <l>Fill up my glass with sweetest, will you?</l>
+            <l>MEPHISTOPHELES <stage>(boring)</stage></l>
+            <l>Tokay shall flow at once, to fill you!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>No—look me, Sirs, straight in the face!</l>
+            <l>I see you have your fun at our expense.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>O no! with gentlemen of such pretence,</l>
+            <l>That were to venture far, indeed.</l>
+            <l>Speak out, and make your choice with speed! With what a vintage can I serve you?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>With any—only satisfy our need.</l>
+            <stage>(After the holes have been bored and plugged)</stage>
+            <l>MEPHISTOPHELES <stage>(with singular gestures)</stage></l>
+            <l>Grapes the vine-stem bears,</l>
+            <l>Horns the he-goat wears!</l>
+            <l>The grapes are juicy, the vines are wood,</l>
+            <l>The wooden table gives wine as good!</l>
+            <l>Into the depths of Nature peer,—</l>
+            <l>Only believe there's a miracle here!</l>
+            <l>Now draw the stoppers, and drink your fill!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALL</speaker>
+        <stage>(as they draw out the stoppers, and the wine which has been desired flows into the
+            glass of each)</stage>
+        <lg>
+            <l>O beautiful fountain, that flows at will!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>But have a care that you nothing spill!</l>
+            <stage>(They drink repeatedly.)</stage>
+            <l>ALL <stage>(sing)</stage></l>
+            <l>As 'twere five hundred hogs, we feel</l>
+            <l>So cannibalic jolly!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>See, now, the race is happy—it is free!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FAUST</speaker>
+        <lg>
+            <divine><l>To leave them is my inclination.</l></divine>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>Take notice, first! their bestiality</l>
+            <l>Will make a brilliant demonstration.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
         <stage>(drinks carelessly: the wine spills upon the earth, and turns to flame)</stage>
-
-        <line>Help! Fire! Help! Hell-fire is sent!</line>
-
-        <speaker>MEPHISTOPHELES <stage>(charming away the flame)</stage></speaker>
-
-        <line>Be quiet, friendly element!</line>
-
-        <stage>(To the revellers)</stage>
-
-        <line>A bit of purgatory 'twas for this time, merely.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>What mean you? Wait!—you'll pay for't dearly!</line>
-        <line>You'll know us, to your detriment.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>Don't try that game a second time upon us!</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>I think we'd better send him packing quietly.</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>What, Sir! you dare to make so free,</line>
-        <line>And play your hocus-pocus on us!</line>
+        <lg>
+            <l>Help! Fire! Help! Hell-fire is sent!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <line>Be still, old wine-tub.</line>
+        <stage>(charming away the flame)</stage>
+        <lg>
+            <l>Be quiet, friendly element!</l>
+        </lg>
+        <stage>(To the revellers)</stage>
+        <lg>
+            <l>A bit of purgatory 'twas for this time, merely.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>Broomstick, you!</line>
-        <line>You face it out, impertinent and heady?</line>
+        <lg>
+            <l>What mean you? Wait!—you'll pay for't dearly!</l>
+            <l>You'll know us, to your detriment.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>Don't try that game a second time upon us!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>I think we'd better send him packing quietly.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>What, Sir! you dare to make so free,</l>
+            <l>And play your hocus-pocus on us!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <lg>
+            <l>Be still, old wine-tub.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>Broomstick, you!</l>
+            <l>You face it out, impertinent and heady?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>Just wait! a shower of blows is ready.</line>
+        <lg>
+            <l>Just wait! a shower of blows is ready.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <stage>(draws a stopper out of the table: fire flies in his face.)</stage>
-        <line>I burn! I burn!</line>
+        <lg>
+            <stage>(draws a stopper out of the table: fire flies in his face.)</stage>
+            <l>I burn! I burn!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>'Tis magic! Strike—</line>
-        <line>The knave is outlawed! Cut him as you like!</line>
-        <stage>(They draw their knives, and rush upon MEPHISTOPHELES.)</stage>
+        <lg>
+            <l>'Tis magic! Strike—</l>
+            <l>The knave is outlawed! Cut him as you like!</l>
+            <stage>(They draw their knives, and rush upon MEPHISTOPHELES.)</stage>
+        </lg>
     </sp>
     <sp>
-        <speaker>MEPHISTOPHELES <stage>(with solemn gestures)</stage></speaker>
-
-        <line>False word and form of air,</line>
-        <line>Change place, and sense ensnare!</line>
-        <line>Be here—and there!</line>
-
-        <stage>(They stand amazed and look at each other.)</stage>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(with solemn gestures)</stage>
+        <lg>
+            <l>False word and form of air,</l>
+            <l>Change place, and sense ensnare!</l>
+            <l>Be here—and there!</l>
+            <stage>(They stand amazed and look at each other.)</stage>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <line>Where am I? What a lovely land!</line>
+        <lg>
+            <l>Where am I? What a lovely land!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>Vines? Can I trust my eyes?</line>
+        <lg>
+            <l>Vines? Can I trust my eyes?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>And purple grapes at hand!</line>
+        <lg>
+            <l>And purple grapes at hand!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>Here, over this green arbor bending,</line>
-        <line>See what a vine! what grapes depending!</line>
-
-        <stage>(He takes SIEBEL by the nose: the others do the same reciprocally, and raise their
-            knives.)</stage>
-
-        <speaker>MEPHISTOPHELES <stage>(as above)</stage></speaker>
-
-        <line>Loose, Error, from their eyes the band,</line>
-        <line>And how the Devil jests, be now enlightened!</line>
-
-        <stage>(He disappears with FAUST: the revellers start and separate.)</stage>
+        <lg>
+            <l>Here, over this green arbor bending,</l>
+            <l>See what a vine! what grapes depending!</l>
+        </lg>
     </sp>
+    <stage>(He takes SIEBEL by the nose: the others do the same reciprocally, and raise their
+        knives.)</stage>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(as above)</stage>
+        <lg>
+            <l>Loose, Error, from their eyes the band,</l>
+            <l>And how the Devil jests, be now enlightened!</l>
+        </lg>
+    </sp>
+    <stage>(He disappears with FAUST: the revellers start and separate.)</stage>
     <sp>
         <speaker>SIEBEL</speaker>
-
-        <line>What happened?</line>
+        <lg>
+            <l>What happened?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <line>How?</line>
+        <lg>
+            <l>How?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
-
-        <line>Was that your nose I tightened?</line>
-    </sp>
-    <sp>
-        <speaker>BRANDER <stage>(to SIEBEL)</stage></speaker>
-
-        <line>And yours that still I have in hand?</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>It was a blow that went through every limb!</line>
-        <line>Give me a chair! I sink! my senses swim.</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>But what has happened, tell me now?</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>Where is he? If I catch the scoundrel hiding,</line>
-        <line>He shall not leave alive, I vow.</line>
-    </sp>
-    <sp>
-        <speaker>ALTMAYER</speaker>
-
-        <line>I saw him with these eyes upon a wine-cask riding</line>
-        <line>Out of the cellar-door, just now.</line>
-        <line>Still in my feet the fright like lead is weighing.</line>
-
-        <stage>(He turns towards the table.)</stage>
-
-        <line>Why! If the fount of wine should still be playing?</line>
-    </sp>
-    <sp>
-        <speaker>SIEBEL</speaker>
-
-        <line>'Twas all deceit, and lying, false design!</line>
-    </sp>
-    <sp>
-        <speaker>FROSCH</speaker>
-
-        <line>And yet it seemed as I were drinking wine.</line>
+        <lg>
+            <l>Was that your nose I tightened?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
-
-        <line>But with the grapes how was it, pray?</line>
+        <stage>(to SIEBEL)</stage>
+        <lg>
+            <l>And yours that still I have in hand?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ALTMAYER</speaker>
-
-        <line>Shall one believe no miracles, just say!</line>
+        <lg>
+            <l>It was a blow that went through every limb!</l>
+            <l>Give me a chair! I sink! my senses swim.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>But what has happened, tell me now?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>Where is he? If I catch the scoundrel hiding,</l>
+            <l>He shall not leave alive, I vow.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>I saw him with these eyes upon a wine-cask riding</l>
+            <l>Out of the cellar-door, just now.</l>
+            <l>Still in my feet the fright like lead is weighing.</l>
+            <stage>(He turns towards the table.)</stage>
+            <l>Why! If the fount of wine should still be playing?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SIEBEL</speaker>
+        <lg>
+            <l>'Twas all deceit, and lying, false design!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>FROSCH</speaker>
+        <lg>
+            <l>And yet it seemed as I were drinking wine.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>BRANDER</speaker>
+        <lg>
+            <l>But with the grapes how was it, pray?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <lg>
+            <l>Shall one believe no miracles, just say!</l>
+        </lg>
     </sp>
 </scene>
