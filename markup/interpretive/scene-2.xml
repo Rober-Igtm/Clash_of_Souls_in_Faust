@@ -1,549 +1,668 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
 
-<scene n="II">BEFORE THE CITY-GATE <stage>(Pedestrians of all kinds come forth.)</stage>
+<scene n="II">
+    <head>BEFORE THE CITY-GATE</head>
+    <stage>(Pedestrians of all kinds come forth.)</stage>
     <sp>
         <speaker>SEVERAL APPRENTICES</speaker>
-        <l>Why do you go that way?</l>
+        <lg>
+            <l>Why do you go that way?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>OTHERS</speaker>
-        <l>We're for the Hunters' lodge, to-day.</l>
+        <lg>
+            <l>We're for the Hunters' lodge, to-day.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>THE FIRST</speaker>
-        <l>We'll saunter to the Mill, in yonder hollow.</l>
+        <lg>
+            <l>We'll saunter to the Mill, in yonder hollow.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>AN APPRENTICE</speaker>
-        <l>Go to the River Tavern, I should say.</l>
+        <lg>
+            <l>Go to the River Tavern, I should say.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SECOND APPRENTICE</speaker>
-        <l>But then, it's not a pleasant way.</l>
+        <lg>
+            <l>But then, it's not a pleasant way.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>THE OTHERS</speaker>
-        <l>And what will you?</l>
+        <lg>
+            <l>And what will you?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>A THIRD</speaker>
-        <l>As goes the crowd, I follow.</l>
+        <lg>
+            <l>As goes the crowd, I follow.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>A FOURTH</speaker>
-        <l>Come up to Burgdorf? There you'll find good cheer,</l>
-        <l>The finest lasses and the best of beer,</l>
-        <l>And jolly rows and squabbles, trust me!</l>
+        <lg>
+            <l>Come up to Burgdorf? There you'll find good cheer,</l>
+            <l>The finest lasses and the best of beer,</l>
+            <l>And jolly rows and squabbles, trust me!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>A FIFTH</speaker>
-        <l>You swaggering fellow, is your hide</l>
-        <l>A third time itching to be tried?</l>
-        <l>I won't go there, your jolly rows disgust me!</l>
+        <lg>
+            <l>You swaggering fellow, is your hide</l>
+            <l>A third time itching to be tried?</l>
+            <l>I won't go there, your jolly rows disgust me!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SERVANT-GIRL</speaker>
-        <l>No,—no! I'll turn and go to town again.</l>
+        <lg>
+            <l>No,—no! I'll turn and go to town again.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ANOTHER</speaker>
-        <l>We'll surely find him by those poplars yonder.</l>
+        <lg>
+            <l>We'll surely find him by those poplars yonder.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>THE FIRST</speaker>
-        <l>That's no great luck for me, 'tis plain.</l>
-        <l>You'll have him, when and where you wander:</l>
-        <l>His partner in the dance you'll be,—</l>
-        <l>But what is all your fun to me?</l>
+        <lg>
+            <l>That's no great luck for me, 'tis plain.</l>
+            <l>You'll have him, when and where you wander:</l>
+            <l>His partner in the dance you'll be,—</l>
+            <l>But what is all your fun to me?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>THE OTHER</speaker>
-        <l>He's surely not alone to-day:</l>
-        <l>He'll be with Curly-head, I heard him say.</l>
+        <lg>
+            <l>He's surely not alone to-day:</l>
+            <l>He'll be with Curly-head, I heard him say.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>A STUDENT</speaker>
-        <l>Deuce! how they step, the buxom wenches!</l>
-        <l>Come, Brother! we must see them to the benches.</l>
-        <l>A strong, old beer, a pipe that stings and bites,</l>
-        <l>A girl in Sunday clothes,—these three are my delights.</l>
+        <lg>
+            <l>Deuce! how they step, the buxom wenches!</l>
+            <l>Come, Brother! we must see them to the benches.</l>
+            <l>A strong, old beer, a pipe that stings and bites,</l>
+            <l>A girl in Sunday clothes,—these three are my delights.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>CITIZEN'S DAUGHTER</speaker>
-        <l>Just see those handsome fellows, there!</l>
-        <l>It's really shameful, I declare;—</l>
-        <l>To follow servant-girls, when they</l>
-        <l>Might have the most genteel society to-day!</l>
+        <lg>
+            <l>Just see those handsome fellows, there!</l>
+            <l>It's really shameful, I declare;—</l>
+            <l>To follow servant-girls, when they</l>
+            <l>Might have the most genteel society to-day!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SECOND STUDENT</speaker>
         <stage>(to the First)</stage>
-        <l>Not quite so fast! Two others come behind,—</l>
-        <l>Those, dressed so prettily and neatly.</l>
-        <l>My neighbor's one of them, I find,</l>
-        <l>A girl that takes my heart, completely.</l>
-        <l>They go their way with looks demure,</l>
-        <l>But they'll accept us, after all, I'm sure.</l>
+        <lg>
+            <l>Not quite so fast! Two others come behind,—</l>
+            <l>Those, dressed so prettily and neatly.</l>
+            <l>My neighbor's one of them, I find,</l>
+            <l>A girl that takes my heart, completely.</l>
+            <l>They go their way with looks demure,</l>
+            <l>But they'll accept us, after all, I'm sure.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>THE FIRST</speaker>
-        <l>No, Brother! not for me their formal ways.</l>
-        <l>Quick! lest our game escape us in the press:</l>
-        <l>The hand that wields the broom on Saturdays</l>
-        <l>Will best, on Sundays, fondle and caress.</l>
+        <lg>
+            <l>No, Brother! not for me their formal ways.</l>
+            <l>Quick! lest our game escape us in the press:</l>
+            <l>The hand that wields the broom on Saturdays</l>
+            <l>Will best, on Sundays, fondle and caress.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>CITIZEN</speaker>
-        <l>He suits me not at all, our new-made Burgomaster!</l>
-        <l>Since he's installed, his arrogance grows faster.</l>
-        <l>How has he helped the town, I say?</l>
-        <l>Things worsen,—what improvement names he?</l>
-        <l>Obedience, more than ever, claims he,</l>
-        <l>And more than ever we must pay!</l>
+        <lg>
+            <l>He suits me not at all, our new-made Burgomaster!</l>
+            <l>Since he's installed, his arrogance grows faster.</l>
+            <l>How has he helped the town, I say?</l>
+            <l>Things worsen,—what improvement names he?</l>
+            <l>Obedience, more than ever, claims he,</l>
+            <l>And more than ever we must pay!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>BEGGAR</speaker>
         <stage>(sings)</stage>
-        <l>Good gentlemen and lovely ladies,</l>
-        <l>So red of cheek and fine of dress,</l>
-        <l>Behold, how needful here your aid is,</l>
-        <l>And see and lighten my distress!</l>
-        <l>Let me not vainly sing my ditty;</l>
-        <l>He's only glad who gives away:</l>
-        <l>A holiday, that shows your pity,</l>
-        <l>Shall be for me a harvest-day!</l>
+        <lg>
+            <l>Good gentlemen and lovely ladies,</l>
+            <l>So red of cheek and fine of dress,</l>
+            <l>Behold, how needful here your aid is,</l>
+            <l>And see and lighten my distress!</l>
+            <l>Let me not vainly sing my ditty;</l>
+            <l>He's only glad who gives away:</l>
+            <l>A holiday, that shows your pity,</l>
+            <l>Shall be for me a harvest-day!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>ANOTHER CITIZEN</speaker>
-        <l>On Sundays, holidays, there's naught I take delight in,</l>
-        <l>Like gossiping of war, and war's array,</l>
-        <l>When down in Turkey, far away,</l>
-        <l>The foreign people are a-fighting.</l>
-        <l>One at the window sits, with glass and friends,</l>
-        <l>And sees all sorts of ships go down the river gliding:</l>
-        <l>And blesses then, as home he wends</l>
-        <l>At night, our times of peace abiding.</l>
+        <lg>
+            <l>On Sundays, holidays, there's naught I take delight in,</l>
+            <l>Like gossiping of war, and war's array,</l>
+            <l>When down in Turkey, far away,</l>
+            <l>The foreign people are a-fighting.</l>
+            <l>One at the window sits, with glass and friends,</l>
+            <l>And sees all sorts of ships go down the river gliding:</l>
+            <l>And blesses then, as home he wends</l>
+            <l>At night, our times of peace abiding.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>THIRD CITIZEN</speaker>
-        <l>Yes, Neighbor! that's my notion, too:</l>
-        <l>Why, let them break their heads, let loose their passions,</l>
-        <l>And mix things madly through and through,</l>
-        <l>So, here, we keep our good old fashions!</l>
+        <lg>
+            <l>Yes, Neighbor! that's my notion, too:</l>
+            <l>Why, let them break their heads, let loose their passions,</l>
+            <l>And mix things madly through and through,</l>
+            <l>So, here, we keep our good old fashions!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>OLD WOMAN</speaker>
         <stage>(to the Citizen's Daughter)</stage>
-        <l>Dear me, how fine! So handsome, and so young!</l>
-        <l>Who wouldn't lose his heart, that met you?</l>
-        <l>Don't be so proud! I'll hold my tongue,</l>
-        <l>And what you'd like I'll undertake to get you.</l>
+        <lg>
+            <l>Dear me, how fine! So handsome, and so young!</l>
+            <l>Who wouldn't lose his heart, that met you?</l>
+            <l>Don't be so proud! I'll hold my tongue,</l>
+            <l>And what you'd like I'll undertake to get you.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>CITIZEN'S DAUGHTER</speaker>
-        <l>Come, Agatha! I shun the witch's sight</l>
-        <l>Before folks, lest there be misgiving:</l>
-        <l>'Tis true, she showed me, on Saint Andrew's Night,</l>
-        <l>My future sweetheart, just as he were living.</l>
+        <lg>
+            <l>Come, Agatha! I shun the witch's sight</l>
+            <l>Before folks, lest there be misgiving:</l>
+            <l>'Tis true, she showed me, on Saint Andrew's Night,</l>
+            <l>My future sweetheart, just as he were living.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>THE OTHER</speaker>
-        <l>She showed me mine, in crystal clear,</l>
-        <l>With several wild young blades, a soldier-lover:</l>
-        <l>I seek him everywhere, I pry and peer,</l>
-        <l>And yet, somehow, his face I can't discover.</l>
+        <lg>
+            <l>She showed me mine, in crystal clear,</l>
+            <l>With several wild young blades, a soldier-lover:</l>
+            <l>I seek him everywhere, I pry and peer,</l>
+            <l>And yet, somehow, his face I can't discover.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>SOLDIERS</speaker>
-        <l>Castles, with lofty</l>
-        <l>Ramparts and towers,</l>
-        <l>Maidens disdainful</l>
-        <l>In Beauty's array,</l>
-        <l>Both shall be ours!</l>
-        <l>Bold is the venture,</l>
-        <l>Splendid the pay!</l>
-        <l>Lads, let the trumpets</l>
-        <l>For us be suing,—</l>
-        <l>Calling to pleasure,</l>
-        <l>Calling to ruin.</l>
-        <l>Stormy our life is;</l>
-        <l>Such is its boon!</l>
-        <l>Maidens and castles</l>
-        <l>Capitulate soon.</l>
-        <l>Bold is the venture,</l>
-        <l>Splendid the pay!</l>
-        <l>And the soldiers go marching,</l>
-        <l>Marching away!</l>
+        <lg>
+            <l>Castles, with lofty</l>
+            <l>Ramparts and towers,</l>
+            <l>Maidens disdainful</l>
+            <l>In Beauty's array,</l>
+            <l>Both shall be ours!</l>
+            <l>Bold is the venture,</l>
+            <l>Splendid the pay!</l>
+            <l>Lads, let the trumpets</l>
+            <l>For us be suing,—</l>
+            <l>Calling to pleasure,</l>
+            <l>Calling to ruin.</l>
+            <l>Stormy our life is;</l>
+            <l>Such is its boon!</l>
+            <l>Maidens and castles</l>
+            <l>Capitulate soon.</l>
+            <l>Bold is the venture,</l>
+            <l>Splendid the pay!</l>
+            <l>And the soldiers go marching,</l>
+            <l>Marching away!</l>
+        </lg>
     </sp>
+    <stage>FAUST AND WAGNER</stage>
     <sp>
-        <speaker>FAUST AND WAGNER</speaker>
         <speaker>FAUST</speaker>
-        <divine><l>Released from ice are brook and river</l>
-        <l>By the quickening glance of the gracious Spring;</l>
-        <l>The colors of hope to the valley cling,</l>
-        <l>And weak old Winter himself must shiver,</l>
-        <l>Withdrawn to the mountains, a crownless king:</l></divine>
-        <earthly><l>Whence, ever retreating, he sends again</l>
-        <l>Impotent showers of sleet that darkle</l>
-        <l>In belts across the green o' the plain.</l></earthly>
-        <earthly><l>But the sun will permit no white to sparkle;</l></earthly>
-        <divine><l>Everywhere form in development moveth;</l></divine>
-        <divine><l>He will brighten the world with the tints he loveth,</l>
-        <l>And, lacking blossoms, blue, yellow, and red,</l>
-        <l>He takes these gaudy people instead.</l></divine>
-        <earthly><l>Turn thee about, and from this height</l>
-        <l>Back on the town direct thy sight.</l></earthly>
-        <divine><l>Out of the hollow, gloomy gate,</l>
-        <l>The motley throngs come forth elate:</l>
-        <l>Each will the joy of the sunshine hoard,</l>
-        <l>To honor the Day of the Risen Lord!</l></divine>
-        <divine><l>They feel, themselves, their resurrection:</l>
-        <l>From the low, dark rooms, scarce habitable;</l>
-        <l>From the bonds of Work, from Trade's restriction;</l>
-        <l>From the pressing weight of roof and gable;</l>
-        <l>From the narrow, crushing streets and alleys;</l>
-        <l>From the churches' solemn and reverend night,</l>
-        <l>All come forth to the cheerful light.</l></divine>
-        <earthly><l>How lively, see! the multitude sallies,</l>
-        <l>Scattering through gardens and fields remote,</l>
-        <l>While over the river, that broadly dallies,</l>
-        <l>Dances so many a festive boat;</l></earthly>
-        <earthly><l>And overladen, nigh to sinking,</l>
-        <l>The last full wherry takes the stream.</l></earthly>
-        <earthly><l>Yonder afar, from the hill-paths blinking,</l>
-        <l>Their clothes are colors that softly gleam.</l></earthly>
-        <earthly><l>I hear the noise of the village, even;</l>
-        <l>Here is the People's proper Heaven;</l>
-        <l>Here high and low contented see!</l></earthly>
-        <earthly><l>Here I am Man,—dare man to be!</l></earthly>
+        <lg>
+            <divine><l>Released from ice are brook and river</l>
+                <l>By the quickening glance of the gracious Spring;</l>
+                <l>The colors of hope to the valley cling,</l>
+                <l>And weak old Winter himself must shiver,</l>
+                <l>Withdrawn to the mountains, a crownless king:</l></divine>
+            <earthly><l>Whence, ever retreating, he sends again</l>
+                <l>Impotent showers of sleet that darkle</l>
+                <l>In belts across the green o' the plain.</l></earthly>
+            <earthly><l>But the sun will permit no white to sparkle;</l></earthly>
+            <divine><l>Everywhere form in development moveth;</l></divine>
+            <divine><l>He will brighten the world with the tints he loveth,</l>
+                <l>And, lacking blossoms, blue, yellow, and red,</l>
+                <l>He takes these gaudy people instead.</l></divine>
+            <earthly><l>Turn thee about, and from this height</l>
+                <l>Back on the town direct thy sight.</l></earthly>
+            <divine><l>Out of the hollow, gloomy gate,</l>
+                <l>The motley throngs come forth elate:</l>
+                <l>Each will the joy of the sunshine hoard,</l>
+                <l>To honor the Day of the Risen Lord!</l></divine>
+            <divine><l>They feel, themselves, their resurrection:</l>
+                <l>From the low, dark rooms, scarce habitable;</l>
+                <l>From the bonds of Work, from Trade's restriction;</l>
+                <l>From the pressing weight of roof and gable;</l>
+                <l>From the narrow, crushing streets and alleys;</l>
+                <l>From the churches' solemn and reverend night,</l>
+                <l>All come forth to the cheerful light.</l></divine>
+            <earthly><l>How lively, see! the multitude sallies,</l>
+                <l>Scattering through gardens and fields remote,</l>
+                <l>While over the river, that broadly dallies,</l>
+                <l>Dances so many a festive boat;</l></earthly>
+            <earthly><l>And overladen, nigh to sinking,</l>
+                <l>The last full wherry takes the stream.</l></earthly>
+            <earthly><l>Yonder afar, from the hill-paths blinking,</l>
+                <l>Their clothes are colors that softly gleam.</l></earthly>
+            <earthly><l>I hear the noise of the village, even;</l>
+                <l>Here is the People's proper Heaven;</l>
+                <l>Here high and low contented see!</l></earthly>
+            <earthly><l>Here I am Man,—dare man to be!</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>To stroll with you, Sir Doctor, flatters;</l>
-        <l>'Tis honor, profit, unto me.</l>
-        <l>But I, alone, would shun these shallow matters,</l>
-        <l>Since all that's coarse provokes my enmity.</l>
-        <l>This fiddling, shouting, ten-pin rolling</l>
-        <l>I hate,—these noises of the throng:</l>
-        <l>They rave, as Satan were their sports controlling.</l>
-        <l>And call it mirth, and call it song!</l>
+        <lg>
+            <l>To stroll with you, Sir Doctor, flatters;</l>
+            <l>'Tis honor, profit, unto me.</l>
+            <l>But I, alone, would shun these shallow matters,</l>
+            <l>Since all that's coarse provokes my enmity.</l>
+            <l>This fiddling, shouting, ten-pin rolling</l>
+            <l>I hate,—these noises of the throng:</l>
+            <l>They rave, as Satan were their sports controlling.</l>
+            <l>And call it mirth, and call it song!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>PEASANTS, UNDER THE LINDEN-TREE</speaker>
         <stage>(Dance and Song.)</stage>
-        <l>All for the dance the shepherd dressed,</l>
-        <l>In ribbons, wreath, and gayest vest</l>
-        <l>Himself with care arraying:</l>
-        <l>Around the linden lass and lad</l>
-        <l>Already footed it like mad:</l>
-        <l>Hurrah! hurrah!</l>
-        <l>Hurrah—tarara-la!</l>
-        <l>The fiddle-bow was playing.</l>
-        <l>He broke the ranks, no whit afraid,</l>
-        <l>And with his elbow punched a maid,</l>
-        <l>Who stood, the dance surveying:</l>
-        <l>The buxom wench, she turned and said:</l>
-        <l>"Now, you I call a stupid-head!"</l>
-        <l>Hurrah! hurrah!</l>
-        <l>Hurrah—tarara-la!</l>
-        <l>"Be decent while you're staying!"</l>
-        <l>Then round the circle went their flight,</l>
-        <l>They danced to left, they danced to right:</l>
-        <l>Their kirtles all were playing.</l>
-        <l>They first grew red, and then grew warm,</l>
-        <l>And rested, panting, arm in arm,—</l>
-        <l>Hurrah! hurrah!</l>
-        <l>Hurrah—tarara-la!</l>
-        <l>And hips and elbows straying.</l>
-        <l>Now, don't be so familiar here!</l>
-        <l>How many a one has fooled his dear,</l>
-        <l>Waylaying and betraying!</l>
-        <l>And yet, he coaxed her soon aside,</l>
-        <l>And round the linden sounded wide.</l>
-        <l>Hurrah! hurrah!</l>
-        <l>Hurrah—tarara-la!</l>
-        <l>And the fiddle-bow was playing.</l>
+        <lg>
+            <l>All for the dance the shepherd dressed,</l>
+            <l>In ribbons, wreath, and gayest vest</l>
+            <l>Himself with care arraying:</l>
+            <l>Around the linden lass and lad</l>
+            <l>Already footed it like mad:</l>
+            <l>Hurrah! hurrah!</l>
+            <l>Hurrah—tarara-la!</l>
+            <l>The fiddle-bow was playing.</l>
+        </lg>
+        <lg>
+            <l>He broke the ranks, no whit afraid,</l>
+            <l>And with his elbow punched a maid,</l>
+            <l>Who stood, the dance surveying:</l>
+            <l>The buxom wench, she turned and said:</l>
+            <l>"Now, you I call a stupid-head!"</l>
+            <l>Hurrah! hurrah!</l>
+            <l>Hurrah—tarara-la!</l>
+            <l>"Be decent while you're staying!"</l>
+        </lg>
+        <lg>
+            <l>Then round the circle went their flight,</l>
+            <l>They danced to left, they danced to right:</l>
+            <l>Their kirtles all were playing.</l>
+            <l>They first grew red, and then grew warm,</l>
+            <l>And rested, panting, arm in arm,—</l>
+            <l>Hurrah! hurrah!</l>
+            <l>Hurrah—tarara-la!</l>
+            <l>And hips and elbows straying.</l>
+        </lg>
+        <lg>
+            <l>Now, don't be so familiar here!</l>
+            <l>How many a one has fooled his dear,</l>
+            <l>Waylaying and betraying!</l>
+        </lg>
+        <lg>
+            <l>And yet, he coaxed her soon aside,</l>
+            <l>And round the linden sounded wide.</l>
+            <l>Hurrah! hurrah!</l>
+            <l>Hurrah—tarara-la!</l>
+            <l>And the fiddle-bow was playing.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>OLD PEASANT</speaker>
-        <l>Sir Doctor, it is good of you,</l>
-        <l>That thus you condescend, to-day,</l>
-        <l>Among this crowd of merry folk,</l>
-        <l>A highly-learned man, to stray.</l>
-        <l>Then also take the finest can,</l>
-        <l>We fill with fresh wine, for your sake:</l>
-        <l>I offer it, and humbly wish</l>
-        <l>That not alone your thirst is slake,—</l>
-        <l>That, as the drops below its brink,</l>
-        <l>So many days of life you drink!</l>
+        <lg>
+            <l>Sir Doctor, it is good of you,</l>
+            <l>That thus you condescend, to-day,</l>
+            <l>Among this crowd of merry folk,</l>
+            <l>A highly-learned man, to stray.</l>
+            <l>Then also take the finest can,</l>
+            <l>We fill with fresh wine, for your sake:</l>
+            <l>I offer it, and humbly wish</l>
+            <l>That not alone your thirst is slake,—</l>
+            <l>That, as the drops below its brink,</l>
+            <l>So many days of life you drink!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>I take the cup you kindly reach,</l>
-        <l>With thanks and health to all and each.</l></divine>
+        <lg>
+            <divine><l>I take the cup you kindly reach,</l>
+                <l>With thanks and health to all and each.</l></divine>
+        </lg>
     </sp>
     <stage>(The People gather in a circle about him.)</stage>
     <sp>
         <speaker>OLD PEASANT</speaker>
-        <l>In truth, 'tis well and fitly timed,</l>
-        <l>That now our day of joy you share,</l>
-        <l>Who heretofore, in evil days,</l>
-        <l>Gave us so much of helping care.</l>
-        <l>Still many a man stands living here,</l>
-        <l>Saved by your father's skillful hand,</l>
-        <l>That snatched him from the fever's rage</l>
-        <l>And stayed the plague in all the land.</l>
-        <l>Then also you, though but a youth,</l>
-        <l>Went into every house of pain:</l>
-        <l>Many the corpses carried forth,</l>
-        <l>But you in health came out again.</l>
+        <lg>
+            <l>In truth, 'tis well and fitly timed,</l>
+            <l>That now our day of joy you share,</l>
+            <l>Who heretofore, in evil days,</l>
+            <l>Gave us so much of helping care.</l>
+            <l>Still many a man stands living here,</l>
+            <l>Saved by your father's skillful hand,</l>
+            <l>That snatched him from the fever's rage</l>
+            <l>And stayed the plague in all the land.</l>
+            <l>Then also you, though but a youth,</l>
+            <l>Went into every house of pain:</l>
+            <l>Many the corpses carried forth,</l>
+            <l>But you in health came out again.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>No test or trial you evaded:</l>
-        <l>A Helping God the helper aided.</l></divine>
+        <lg>
+            <divine><l>No test or trial you evaded:</l>
+                <l>A Helping God the helper aided.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>ALL</speaker>
-        <l>Health to the man, so skilled and tried.</l>
-        <l>That for our help he long may abide!</l>
+        <lg>
+            <l>Health to the man, so skilled and tried.</l>
+            <l>That for our help he long may abide!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>To Him above bow down, my friends,</l>
-        <l>Who teaches help, and succor sends!</l></divine>
-        <stage>(He goes on with WAGNER.)</stage>
+        <lg>
+            <divine><l>To Him above bow down, my friends,</l>
+                <l>Who teaches help, and succor sends!</l></divine>
+        </lg>
     </sp>
+    <stage>(He goes on with WAGNER.)</stage>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>With what a feeling, thou great man, must thou</l>
-        <l>Receive the people's honest veneration!</l>
-        <l>How lucky he, whose gifts his station</l>
-        <l>With such advantages endow!</l>
-        <l>Thou'rt shown to all the younger generation:</l>
-        <l>Each asks, and presses near to gaze;</l>
-        <l>The fiddle stops, the dance delays.</l>
-        <l>Thou goest, they stand in rows to see,</l>
-        <l>And all the caps are lifted high;</l>
-        <l>A little more, and they would bend the knee</l>
-        <l>As if the Holy Host came by.</l>
+        <lg>
+            <l>With what a feeling, thou great man, must thou</l>
+            <l>Receive the people's honest veneration!</l>
+            <l>How lucky he, whose gifts his station</l>
+            <l>With such advantages endow!</l>
+            <l>Thou'rt shown to all the younger generation:</l>
+            <l>Each asks, and presses near to gaze;</l>
+            <l>The fiddle stops, the dance delays.</l>
+            <l>Thou goest, they stand in rows to see,</l>
+            <l>And all the caps are lifted high;</l>
+            <l>A little more, and they would bend the knee</l>
+            <l>As if the Holy Host came by.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>A few more steps ascend, as far as yonder stone!—</l>
-        <l>Here from our wandering will we rest contented.</l></divine>
-        <earthly><l>Here, lost in thought, I've lingered oft alone,</l>
-        <l>When foolish fasts and prayers my life tormented.</l></earthly>
-        <divine><l>Here, rich in hope and firm in faith,</l>
-        <l>With tears, wrung hands and sighs, I've striven,</l>
-        <l>The end of that far-spreading death</l>
-        <l>Entreating from the Lord of Heaven!</l></divine>
-        <earthly><l>Now like contempt the crowd's applauses seem:</l>
-        <l>Couldst thou but read, within mine inmost spirit,</l>
-        <l>How little now I deem,</l>
-        <l>That sire or son such praises merit!</l></earthly>
-        <earthly><l>My father's was a sombre, brooding brain,</l>
-        <l>Which through the holy spheres of Nature groped and wandered,</l>
-        <l>And honestly, in his own fashion, pondered</l>
-        <l>With labor whimsical, and pain:</l>
-        <l>Who, in his dusky work-shop bending,</l>
-        <l>With proved adepts in company,</l>
-        <l>Made, from his recipes unending,</l>
-        <l>Opposing substances agree.</l></earthly>
-        <earthly><l>There was a Lion red, a wooer daring,</l>
-        <l>Within the Lily's tepid bath espoused,</l>
-        <l>And both, tormented then by flame unsparing,</l>
-        <l>By turns in either bridal chamber housed.</l></earthly>
-        <earthly><l>If then appeared, with colors splendid,</l>
-        <l>The young Queen in her crystal shell,</l>
-        <l>This was the medicine—the patients' woes soon ended,</l>
-        <l>And none demanded: who got well?</l></earthly>
-        <earthly><l>Thus we, our hellish boluses compounding,</l>
-        <l>Among these vales and hills surrounding,</l>
-        <l>Worse than the pestilence, have passed.</l></earthly>
-        <earthly><l>Thousands were done to death from poison of my giving;</l>
-        <l>And I must hear, by all the living,</l>
-        <l>The shameless murderers praised at last!</l></earthly>
+        <lg>
+            <divine><l>A few more steps ascend, as far as yonder stone!—</l>
+                <l>Here from our wandering will we rest contented.</l></divine>
+            <earthly><l>Here, lost in thought, I've lingered oft alone,</l>
+                <l>When foolish fasts and prayers my life tormented.</l></earthly>
+            <divine><l>Here, rich in hope and firm in faith,</l>
+                <l>With tears, wrung hands and sighs, I've striven,</l>
+                <l>The end of that far-spreading death</l>
+                <l>Entreating from the Lord of Heaven!</l></divine>
+            <earthly><l>Now like contempt the crowd's applauses seem:</l>
+                <l>Couldst thou but read, within mine inmost spirit,</l>
+                <l>How little now I deem,</l>
+                <l>That sire or son such praises merit!</l></earthly>
+            <earthly><l>My father's was a sombre, brooding brain,</l>
+                <l>Which through the holy spheres of Nature groped and wandered,</l>
+                <l>And honestly, in his own fashion, pondered</l>
+                <l>With labor whimsical, and pain:</l>
+                <l>Who, in his dusky work-shop bending,</l>
+                <l>With proved adepts in company,</l>
+                <l>Made, from his recipes unending,</l>
+                <l>Opposing substances agree.</l></earthly>
+            <earthly><l>There was a Lion red, a wooer daring,</l>
+                <l>Within the Lily's tepid bath espoused,</l>
+                <l>And both, tormented then by flame unsparing,</l>
+                <l>By turns in either bridal chamber housed.</l></earthly>
+            <earthly><l>If then appeared, with colors splendid,</l>
+                <l>The young Queen in her crystal shell,</l>
+                <l>This was the medicine—the patients' woes soon ended,</l>
+                <l>And none demanded: who got well?</l></earthly>
+            <earthly><l>Thus we, our hellish boluses compounding,</l>
+                <l>Among these vales and hills surrounding,</l>
+                <l>Worse than the pestilence, have passed.</l></earthly>
+            <earthly><l>Thousands were done to death from poison of my giving;</l>
+                <l>And I must hear, by all the living,</l>
+                <l>The shameless murderers praised at last!</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>Why, therefore, yield to such depression?</l>
-        <l>A good man does his honest share</l>
-        <l>In exercising, with the strictest care,</l>
-        <l>The art bequeathed to his possession!</l>
-        <l>Dost thou thy father honor, as a youth?</l>
-        <l>Then may his teaching cheerfully impel thee:</l>
-        <l>Dost thou, as man, increase the stores of truth?</l>
-        <l>Then may thine own son afterwards excel thee.</l>
+        <lg>
+            <l>Why, therefore, yield to such depression?</l>
+            <l>A good man does his honest share</l>
+            <l>In exercising, with the strictest care,</l>
+            <l>The art bequeathed to his possession!</l>
+            <l>Dost thou thy father honor, as a youth?</l>
+            <l>Then may his teaching cheerfully impel thee:</l>
+            <l>Dost thou, as man, increase the stores of truth?</l>
+            <l>Then may thine own son afterwards excel thee.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
         <divine><l>O happy he, who still renews</l>
-        <l>The hope, from Error's deeps to rise forever!</l></divine>
+            <l>The hope, from Error's deeps to rise forever!</l></divine>
         <earthly><l>That which one does not know, one needs to use;</l>
-        <l>And what one knows, one uses never.</l></earthly>
+            <l>And what one knows, one uses never.</l></earthly>
         <divine><l>But let us not, by such despondence, so</l>
-        <l>The fortune of this hour embitter!</l></divine>
+            <l>The fortune of this hour embitter!</l></divine>
         <divine><l>Mark how, beneath the evening sunlight's glow,</l>
-        <l>The green-embosomed houses glitter!</l></divine>
+            <l>The green-embosomed houses glitter!</l></divine>
         <divine><l>The glow retreats, done is the day of toil;</l>
-        <l>It yonder hastes, new fields of life exploring;</l>
-        <l>Ah, that no wing can lift me from the soil,</l>
-        <l>Upon its track to follow, follow soaring!</l></divine>
+            <l>It yonder hastes, new fields of life exploring;</l>
+            <l>Ah, that no wing can lift me from the soil,</l>
+            <l>Upon its track to follow, follow soaring!</l></divine>
         <divine><l>Then would I see eternal Evening gild</l>
-        <l>The silent world beneath me glowing,</l>
-        <l>On fire each mountain-peak, with peace each valley filled,</l>
-        <l>The silver brook to golden rivers flowing.</l></divine>
+            <l>The silent world beneath me glowing,</l>
+            <l>On fire each mountain-peak, with peace each valley filled,</l>
+            <l>The silver brook to golden rivers flowing.</l></divine>
         <divine><l>The mountain-chain, with all its gorges deep,</l>
-        <l>Would then no more impede my godlike motion;</l>
-        <l>And now before mine eyes expands the ocean</l>
-        <l>With all its bays, in shining sleep!</l></divine>
+            <l>Would then no more impede my godlike motion;</l>
+            <l>And now before mine eyes expands the ocean</l>
+            <l>With all its bays, in shining sleep!</l></divine>
         <divine><l>Yet, finally, the weary god is sinking;</l>
-        <l>The new-born impulse fires my mind,—</l>
-        <l>I hasten on, his beams eternal drinking,</l>
-        <l>The Day before me and the Night behind,</l>
-        <l>Above me heaven unfurled, the floor of waves beneath me,—</l>
-        <l>A glorious dream! though now the glories fade.</l></divine>
+            <l>The new-born impulse fires my mind,—</l>
+            <l>I hasten on, his beams eternal drinking,</l>
+            <l>The Day before me and the Night behind,</l>
+            <l>Above me heaven unfurled, the floor of waves beneath me,—</l>
+            <l>A glorious dream! though now the glories fade.</l></divine>
         <earthly><l>Alas! the wings that lift the mind no aid</l>
-        <l>Of wings to lift the body can bequeath me.</l></earthly>
+            <l>Of wings to lift the body can bequeath me.</l></earthly>
         <divine><l>Yet in each soul is born the pleasure</l>
-        <l>Of yearning onward, upward and away,</l>
-        <l>When o'er our heads, lost in the vaulted azure,</l>
-        <l>The lark sends down his flickering lay,—</l>
-        <l>When over crags and piny highlands</l>
-        <l>The poising eagle slowly soars,</l>
-        <l>And over plains and lakes and islands</l>
-        <l>The crane sails by to other shores.</l></divine>
+            <l>Of yearning onward, upward and away,</l>
+            <l>When o'er our heads, lost in the vaulted azure,</l>
+            <l>The lark sends down his flickering lay,—</l>
+            <l>When over crags and piny highlands</l>
+            <l>The poising eagle slowly soars,</l>
+            <l>And over plains and lakes and islands</l>
+            <l>The crane sails by to other shores.</l></divine>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>I've had, myself, at times, some odd caprices,</l>
-        <l>But never yet such impulse felt, as this is.</l>
-        <l>One soon fatigues, on woods and fields to look,</l>
-        <l>Nor would I beg the bird his wing to spare us:</l>
-        <l>How otherwise the mental raptures bear us</l>
-        <l>From page to page, from book to book!</l>
-        <l>Then winter nights take loveliness untold,</l>
-        <l>As warmer life in every limb had crowned you;</l>
-        <l>And when your hands unroll some parchment rare and old,</l>
-        <l>All Heaven descends, and opens bright around you!</l>
+        <lg>
+            <l>I've had, myself, at times, some odd caprices,</l>
+            <l>But never yet such impulse felt, as this is.</l>
+            <l>One soon fatigues, on woods and fields to look,</l>
+            <l>Nor would I beg the bird his wing to spare us:</l>
+            <l>How otherwise the mental raptures bear us</l>
+            <l>From page to page, from book to book!</l>
+            <l>Then winter nights take loveliness untold,</l>
+            <l>As warmer life in every limb had crowned you;</l>
+            <l>And when your hands unroll some parchment rare and old,</l>
+            <l>All Heaven descends, and opens bright around you!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>One impulse art thou conscious of, at best;</l>
-        <l>O, never seek to know the other!</l></earthly>
-        <divine><l>Two souls, alas! reside within my breast,</l>
-        <l>And each withdraws from, and repels, its brother.</l></divine>
-        <earthly><l>One with tenacious organs holds in love</l>
-        <l>And clinging lust the world in its embraces;</l></earthly>
-        <divine><l>The other strongly sweeps, this dust above,</l>
-        <l>Into the high ancestral spaces.</l></divine>
-        <divine><l>If there be airy spirits near,</l>
-        <l>'Twixt Heaven and Earth on potent errands fleeing,</l>
-        <l>Let them drop down the golden atmosphere,</l>
-        <l>And bear me forth to new and varied being!</l></divine>
-        <divine><l>Yea, if a magic mantle once were mine,</l>
-        <l>To waft me o'er the world at pleasure,</l>
-        <l>I would not for the costliest stores of treasure—</l>
-        <l>Not for a monarch's robe—the gift resign.</l></divine>
+        <lg>
+            <earthly><l>One impulse art thou conscious of, at best;</l>
+                <l>O, never seek to know the other!</l></earthly>
+            <divine><l>Two souls, alas! reside within my breast,</l>
+                <l>And each withdraws from, and repels, its brother.</l></divine>
+            <earthly><l>One with tenacious organs holds in love</l>
+                <l>And clinging lust the world in its embraces;</l></earthly>
+            <divine><l>The other strongly sweeps, this dust above,</l>
+                <l>Into the high ancestral spaces.</l></divine>
+            <divine><l>If there be airy spirits near,</l>
+                <l>'Twixt Heaven and Earth on potent errands fleeing,</l>
+                <l>Let them drop down the golden atmosphere,</l>
+                <l>And bear me forth to new and varied being!</l></divine>
+            <divine><l>Yea, if a magic mantle once were mine,</l>
+                <l>To waft me o'er the world at pleasure,</l>
+                <l>I would not for the costliest stores of treasure—</l>
+                <l>Not for a monarch's robe—the gift resign.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>Invoke not thus the well-known throng,</l>
-        <l>Which through the firmament diffused is faring,</l>
-        <l>And danger thousand-fold, our race to wrong.</l>
-        <l>In every quarter is preparing.</l>
-        <l>Swift from the North the spirit-fangs so sharp</l>
-        <l>Sweep down, and with their barbéd points assail you;</l>
-        <l>Then from the East they come, to dry and warp</l>
-        <l>Your lungs, till breath and being fail you:</l>
-        <l>If from the Desert sendeth them the South,</l>
-        <l>With fire on fire your throbbing forehead crowning,</l>
-        <l>The West leads on a host, to cure the drouth</l>
-        <l>Only when meadow, field, and you are drowning.</l>
-        <l>They gladly hearken, prompt for injury,—</l>
-        <l>Gladly obey, because they gladly cheat us;</l>
-        <l>From Heaven they represent themselves to be,</l>
-        <l>And lisp like angels, when with lies they meet us.</l>
-        <l>But, let us go! 'Tis gray and dusky all:</l>
-        <l>The air is cold, the vapors fall.</l>
-        <l>At night, one learns his house to prize:—</l>
-        <l>Why stand you thus, with such astonished eyes?</l>
-        <l>What, in the twilight, can your mind so trouble?</l>
+        <lg>
+            <l>Invoke not thus the well-known throng,</l>
+            <l>Which through the firmament diffused is faring,</l>
+            <l>And danger thousand-fold, our race to wrong.</l>
+            <l>In every quarter is preparing.</l>
+            <l>Swift from the North the spirit-fangs so sharp</l>
+            <l>Sweep down, and with their barbéd points assail you;</l>
+            <l>Then from the East they come, to dry and warp</l>
+            <l>Your lungs, till breath and being fail you:</l>
+            <l>If from the Desert sendeth them the South,</l>
+            <l>With fire on fire your throbbing forehead crowning,</l>
+            <l>The West leads on a host, to cure the drouth</l>
+            <l>Only when meadow, field, and you are drowning.</l>
+            <l>They gladly hearken, prompt for injury,—</l>
+            <l>Gladly obey, because they gladly cheat us;</l>
+            <l>From Heaven they represent themselves to be,</l>
+            <l>And lisp like angels, when with lies they meet us.</l>
+            <l>But, let us go! 'Tis gray and dusky all:</l>
+            <l>The air is cold, the vapors fall.</l>
+            <l>At night, one learns his house to prize:—</l>
+            <l>Why stand you thus, with such astonished eyes?</l>
+            <l>What, in the twilight, can your mind so trouble?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Seest thou the black dog coursing there, through corn and</l>
-        <l>stubble?</l></earthly>
+        <lg>
+            <earthly><l>Seest thou the black dog coursing there, through corn and</l>
+                <l>stubble?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>Long since: yet deemed him not important in the least.</l>
+        <lg>
+            <l>Long since: yet deemed him not important in the least.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>Inspect him close: for what tak'st thou the beast?</l></divine>
+        <lg>
+            <divine><l>Inspect him close: for what tak'st thou the beast?</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>Why, for a poodle who has lost his master,</l>
-        <l>And scents about, his track to find.</l>
+        <lg>
+            <l>Why, for a poodle who has lost his master,</l>
+            <l>And scents about, his track to find.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Seest thou the spiral circles, narrowing faster,</l>
-        <l>Which he, approaching, round us seems to wind?</l></earthly>
-       <divine> <l>A streaming trail of fire, if I see rightly,</l>
-        <l>Follows his path of mystery.</l></divine>
+        <lg>
+            <earthly><l>Seest thou the spiral circles, narrowing faster,</l>
+                <l>Which he, approaching, round us seems to wind?</l></earthly>
+            <divine>
+                <l>A streaming trail of fire, if I see rightly,</l>
+                <l>Follows his path of mystery.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>It may be that your eyes deceive you slightly;</l>
-        <l>Naught but a plain black poodle do I see.</l>
+        <lg>
+            <l>It may be that your eyes deceive you slightly;</l>
+            <l>Naught but a plain black poodle do I see.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>It seems to me that with enchanted cunning</l>
-        <l>He snares our feet, some future chain to bind.</l></divine>
+        <lg>
+            <divine><l>It seems to me that with enchanted cunning</l>
+                <l>He snares our feet, some future chain to bind.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>I see him timidly, in doubt, around us running,</l>
-        <l>Since, in his master's stead, two strangers doth he find.</l>
+        <lg>
+            <l>I see him timidly, in doubt, around us running,</l>
+            <l>Since, in his master's stead, two strangers doth he find.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>The circle narrows: he is near!</l></divine>
+        <lg>
+            <divine><l>The circle narrows: he is near!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>A dog thou seest, and not a phantom, here!</l>
-        <l>Behold him stop—upon his belly crawl—His</l>
-        <l>tail set wagging: canine habits, all!</l>
+        <lg>
+            <l>A dog thou seest, and not a phantom, here!</l>
+            <l>Behold him stop—upon his belly crawl—His</l>
+            <l>tail set wagging: canine habits, all!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>Come, follow us! Come here, at least!</l></divine>
+        <lg>
+            <divine><l>Come, follow us! Come here, at least!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>'Tis the absurdest, drollest beast.</l>
-        <l>Stand still, and you will see him wait;</l>
-        <l>Address him, and he gambols straight;</l>
-        <l>If something's lost, he'll quickly bring it,—</l>
-        <l>Your cane, if in the stream you fling it.</l>
+        <lg>
+            <l>'Tis the absurdest, drollest beast.</l>
+            <l>Stand still, and you will see him wait;</l>
+            <l>Address him, and he gambols straight;</l>
+            <l>If something's lost, he'll quickly bring it,—</l>
+            <l>Your cane, if in the stream you fling it.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>No doubt you're right: no trace of mind, I own,</l>
-        <l>Is in the beast: I see but drill, alone.</l></earthly>
+        <lg>
+            <earthly><l>No doubt you're right: no trace of mind, I own,</l>
+                <l>Is in the beast: I see but drill, alone.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>WAGNER</speaker>
-        <l>The dog, when he's well educated,</l>
-        <l>Is by the wisest tolerated.</l>
-        <l>Yes, he deserves your favor thoroughly,—</l>
-        <l>The clever scholar of the students, he!</l>
-        <stage>(They pass in the city-gate.)</stage>
+        <lg>
+            <l>The dog, when he's well educated,</l>
+            <l>Is by the wisest tolerated.</l>
+            <l>Yes, he deserves your favor thoroughly,—</l>
+            <l>The clever scholar of the students, he!</l>
+        </lg>
     </sp>
+    <stage>(They pass in the city-gate.)</stage>
 </scene>
