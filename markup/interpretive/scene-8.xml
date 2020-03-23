@@ -1,6 +1,6 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
 
-<scene n="VIII"><head>EVENING</head> <stage>A SMALL, NEATLY KEPT CHAMBER</stage> <sp>
+<scene n="8"><head>EVENING</head> <stage>A SMALL, NEATLY KEPT CHAMBER</stage> <sp>
         <speaker>MARGARET</speaker>
 
         <stage>(plaiting and binding up the braids of her hair)</stage>
@@ -35,7 +35,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><stage>(looking around)</stage></earthly>
+        <stage>(looking around)</stage>
 
         <lg><earthly><l>O welcome, twilight soft and sweet,</l>
         <l>That breathes throughout this hallowed shrine!</l></earthly>
@@ -46,7 +46,7 @@
         <earthly><l>This poverty what bounty blesses!</l>
         <l>What bliss within this narrow den is pent!</l></earthly></lg>
 
-        <earthly><stage>(He throws himself into a leathern arm-chair near the bed.)</stage></earthly>
+        <stage>(He throws himself into a leathern arm-chair near the bed.)</stage>
         
         <lg><earthly><l>Receive me, thou, that in thine open arms</l>
         <l>Departed joy and pain wert wont to gather!</l></earthly>
@@ -64,7 +64,7 @@
         <l>To change this hut into a lower heaven!</l></earthly>
         <earthly><l>And here!</l></earthly></lg>
 
-        <earthly><stage>(He lifts one of the bed-curtains.)</stage></earthly>
+        <stage>(He lifts one of the bed-curtains.)</stage>
 
         <lg><earthly><l>What sweetest thrill is in my blood!</l></earthly>
         <earthly><l>Here could I spend whole hours, delaying:</l>

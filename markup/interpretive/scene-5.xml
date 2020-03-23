@@ -21,8 +21,8 @@
     </sp>
     <sp>
         <speaker>FROSCH</speaker>
+        <stage>(Pours a glass of wine over BRANDER'S head.)</stage>
         <lg>
-            <stage>(Pours a glass of wine over BRANDER'S head.)</stage>
             <l>There's both together!</l>
         </lg>
     </sp>
@@ -77,7 +77,9 @@
         <speaker>FROSCH</speaker>
         <lg>
             <l>The throats are tuned, commence!</l>
-            <stage>(Sings.)</stage>
+        </lg>
+        <stage>(Sings.)</stage>
+        <lg>
             <l>The dear old holy Roman realm,</l>
             <l>How does it hold together?</l>
         </lg>
@@ -140,8 +142,8 @@
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
+        <stage>(pounding on the table)</stage>
         <lg>
-            <stage>(pounding on the table)</stage>
             <l>Attention! Hearken now to me!</l>
             <l>Confess, Sirs, I know how to live.</l>
             <l>Enamored persons here have we,</l>
