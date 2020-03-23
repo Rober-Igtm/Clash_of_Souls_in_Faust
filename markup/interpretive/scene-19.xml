@@ -52,11 +52,11 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<lg><l>How from the window of the sacristy</l>
+<lg><divine><l>How from the window of the sacristy</l>
 <l>Upward th'eternal lamp sends forth a glimmer,</l>
 <l>That, lessening side-wards, fainter grows and dimmer,</l>
-<l>Till darkness closes from the sky!</l>
-<l>The shadows thus within my bosom gather.</l></lg>
+<l>Till darkness closes from the sky!</l></divine>
+<earthly><l>The shadows thus within my bosom gather.</l></earthly></lg>
 
 
 </sp>
@@ -80,8 +80,8 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<lg><l>Meanwhile, may not the treasure risen be,</l>
-<l>Which there, behind, I glimmering see?</l></lg>
+<lg><earthly><l>Meanwhile, may not the treasure risen be,</l>
+<l>Which there, behind, I glimmering see?</l></earthly></lg>
 
 
 </sp>
@@ -100,8 +100,8 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<lg><l>Not even a jewel, not a ring,</l>
-<l>To deck therewith my darling girl?</l></lg>
+<lg><earthly><l>Not even a jewel, not a ring,</l>
+<l>To deck therewith my darling girl?</l></earthly></lg>
 
 
 </sp>
@@ -118,8 +118,8 @@
 <sp>
 <speaker>FAUST</speaker>
 
-<lg><l>That's well, indeed! For painful is it</l>
-<l>To bring no gift when her I visit.</l></lg>
+<lg><divine><l>That's well, indeed! For painful is it</l>
+<l>To bring no gift when her I visit.</l></divine></lg>
 
 
 </sp>

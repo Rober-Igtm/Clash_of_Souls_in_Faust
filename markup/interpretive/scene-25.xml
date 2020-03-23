@@ -5,33 +5,33 @@
         <speaker>FAUST</speaker>
         <stage>(with a bunch of keys and a lamp, before an iron door)</stage>
         <lg>
-            <l>A shudder, long unfelt, comes o'er me;</l>
-            <l>Mankind's collected woe o'erwhelms me, here.</l>
-            <l>She dwells within the dark, damp walls before me,</l>
-            <l>And all her crime was a delusion dear!</l>
-            <l>What! I delay to free her?</l>
-            <l>I dread, once again to see her?</l>
-            <l>On! my shrinking but lingers Death more near.</l>
+            <divine><l>A shudder, long unfelt, comes o'er me;</l></divine>
+            <earthly><l>Mankind's collected woe o'erwhelms me, here.</l></earthly>
+            <divine><l>She dwells within the dark, damp walls before me,</l>
+            <l>And all her crime was a delusion dear!</l></divine>
+            <earthly><l>What! I delay to free her?</l></earthly>
+            <earthly><l>I dread, once again to see her?</l></earthly>
+            <earthly><l>On! my shrinking but lingers Death more near.</l></earthly>
         </lg>
         <stage>(He grasps the lock: the sound of singing is heard inside.)</stage>
         <lg>
-            <l>My mother, the harlot,</l>
+            <divine><l>My mother, the harlot,</l>
             <l>Who put me to death;</l>
             <l>My father, the varlet,</l>
-            <l>Who eaten me hath!</l>
-            <l>Little sister, so good,</l>
+            <l>Who eaten me hath!</l></divine>
+            <divine><l>Little sister, so good,</l>
             <l>Laid my bones in the wood,</l>
             <l>In the damp moss and clay:</l>
             <l>Then was I a beautiful bird o' the wood;</l>
-            <l>Fly away! Fly away!</l>
+            <l>Fly away! Fly away!</l></divine>
         </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
         <stage>(unlocking)</stage>
         <lg>
-            <l>She does not dream her lover listens near;</l>
-            <l>That he the rattling chain, the rustling straw, can hear.</l>
+            <earthly><l>She does not dream her lover listens near;</l>
+            <l>That he the rattling chain, the rustling straw, can hear.</l></earthly>
         </lg>
         <stage>(He enters.)</stage>
     </sp>
@@ -46,7 +46,7 @@
         <speaker>FAUST</speaker>
         <stage>(whispering)</stage>
         <lg>
-            <l>Hush! hush! The hour is come that frees thee.</l>
+            <divine><l>Hush! hush! The hour is come that frees thee.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -59,7 +59,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Thy cries will wake the guards, and they will seize thee!</l>
+            <divine><l>Thy cries will wake the guards, and they will seize thee!</l></divine>
         </lg>
         <stage>(He takes hold of the fetters to unlock them.)</stage>
     </sp>
@@ -89,7 +89,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Shall I outlive this misery?</l>
+            <divine><l>Shall I outlive this misery?</l></divine>
         </lg>
     </sp>
     <sp>
@@ -110,8 +110,8 @@
         <speaker>FAUST</speaker>
         <stage>(falling upon his knees)</stage>
         <lg>
-            <l>Here lieth one who loves thee ever,</l>
-            <l>The thraldom of thy woe to sever.</l>
+            <divine><l>Here lieth one who loves thee ever,</l>
+            <l>The thraldom of thy woe to sever.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -132,7 +132,7 @@
         <speaker>FAUST</speaker>
         <stage>(aloud)</stage>
         <lg>
-            <l>Margaret! Margaret!</l>
+            <divine><l>Margaret! Margaret!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -156,7 +156,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>'Tis I!</l>
+            <divine><l>'Tis I!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -180,7 +180,7 @@
         <speaker>FAUST</speaker>
         <stage>(struggling to leave)</stage>
         <lg>
-            <l>Come! Come with me!</l>
+            <divine><l>Come! Come with me!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -194,9 +194,9 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Away, now!</l>
-            <l>If longer here thou stayest,</l>
-            <l>We shall be made to dearly rue it.</l>
+            <divine><l>Away, now!</l></divine>
+            <earthly><l>If longer here thou stayest,</l>
+            <l>We shall be made to dearly rue it.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -225,9 +225,9 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Come, follow me! My darling, be more bold:</l>
+            <earthly><l>Come, follow me! My darling, be more bold:</l>
             <l>I'll clasp thee, soon, with warmth a thousand-fold;</l>
-            <l>But follow now! 'Tis all I beg of thee.</l>
+            <l>But follow now! 'Tis all I beg of thee.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -240,7 +240,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>'Tis I! Come on!</l>
+            <divine><l>'Tis I! Come on!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -255,7 +255,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Come! come! The night already vanisheth.</l>
+            <divine><l>Come! come! The night already vanisheth.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -277,8 +277,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>O, let the past be past!</l>
-            <l>Thy words will slay me!</l>
+            <earthly><l>O, let the past be past!</l></earthly>
+            <earthly><l>Thy words will slay me!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -305,7 +305,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>If thou feel'st it is I, then come with me!</l>
+            <divine><l>If thou feel'st it is I, then come with me!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -317,7 +317,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>To freedom.</l>
+            <divine><l>To freedom.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -333,7 +333,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Thou canst! Just will it! Open stands the door.</l>
+            <divine><l>Thou canst! Just will it! Open stands the door.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -350,7 +350,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>I'll stay with thee.</l>
+            <divine><l>I'll stay with thee.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -373,8 +373,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Recall thy wandering will!</l>
-            <l>One step, and thou art free at last!</l>
+            <divine><l>Recall thy wandering will!</l></divine>
+            <divine><l>One step, and thou art free at last!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -394,8 +394,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Here words and prayers are nothing worth;</l>
-            <l>I'll venture, then, to bear thee forth.</l>
+           <earthly> <l>Here words and prayers are nothing worth;</l>
+            <l>I'll venture, then, to bear thee forth.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -409,7 +409,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>The day dawns: Dearest! Dearest!</l>
+            <divine><l>The day dawns: Dearest! Dearest!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -436,7 +436,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>O had I ne'er been born!</l>
+            <earthly><l>O had I ne'er been born!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -461,7 +461,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Thou shalt live.</l>
+            <divine><l>Thou shalt live.</l></divine>
         </lg>
     </sp>
     <sp>

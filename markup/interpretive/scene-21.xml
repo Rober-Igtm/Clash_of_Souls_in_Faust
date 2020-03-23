@@ -15,16 +15,16 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>So long as in my legs I feel the fresh existence.</l>
-            <l>This knotted staff suffices me.</l>
-            <l>What need to shorten so the way?</l>
-            <l>Along this labyrinth of vales to wander,</l>
+            <divine><l>So long as in my legs I feel the fresh existence.</l></divine>
+            <divine><l>This knotted staff suffices me.</l></divine>
+            <divine><l>What need to shorten so the way?</l></divine>
+            <divine><l>Along this labyrinth of vales to wander,</l>
             <l>Then climb the rocky ramparts yonder,</l>
             <l>Wherefrom the fountain flings eternal spray,</l>
-            <l>Is such delight, my steps would fain delay.</l>
-            <l>The spring-time stirs within the fragrant birches,</l>
+            <l>Is such delight, my steps would fain delay.</l></divine>
+            <divine><l>The spring-time stirs within the fragrant birches,</l>
             <l>And even the fir-tree feels it now:</l>
-            <l>Should then our limbs escape its gentle searches?</l>
+            <l>Should then our limbs escape its gentle searches?</l></divine>
         </lg>
     </sp>
     <sp>
@@ -74,53 +74,53 @@
         <speaker>FAUST, MEPHISTOPHELES, WILL-O'-THE-WISP</speaker>
         <stage>(in alternating song)</stage>
         <lg>
-            <l>We, it seems, have entered newly</l>
-            <l>In the sphere of dreams enchanted.</l>
-            <l>Do thy bidding, guide us truly,</l>
+            <divine><l>We, it seems, have entered newly</l>
+            <l>In the sphere of dreams enchanted.</l></divine>
+            <divine><l>Do thy bidding, guide us truly,</l>
             <l>That our feet be forwards planted</l>
-            <l>In the vast, the desert spaces!</l>
-            <l>See them swiftly changing places,</l>
+            <l>In the vast, the desert spaces!</l></divine>
+            <divine><l>See them swiftly changing places,</l>
             <l>Trees on trees beside us trooping,</l>
             <l>And the crags above us stooping,</l>
             <l>And the rocky snouts, outgrowing,—</l>
-            <l>Hear them snoring, hear them blowing!</l>
-            <l>O'er the stones, the grasses, flowing</l>
+            <l>Hear them snoring, hear them blowing!</l></divine>
+            <divine><l>O'er the stones, the grasses, flowing</l>
             <l>Stream and streamlet seek the hollow.</l>
-            <l>Hear I noises? songs that follow?</l>
-            <l>Hear I tender love-petitions?</l>
-            <l>Voices of those heavenly visions?</l>
-            <l>Sounds of hope, of love undying!</l>
-            <l>And the echoes, like traditions</l>
-            <l>Of old days, come faint and hollow.</l>
+            <l>Hear I noises? songs that follow?</l></divine>
+            <divine><l>Hear I tender love-petitions?</l></divine>
+           <divine> <l>Voices of those heavenly visions?</l></divine>
+            <divine><l>Sounds of hope, of love undying!</l></divine>
+            <divine><l>And the echoes, like traditions</l>
+            <l>Of old days, come faint and hollow.</l></divine>
         </lg>
         <lg>
-            <l>Hoo-hoo! Shoo-hoo! Nearer hover</l>
+            <divine><l>Hoo-hoo! Shoo-hoo! Nearer hover</l>
             <l>Jay and screech-owl, and the plover,—</l>
-            <l>Are they all awake and crying?</l>
-            <l>Is't the salamander pushes,</l>
-            <l>Bloated-bellied, through the bushes?</l>
-            <l>And the roots, like serpents twisted,</l>
+            <l>Are they all awake and crying?</l></divine>
+            <divine><l>Is't the salamander pushes,</l>
+            <l>Bloated-bellied, through the bushes?</l></divine>
+            <earthly><l>And the roots, like serpents twisted,</l>
             <l>Through the sand and boulders toiling,</l>
             <l>Fright us, weirdest links uncoiling</l>
             <l>To entrap us, unresisted:</l>
             <l>Living knots and gnarls uncanny</l>
             <l>Feel with polypus-antennae</l>
-            <l>For the wanderer. Mice are flying,</l>
-            <l>Thousand-colored, herd-wise hieing</l>
-            <l>Through the moss and through the heather!</l>
+            <l>For the wanderer. Mice are flying,</l></earthly>
+            <earthly><l>Thousand-colored, herd-wise hieing</l>
+            <l>Through the moss and through the heather!</l></earthly>
         </lg>
         <lg>
-            <l>And the fire-flies wink and darkle,</l>
+            <earthly><l>And the fire-flies wink and darkle,</l>
             <l>Crowded swarms that soar and sparkle,</l>
-            <l>And in wildering escort gather!</l>
+            <l>And in wildering escort gather!</l></earthly>
         </lg>
         <lg>
-            <l>Tell me, if we still are standing,</l>
-            <l>Or if further we're ascending?</l>
-            <l>All is turning, whirling, blending,</l>
+            <divine><l>Tell me, if we still are standing,</l>
+            <l>Or if further we're ascending?</l></divine>
+            <divine><l>All is turning, whirling, blending,</l>
             <l>Trees and rocks with grinning faces,</l>
             <l>Wandering lights that spin in mazes,</l>
-            <l>Still increasing and expanding!</l>
+            <l>Still increasing and expanding!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -135,22 +135,22 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>How strangely glimmers through the hollows</l>
-            <l>A dreary light, like that of dawn!</l>
-            <l>Its exhalation tracks and follows</l>
-            <l>The deepest gorges, faint and wan.</l>
-            <l>Here steam, there rolling vapor sweepeth;</l>
+            <earthly><l>How strangely glimmers through the hollows</l>
+            <l>A dreary light, like that of dawn!</l></earthly>
+            <earthly><l>Its exhalation tracks and follows</l>
+            <l>The deepest gorges, faint and wan.</l></earthly>
+           <earthly> <l>Here steam, there rolling vapor sweepeth;</l>
             <l>Here burns the glow through film and haze:</l>
             <l>Now like a tender thread it creepeth,</l>
-            <l>Now like a fountain leaps and plays.</l>
-            <l>Here winds away, and in a hundred</l>
+            <l>Now like a fountain leaps and plays.</l></earthly>
+            <earthly><l>Here winds away, and in a hundred</l>
             <l>Divided veins the valley braids:</l>
             <l>There, in a corner pressed and sundered,</l>
-            <l>Itself detaches, spreads and fades.</l>
-            <l>Here gush the sparkles incandescent</l>
+            <l>Itself detaches, spreads and fades.</l></earthly>
+            <earthly><l>Here gush the sparkles incandescent</l>
             <l>Like scattered showers of golden sand;—</l>
             <l>But, see! in all their height, at present,</l>
-            <l>The rocky ramparts blazing stand.</l>
+            <l>The rocky ramparts blazing stand.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -165,8 +165,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>How raves the tempest through the air!</l>
-            <l>With what fierce blows upon my neck 'tis beating!</l>
+            <earthly><l>How raves the tempest through the air!</l></earthly>
+            <earthly><l>With what fierce blows upon my neck 'tis beating!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -381,7 +381,7 @@
         <speaker>FAUST</speaker>
         <stage>(in the distance)</stage>
         <lg>
-            <l>Here!</l>
+            <divine><l>Here!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -404,10 +404,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Spirit of Contradiction! On! I'll follow straight.</l>
-            <l>'Tis planned most wisely, if I judge aright:</l>
+            <divine><l>Spirit of Contradiction! On! I'll follow straight.</l></divine>
+            <earthly><l>'Tis planned most wisely, if I judge aright:</l>
             <l>We climb the Brocken's top in the Walpurgis-Night,</l>
-            <l>That arbitrarily, here, ourselves we isolate.</l>
+            <l>That arbitrarily, here, ourselves we isolate.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -421,10 +421,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Better the summit, I must own:</l>
+            <divine><l>Better the summit, I must own:</l>
             <l>There fire and whirling smoke I see.</l>
             <l>They seek the Evil One in wild confusion:</l>
-            <l>Many enigmas there might find solution.</l>
+            <l>Many enigmas there might find solution.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -454,8 +454,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Wilt thou, to introduce us to the revel,</l>
-            <l>Assume the part of wizard or of devil?</l>
+            <earthly><l>Wilt thou, to introduce us to the revel,</l>
+            <l>Assume the part of wizard or of devil?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -557,8 +557,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Let me not lose myself in all this pother!</l>
-            <l>This is a fair, as never was another!</l>
+            <divine><l>Let me not lose myself in all this pother!</l></divine>
+            <divine><l>This is a fair, as never was another!</l></divine>
         </lg>
     </sp>
     <sp>
@@ -571,7 +571,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>But who is that?</l>
+            <earthly><l>But who is that?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -584,7 +584,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Who?</l>
+            <earthly><l>Who?</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -600,8 +600,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Those two, the old one with the young one sitting,</l>
-            <l>They've danced already more than fitting.</l>
+            <divine><l>Those two, the old one with the young one sitting,</l>
+            <l>They've danced already more than fitting.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -615,10 +615,10 @@
         <speaker>FAUST</speaker>
         <stage>(dancing with the young witch)</stage>
         <lg>
-            <l>A lovely dream once came to me;</l>
+            <earthly><l>A lovely dream once came to me;</l>
             <l>I then beheld an apple-tree,</l>
             <l>And there two fairest apples shone:</l>
-            <l>They lured me so, I climbed thereon.</l>
+            <l>They lured me so, I climbed thereon.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -669,15 +669,15 @@
         <speaker>FAUST</speaker>
         <stage>(dancing)</stage>
         <lg>
-            <l>O, everywhere on him you fall!</l>
-            <l>When others dance, he weighs the matter:</l>
+            <earthly><l>O, everywhere on him you fall!</l></earthly>
+            <earthly><l>When others dance, he weighs the matter:</l>
             <l>If he can't every step bechatter,</l>
-            <l>Then 'tis the same as were the step not made;</l>
-            <l>But if you forwards go, his ire is most displayed.</l>
-            <l>If you would whirl in regular gyration</l>
+            <l>Then 'tis the same as were the step not made;</l></earthly>
+            <earthly><l>But if you forwards go, his ire is most displayed.</l></earthly>
+            <earthly><l>If you would whirl in regular gyration</l>
             <l>As he does in his dull old mill,</l>
             <l>He'd show, at any rate, good-will,—</l>
-            <l>Especially if you heard and heeded his hortation.</l>
+            <l>Especially if you heard and heeded his hortation.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -729,8 +729,8 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Ah! in the midst of it there sprang</l>
-            <l>A red mouse from her mouth—sufficient reason.</l>
+            <divine><l>Ah! in the midst of it there sprang</l>
+            <l>A red mouse from her mouth—sufficient reason.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -744,7 +744,7 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Then saw I—.</l>
+            <earthly><l>Then saw I—.</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -756,12 +756,12 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Mephisto, seest thou there,</l>
-            <l>Alone and far, a girl most pale and fair?</l>
-            <l>She falters on, her way scarce knowing,</l>
-            <l>As if with fettered feet that stay her going.</l>
-            <l>I must confess, it seems to me</l>
-            <l>As if my kindly Margaret were she.</l>
+            <earthly><l>Mephisto, seest thou there,</l>
+            <l>Alone and far, a girl most pale and fair?</l></earthly>
+            <divine><l>She falters on, her way scarce knowing,</l>
+            <l>As if with fettered feet that stay her going.</l></divine>
+            <divine><l>I must confess, it seems to me</l>
+            <l>As if my kindly Margaret were she.</l></divine>
         </lg>
     </sp>
     <sp>
@@ -778,10 +778,10 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>Forsooth, the eyes they are of one whom, dying,</l>
+            <earthly><l>Forsooth, the eyes they are of one whom, dying,</l>
             <l>No hand with loving pressure closed;</l>
             <l>That is the breast whereon I once was lying,—</l>
-            <l>The body sweet, beside which I reposed!</l>
+            <l>The body sweet, beside which I reposed!</l></earthly>
         </lg>
     </sp>
     <sp>
@@ -794,11 +794,11 @@
     <sp>
         <speaker>FAUST</speaker>
         <lg>
-            <l>The woe, the rapture, so ensnare me,</l>
-            <l>That from her gaze I cannot tear me!</l>
-            <l>And, strange! around her fairest throat</l>
+           <earthly> <l>The woe, the rapture, so ensnare me,</l>
+            <l>That from her gaze I cannot tear me!</l></earthly>
+            <earthly><l>And, strange! around her fairest throat</l>
             <l>A single scarlet band is gleaming,</l>
-            <l>No broader than a knife-blade seeming!</l>
+            <l>No broader than a knife-blade seeming!</l></earthly>
         </lg>
     </sp>
     <sp>
