@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="IX">
-    <stage>PROMENADE</stage>
+<scene n="9">
+    <head>PROMENADE</head>
     <stage>(FAUST, walking thoughtfully up and down. To him MEPHISTOPHELES.)</stage>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
 
-        <l>By all love ever rejected! By hell-fire hot and unsparing!</l>
+        <lg><l>By all love ever rejected! By hell-fire hot and unsparing!</l>
         <l>I wish I knew something worse, that I might use it for</l>
-        <l>swearing!</l>
+        <l>swearing!</l></lg>
 
     </sp>
     <sp>
         <speaker>FAUST</speaker>
 
-        <earthly><l>What ails thee? What is't gripes thee, elf?</l></earthly>
-       <earthly> <l>A face like thine beheld I never.</l></earthly>
+        <lg><earthly><l>What ails thee? What is't gripes thee, elf?</l></earthly>
+       <earthly> <l>A face like thine beheld I never.</l></earthly></lg>
 
 
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
 
-        <l>I would myself unto the Devil deliver,</l>
-        <l>If I were not a Devil myself!</l>
+        <lg><l>I would myself unto the Devil deliver,</l>
+        <l>If I were not a Devil myself!</l></lg>
 
 
     </sp>
     <sp>
         <speaker>FAUST</speaker>
 
-        <divine><l>Thy head is out of order, sadly:</l>
-        <l>It much becomes thee to be raving madly.</l></divine>
+        <lg><divine><l>Thy head is out of order, sadly:</l>
+        <l>It much becomes thee to be raving madly.</l></divine></lg>
 
 
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
 
-        <l>Just think, the pocket of a priest should get</l>
+        <lg><l>Just think, the pocket of a priest should get</l>
         <l>The trinkets left for Margaret!</l>
         <l>The mother saw them, and, instanter,</l>
         <l>A secret dread began to haunt her.</l>
@@ -65,80 +65,80 @@
         <l>Hath eaten many a land as forfeit,</l>
         <l>And never yet complained of surfeit:</l>
         <l>The Church alone, beyond all question,</l>
-        <l>Has for ill-gotten goods the right digestion."</l>
+        <l>Has for ill-gotten goods the right digestion."</l></lg>
 
 
     </sp>
     <sp>
         <speaker>FAUST</speaker>
 
-        <earthly><l>A general practice is the same,</l>
-        <l>Which Jew and King may also claim.</l></earthly>
+        <lg><earthly><l>A general practice is the same,</l>
+        <l>Which Jew and King may also claim.</l></earthly></lg>
 
 
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
 
-        <l>Then bagged the spangles, chains, and rings,</l>
+        <lg><l>Then bagged the spangles, chains, and rings,</l>
         <l>As if but toadstools were the things,</l>
         <l>And thanked no less, and thanked no more</l>
         <l>Than if a sack of nuts he bore,—</l>
         <l>Promised them fullest heavenly pay,</l>
-        <l>And deeply edified were they.</l>
+        <l>And deeply edified were they.</l></lg>
 
 
     </sp>
     <sp>
         <speaker>FAUST</speaker>
 
-        <earthly><l>And Margaret?</l></earthly>
+        <lg><earthly><l>And Margaret?</l></earthly></lg>
 
 
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
 
-        <l>Sits unrestful still,</l>
+        <lg><l>Sits unrestful still,</l>
         <l>And knows not what she should, or will;</l>
         <l>Thinks on the jewels, day and night,</l>
-        <l>But more on him who gave her such delight.</l>
+        <l>But more on him who gave her such delight.</l></lg>
 
 
     </sp>
     <sp>
         <speaker>FAUST</speaker>
 
-        <divine><l>The darling's sorrow gives me pain.</l></divine>
+        <lg><divine><l>The darling's sorrow gives me pain.</l></divine>
         <earthly><l>Get thou a set for her again!</l></earthly>
-        <earthly><l>The first was not a great display.</l></earthly>
+        <earthly><l>The first was not a great display.</l></earthly></lg>
 
 
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
 
-        <l>O yes, the gentleman finds it all child's-play!</l>
+        <lg><l>O yes, the gentleman finds it all child's-play!</l></lg>
 
 
     </sp>
     <sp>
         <speaker>FAUST</speaker>
 
-        <earthly><l>Fix and arrange it to my will;</l>
+        <lg><earthly><l>Fix and arrange it to my will;</l>
         <l>And on her neighbor try thy skill!</l></earthly>
         <earthly><l>Don't be a Devil stiff as paste,</l>
-        <l>But get fresh jewels to her taste!</l></earthly>
+        <l>But get fresh jewels to her taste!</l></earthly></lg>
 
 
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Yes, gracious Sir, in all obedience!</l>
+        <lg><l>Yes, gracious Sir, in all obedience!</l>
         <stage>[Exit FAUST]</stage>
         <l>Such an enamored fool in air would blow</l>
         <l>Sun, moon, and all the starry legions,</l>
-        <l>To give his sweetheart a diverting show.</l>
+        <l>To give his sweetheart a diverting show.</l></lg>
     </sp>
     <stage>[Exit]</stage>
 </scene>

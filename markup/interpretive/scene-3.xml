@@ -1,6 +1,6 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene n="3">
-    <head>THE STUDY</head>
+    <head>THE STUDY (The Exorcism)</head>
     <sp>
         <speaker>FAUST</speaker>
         <stage>(Entering, with the poodle.)</stage>
@@ -315,12 +315,12 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>So, to the actively eternal</l>
+        <lg><divine><l>So, to the actively eternal</l>
             <l>Creative force, in cold disdain</l>
             <l>You now oppose the fist infernal,</l>
             <l>Whose wicked clench is all in vain!</l></divine>
         <divine><l>Some other labor seek thou rather,</l>
-            <l>Queer Son of Chaos, to begin!</l></divine>
+            <l>Queer Son of Chaos, to begin!</l></divine></lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -332,11 +332,11 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>Why thou shouldst ask, I don't perceive.</l></divine>
+        <lg><divine><l>Why thou shouldst ask, I don't perceive.</l></divine>
         <divine><l>Though our acquaintance is so recent,</l>
             <l>For further visits thou hast leave.</l></divine>
         <divine><l>The window's here, the door is yonder;</l>
-            <l>A chimney, also, you behold.</l></divine>
+            <l>A chimney, also, you behold.</l></divine></lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -381,7 +381,7 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>Try, then, the open window-pane!</l></divine>
+        <lg><divine><l>Try, then, the open window-pane!</l></divine></lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
