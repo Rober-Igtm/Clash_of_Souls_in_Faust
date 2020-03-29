@@ -74,3 +74,9 @@ br {
 hr {
     color: #A7F3FD;
 }
+
+p.play {
+    position: relative;
+    left: 5%;
+    font-style: italic;
+}

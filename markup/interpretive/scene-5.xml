@@ -151,7 +151,9 @@
             <l>Must something fresh for their advantage give.</l>
             <l>Take heed! 'Tis of the latest cut, my strain,</l>
             <l>And all strike in at each refrain!</l>
-            <stage>(He sings.)</stage>
+        </lg>
+        <stage>(He sings.)</stage>
+        <lg>
             <l>There was a rat in the cellar-nest,</l>
             <l>Whom fat and butter made smoother:</l>
             <l>He had a paunch beneath his vest</l>
@@ -310,6 +312,8 @@
         <speaker>SIEBEL</speaker>
         <lg>
             <l>Our thanks: we give the same.</l>
+        </lg>
+        <lg>
             <stage>(Murmurs, inspecting MEPHISTOPHELES from the side.)</stage>
             <l>In one foot is the fellow lame?</l>
         </lg>
@@ -342,8 +346,14 @@
             <l>At our last interview, before we parted</l>
             <l>Much of his cousins did he speak, entreating</l>
             <l>That we should give to each his kindly greeting.</l>
-            <stage>(He bows to FROSCH.)</stage>
-            <l>ALTMAYER <stage>(aside)</stage></l>
+        </lg>
+        <stage>(He bows to FROSCH.)</stage>
+
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <stage>(aside)</stage>
+        <lg>
             <l>You have it now! he understands.</l>
         </lg>
     </sp>
@@ -403,7 +413,9 @@
         <lg>
             <l>We've just retraced our way from. Spain,</l>
             <l>The lovely land of wine, and song, and slumber.</l>
-            <stage>(Sings.)</stage>
+        </lg>
+        <stage>(Sings.)</stage>
+        <lg>
             <l>There was a king once reigning,</l>
             <l>Who had a big black flea—</l>
         </lg>
@@ -449,6 +461,8 @@
             <l>A minister's star and name;</l>
             <l>And also all his relations</l>
             <l>Great lords at court became.</l>
+        </lg>
+        <lg>
             <l>And the lords and ladies of honor</l>
             <l>Were plagued, awake and in bed;</l>
             <l>The queen she got them upon her,</l>
@@ -546,8 +560,13 @@
         <speaker>ALTMAYER</speaker>
         <lg>
             <l>Yonder, within the landlord's box of tools, there's one!</l>
-            <l>MEPHISTOPHELES <stage>(takes the gimlet)</stage></l>
-            <stage>(To FROSCH.)</stage>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(takes the gimlet)</stage>
+        <stage>(To FROSCH.)</stage>
+        <lg>
             <l>Now, give me of your taste some intimation.</l>
         </lg>
     </sp>
@@ -561,7 +580,12 @@
         <speaker>MEPHISTOPHELES</speaker>
         <lg>
             <l>The choice is free: make up your minds.</l>
-            <l>ALTMAYER <stage>(to FROSCH)</stage></l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ALTMAYER</speaker>
+        <stage>(to FROSCH)</stage>
+        <lg>
             <l>Aha! you lick your chops, from sheer anticipation.</l>
         </lg>
     </sp>
@@ -574,8 +598,8 @@
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
+        <stage>(boring a hole in the edge of the table, at the place where FROSCH sits)</stage>
         <lg>
-            <stage>(boring a hole in the edge of the table, at the place where FROSCH sits)</stage>
             <l>Get me a little wax, to make the stoppers, quick!</l>
         </lg>
     </sp>
@@ -601,10 +625,8 @@
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <lg>
-            <stage>(bores: in the meantime one has made the wax stoppers, and plugged the holes with
-                them.)</stage>
-        </lg>
+        <stage>(bores: in the meantime one has made the wax stoppers, and plugged the holes with
+            them.)</stage>
     </sp>
     <sp>
         <speaker>BRANDER</speaker>
@@ -621,7 +643,12 @@
             <stage>(as MEPHISTOPHELES approaches his seat)</stage>
             <l>For me, I grant, sour wine is out of place;</l>
             <l>Fill up my glass with sweetest, will you?</l>
-            <l>MEPHISTOPHELES <stage>(boring)</stage></l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(boring)</stage>
+        <lg>
             <l>Tokay shall flow at once, to fill you!</l>
         </lg>
     </sp>
@@ -645,7 +672,12 @@
         <lg>
             <l>With any—only satisfy our need.</l>
             <stage>(After the holes have been bored and plugged)</stage>
-            <l>MEPHISTOPHELES <stage>(with singular gestures)</stage></l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MEPHISTOPHELES</speaker>
+        <stage>(with singular gestures)</stage>
+        <lg>
             <l>Grapes the vine-stem bears,</l>
             <l>Horns the he-goat wears!</l>
             <l>The grapes are juicy, the vines are wood,</l>
@@ -667,8 +699,13 @@
         <speaker>MEPHISTOPHELES</speaker>
         <lg>
             <l>But have a care that you nothing spill!</l>
-            <stage>(They drink repeatedly.)</stage>
-            <l>ALL <stage>(sing)</stage></l>
+        </lg>
+    </sp>
+    <stage>(They drink repeatedly.)</stage>
+    <sp>
+        <speaker>ALL</speaker>
+        <stage>(sing)</stage>
+        <lg>
             <l>As 'twere five hundred hogs, we feel</l>
             <l>So cannibalic jolly!</l>
         </lg>
@@ -777,9 +814,9 @@
             <l>False word and form of air,</l>
             <l>Change place, and sense ensnare!</l>
             <l>Be here—and there!</l>
-            <stage>(They stand amazed and look at each other.)</stage>
         </lg>
     </sp>
+    <stage>(They stand amazed and look at each other.)</stage>
     <sp>
         <speaker>ALTMAYER</speaker>
         <lg>
@@ -867,7 +904,9 @@
             <l>I saw him with these eyes upon a wine-cask riding</l>
             <l>Out of the cellar-door, just now.</l>
             <l>Still in my feet the fright like lead is weighing.</l>
-            <stage>(He turns towards the table.)</stage>
+        </lg>
+        <stage>(He turns towards the table.)</stage>
+        <lg>
             <l>Why! If the fount of wine should still be playing?</l>
         </lg>
     </sp>
