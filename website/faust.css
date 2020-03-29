@@ -36,16 +36,11 @@ h2 {
     flex: 4;
 }
 
-ul {
-    list-style-type: none;
-}
-
-li {
-    background-color: #6A6C77;
+aside.sidebar > div{
     text-align: center;
+    background-color: #6A6C77;
     padding: 10px;
     margin: 10px;
-    /*border-radius: 20px;*/
 }
 
 a {

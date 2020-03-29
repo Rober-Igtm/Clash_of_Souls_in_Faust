@@ -1,4 +1,6 @@
-<scene n="15">MARGARET'S ROOM
+<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene n="15">
+    <head>MARGARET'S ROOM</head>
     <sp>
         <speaker>MARGARET</speaker>
         <stage>(at the spinning-wheel, alone)</stage>
