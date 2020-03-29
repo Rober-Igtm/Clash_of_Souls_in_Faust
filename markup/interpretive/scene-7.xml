@@ -1,156 +1,202 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
 
-<scene n="VII">A STREET <sp>
-        <speaker>FAUST MARGARET</speaker>
-        <stage>(passing by)</stage>
-    </sp>
+<scene n="7">
+    <head>A STREET</head>
+    <stage>FAUST MARGARET</stage>
+    <stage>(passing by)</stage>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Fair lady, let it not offend you,</l>
-        <l>That arm and escort I would lend you!</l></earthly>
+        <lg>
+            <earthly><l>Fair lady, let it not offend you,</l>
+                <l>That arm and escort I would lend you!</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-        <l>I'm neither lady, neither fair,</l>
-        <l>And home I can go without your care.</l>
-        <l>[She releases herself, and exit.</l>
+        <lg>
+            <l>I'm neither lady, neither fair,</l>
+            <l>And home I can go without your care.</l>
+        </lg>
+        <stage>[She releases herself, and exit.</stage>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <divine><l>By Heaven, the girl is wondrous fair!</l>
-        <l>Of all I've seen, beyond compare;</l>
-        <l>So sweetly virtuous and pure,</l>
-        <l>And yet a little pert, be sure!</l></divine>
-        <earthly><l>The lip so red, the cheek's clear dawn,</l>
-        <l>I'll not forget while the world rolls on!</l></earthly>
-        <earthly><l>How she cast down her timid eyes,</l>
-        <l>Deep in my heart imprinted lies:</l>
-        <l>How short and sharp of speech was she,</l>
-        <l>Why, 'twas a real ecstasy!</l></earthly>
-        <stage>(MEPHISTOPHELES enters)</stage>
+        <lg>
+            <divine><l>By Heaven, the girl is wondrous fair!</l>
+                <l>Of all I've seen, beyond compare;</l>
+                <l>So sweetly virtuous and pure,</l>
+                <l>And yet a little pert, be sure!</l></divine>
+            <earthly><l>The lip so red, the cheek's clear dawn,</l>
+                <l>I'll not forget while the world rolls on!</l></earthly>
+            <earthly><l>How she cast down her timid eyes,</l>
+                <l>Deep in my heart imprinted lies:</l>
+                <l>How short and sharp of speech was she,</l>
+                <l>Why, 'twas a real ecstasy!</l></earthly>
+        </lg>
     </sp>
+    <stage>(MEPHISTOPHELES enters)</stage>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Hear, of that girl I'd have possession!</l></earthly>
+        <lg>
+            <earthly><l>Hear, of that girl I'd have possession!</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Which, then?</l>
+        <lg>
+            <l>Which, then?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>The one who just went by.</l></earthly>
+        <lg>
+            <earthly><l>The one who just went by.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>She, there? She's coming from confession,</l>
-        <l>Of every sin absolved; for I,</l>
-        <l>Behind her chair, was listening nigh.</l>
-        <l>So innocent is she, indeed,</l>
-        <l>That to confess she had no need.</l>
-        <l>I have no power o'er souls so green.</l>
+        <lg>
+            <l>She, there? She's coming from confession,</l>
+            <l>Of every sin absolved; for I,</l>
+            <l>Behind her chair, was listening nigh.</l>
+            <l>So innocent is she, indeed,</l>
+            <l>That to confess she had no need.</l>
+            <l>I have no power o'er souls so green.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>And yet, she's older than fourteen.</l></earthly>
+        <lg>
+            <earthly><l>And yet, she's older than fourteen.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>How now! You're talking like Jack Rake,</l>
-        <l>Who every flower for himself would take,</l>
-        <l>And fancies there are no favors more,</l>
-        <l>Nor honors, save for him in store;</l>
-        <l>Yet always doesn't the thing succeed.</l>
+        <lg>
+            <l>How now! You're talking like Jack Rake,</l>
+            <l>Who every flower for himself would take,</l>
+            <l>And fancies there are no favors more,</l>
+            <l>Nor honors, save for him in store;</l>
+            <l>Yet always doesn't the thing succeed.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Most Worthy Pedagogue, take heed!</l>
-        <l>Let not a word of moral law be spoken!</l></earthly>
-        <earthly><l>I claim, I tell thee, all my right;</l>
-        <l>And if that image of delight</l>
-        <l>Rest not within mine arms to-night,</l>
-        <l>At midnight is our compact broken.</l></earthly>
+        <lg>
+            <earthly><l>Most Worthy Pedagogue, take heed!</l>
+                <l>Let not a word of moral law be spoken!</l></earthly>
+            <earthly><l>I claim, I tell thee, all my right;</l>
+                <l>And if that image of delight</l>
+                <l>Rest not within mine arms to-night,</l>
+                <l>At midnight is our compact broken.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>But think, the chances of the case!</l>
-        <l>I need, at least, a fortnight's space,</l>
-        <l>To find an opportune occasion.</l>
+        <lg>
+            <l>But think, the chances of the case!</l>
+            <l>I need, at least, a fortnight's space,</l>
+            <l>To find an opportune occasion.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Had I but seven hours for all,</l>
-        <l>I should not on the Devil call,</l>
-        <l>But win her by my own persuasion.</l></earthly>
+        <lg>
+            <earthly><l>Had I but seven hours for all,</l>
+                <l>I should not on the Devil call,</l>
+                <l>But win her by my own persuasion.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>You almost like a Frenchman prate;</l>
-        <l>Yet, pray, don't take it as annoyance!</l>
-        <l>Why, all at once, exhaust the joyance?</l>
-        <l>Your bliss is by no means so great</l>
-        <l>As if you'd use, to get control,</l>
-        <l>All sorts of tender rigmarole,</l>
-        <l>And knead and shape her to your thought,</l>
-        <l>As in Italian tales 'tis taught.</l>
+        <lg>
+            <l>You almost like a Frenchman prate;</l>
+            <l>Yet, pray, don't take it as annoyance!</l>
+            <l>Why, all at once, exhaust the joyance?</l>
+            <l>Your bliss is by no means so great</l>
+            <l>As if you'd use, to get control,</l>
+            <l>All sorts of tender rigmarole,</l>
+            <l>And knead and shape her to your thought,</l>
+            <l>As in Italian tales 'tis taught.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Without that, I have appetite.</l></earthly>
+        <lg>
+            <earthly><l>Without that, I have appetite.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>But now, leave jesting out of sight!</l>
-        <l>I tell you, once for all, that speed</l>
-        <l>With this fair girl will not succeed;</l>
-        <l>By storm she cannot captured be;</l>
-        <l>We must make use of strategy.</l>
+        <lg>
+            <l>But now, leave jesting out of sight!</l>
+            <l>I tell you, once for all, that speed</l>
+            <l>With this fair girl will not succeed;</l>
+            <l>By storm she cannot captured be;</l>
+            <l>We must make use of strategy.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Get me something the angel keeps!</l></earthly>
-        <earthly><l>Lead me thither where she sleeps!</l></earthly>
-        <earthly><l>Get me a kerchief from her breast,—</l>
-        <l>A garter that her knee has pressed!</l></earthly>
+        <lg>
+            <earthly><l>Get me something the angel keeps!</l></earthly>
+            <earthly><l>Lead me thither where she sleeps!</l></earthly>
+            <earthly><l>Get me a kerchief from her breast,—</l>
+                <l>A garter that her knee has pressed!</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>That you may see how much I'd fain</l>
-        <l>Further and satisfy your pain,</l>
-        <l>We will no longer lose a minute;</l>
-        <l>I'll find her room to-day, and take you in it.</l>
+        <lg>
+            <l>That you may see how much I'd fain</l>
+            <l>Further and satisfy your pain,</l>
+            <l>We will no longer lose a minute;</l>
+            <l>I'll find her room to-day, and take you in it.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>And shall I see—possess her?</l></earthly>
+        <lg>
+            <earthly><l>And shall I see—possess her?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>No!</l>
-        <l>Unto a neighbor she must go,</l>
-        <l>And meanwhile thou, alone, mayst glow</l>
-        <l>With every hope of future pleasure,</l>
-        <l>Breathing her atmosphere in fullest measure.</l>
+        <lg>
+            <l>No!</l>
+            <l>Unto a neighbor she must go,</l>
+            <l>And meanwhile thou, alone, mayst glow</l>
+            <l>With every hope of future pleasure,</l>
+            <l>Breathing her atmosphere in fullest measure.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>Can we go thither?</l></earthly>
+        <lg>
+            <earthly><l>Can we go thither?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>'Tis too early yet.</l>
+        <lg>
+            <l>'Tis too early yet.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <earthly><l>A gift for her I bid thee get!</l></earthly>
+        <lg>
+            <earthly><l>A gift for her I bid thee get!</l></earthly>
+        </lg>
         <stage>[Exit.</stage>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-        <l>Presents at once? That's good: he's certain to get at her!</l>
-        <l>Full many a pleasant place I know,</l>
-        <l>And treasures, buried long ago:</l>
-        <l>I must, perforce, look up the matter.</l>
+        <lg>
+            <l>Presents at once? That's good: he's certain to get at her!</l>
+            <l>Full many a pleasant place I know,</l>
+            <l>And treasures, buried long ago:</l>
+            <l>I must, perforce, look up the matter.</l>
+        </lg>
         <stage>[Exit.</stage>
     </sp>
 </scene>
