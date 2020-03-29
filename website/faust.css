@@ -1,6 +1,5 @@
 html {
-    background-color: #B3B5C9;
-    
+    background-color: #74768C;
 }
 
 .container {
@@ -15,9 +14,10 @@ h2 {
 }
 
 .flex-grid {
-    color: white;
     display: flex;
+    color: white;
     margin: auto -1rem 1rem;
+    /*align-items: center;*/
 }
 
 .col {
@@ -30,10 +30,15 @@ h2 {
 .sidebar {
     flex: 1;
     height: fit-content;
+    align-items: center;
 }
 
 .main {
     flex: 4;
+}
+
+aside.sidebar > h2{
+    text-align: center;
 }
 
 aside.sidebar > div{
@@ -43,11 +48,29 @@ aside.sidebar > div{
     margin: 10px;
 }
 
-a {
+aside.sidebar > a:link, a:visited {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    margin: 5px 0px 5px 0px;
+    border-radius: 3px;
+    background-color: #788186;
     color: #A7F3FD;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
+aside.sidebar > a:hover, a:active {
+    background-color: #A7F3FD;
+    color: #788186;
 }
 
 br {
     color: #A7F3FD;
 }
 
+hr {
+    color: #A7F3FD;
+}
