@@ -80,3 +80,15 @@ p.play {
     left: 5%;
     font-style: italic;
 }
+
+.index {
+    table-layout: fixed;
+    width: 100%;
+    /*border-collapse: separate;
+    border-spacing: 0px 20px;*/
+}
+
+td {
+    
+    
+}
