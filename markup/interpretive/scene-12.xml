@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="XII">
+<scene id="XII">
     <stage>GARDEN</stage>
     <stage>(MARGARET on FAUST'S arm. MARTHA and MEPHISTOPHELES walking up and down.)</stage>
     <sp>

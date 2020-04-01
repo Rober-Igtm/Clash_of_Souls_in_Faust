@@ -1,5 +1,5 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="15">
+<scene id="XV">
     <head>MARGARET'S ROOM</head>
     <sp>
         <speaker>MARGARET</speaker>

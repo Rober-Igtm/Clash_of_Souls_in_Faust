@@ -1,5 +1,5 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="14">
+<scene id="XIV">
     <head>FOREST AND CAVERN</head>
     <sp>
         <speaker>FAUST</speaker>

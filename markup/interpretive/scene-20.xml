@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="XX">
+<scene id="XX">
 
     <head>CATHEDRAL</head>
     <stage> SERVICE, ORGAN and ANTHEM.</stage>

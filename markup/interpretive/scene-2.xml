@@ -1,6 +1,6 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
 
-<scene n="II">
+<scene id="II">
     <head>BEFORE THE CITY-GATE</head>
     <stage>(Pedestrians of all kinds come forth.)</stage>
     <sp>

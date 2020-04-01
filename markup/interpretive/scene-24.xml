@@ -1,5 +1,5 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="24">
+<scene id="XXIV">
     <head>NIGHT</head>
     <stage>OPEN FIELD</stage>
     <stage>(FAUST and MEPHISTOPHELES speeding onward on black horses.)</stage>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n = "X">
+<scene id = "X">
 
-    <stage>THE NEIGHBOR'S HOUSE</stage>
+    <head>THE NEIGHBOR'S HOUSE</head>
     <sp>
         <speaker>MARTHA</speaker> <stage>(solus)</stage>
 
