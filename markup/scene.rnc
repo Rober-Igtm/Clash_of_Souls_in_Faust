@@ -1,7 +1,7 @@
 start = scene
-scene = element scene {n, head, (stage | sp)*}
+scene = element scene {id, head, (stage | sp)*}
+id = attribute id {text}
 head = element head {text}
-n = attribute n {xsd:integer}
 stage = element stage {text}
 sp = element sp {speaker, (stage | lg | p)+}
 lg = element lg {(l | stage | earthly | divine)+}

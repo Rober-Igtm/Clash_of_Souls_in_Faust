@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="9">
+<scene id="IX">
     <head>PROMENADE</head>
     <stage>(FAUST, walking thoughtfully up and down. To him MEPHISTOPHELES.)</stage>
     <sp>

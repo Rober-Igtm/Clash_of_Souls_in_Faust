@@ -1,5 +1,5 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="3">
+<scene id="III">
     <head>THE STUDY (The Exorcism)</head>
     <sp>
         <speaker>FAUST</speaker>
@@ -62,8 +62,8 @@
                 <l>The hallowed Original</l>
                 <l>To change to my beloved German.</l></divine>
         </lg>
+        <stage>(He opens a volume, and commences.)</stage>
         <lg>
-            <stage>(He opens a volume, and commences.)</stage>
             <earthly><l>'Tis written: "In the Beginning was the Word."</l>
                 <l>Here am I balked: who, now can help afford?</l></earthly>
             <divine><l>The Word?—impossible so high to rate it;</l>
@@ -315,12 +315,14 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <lg><divine><l>So, to the actively eternal</l>
-            <l>Creative force, in cold disdain</l>
-            <l>You now oppose the fist infernal,</l>
-            <l>Whose wicked clench is all in vain!</l></divine>
-        <divine><l>Some other labor seek thou rather,</l>
-            <l>Queer Son of Chaos, to begin!</l></divine></lg>
+        <lg>
+            <divine><l>So, to the actively eternal</l>
+                <l>Creative force, in cold disdain</l>
+                <l>You now oppose the fist infernal,</l>
+                <l>Whose wicked clench is all in vain!</l></divine>
+            <divine><l>Some other labor seek thou rather,</l>
+                <l>Queer Son of Chaos, to begin!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -332,11 +334,13 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <lg><divine><l>Why thou shouldst ask, I don't perceive.</l></divine>
-        <divine><l>Though our acquaintance is so recent,</l>
-            <l>For further visits thou hast leave.</l></divine>
-        <divine><l>The window's here, the door is yonder;</l>
-            <l>A chimney, also, you behold.</l></divine></lg>
+        <lg>
+            <divine><l>Why thou shouldst ask, I don't perceive.</l></divine>
+            <divine><l>Though our acquaintance is so recent,</l>
+                <l>For further visits thou hast leave.</l></divine>
+            <divine><l>The window's here, the door is yonder;</l>
+                <l>A chimney, also, you behold.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
@@ -381,7 +385,9 @@
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-        <lg><divine><l>Try, then, the open window-pane!</l></divine></lg>
+        <lg>
+            <divine><l>Try, then, the open window-pane!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>

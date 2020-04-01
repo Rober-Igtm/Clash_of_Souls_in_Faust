@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="5">
+<scene id="V">
     <head>AUERBACH'S CELLAR IN LEIPZIG</head>
     <stage>CAROUSAL OF JOLLY COMPANIONS</stage>
     <sp>

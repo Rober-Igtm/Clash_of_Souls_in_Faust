@@ -1,5 +1,5 @@
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="1">
+<scene id="I">
     <head>NIGHT</head>
     <stage>(A lofty-arched, narrow, Gothic chamber. FAUST, in a chair at his desk,
         restless.)</stage>
@@ -155,8 +155,7 @@
             <divine><l>I feel thee draw my heart, absorb, exhaust me:</l>
             <l>Thou must! thou must! and though my life it cost me!</l></divine>
         </lg>
-        <stage>(He seizes the book, and mysteriously pronounces the sign of the Spirit. A ruddy
-            flame flashes: the Spirit appears in the flame.)</stage>
+        <stage>(He seizes the book, and mysteriously pronounces the sign of the Spirit. A ruddy flame flashes: the Spirit appears in the flame.)</stage>
     </sp>
     <sp>
         <speaker>SPIRIT</speaker>

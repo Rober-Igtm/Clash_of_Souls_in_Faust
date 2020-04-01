@@ -1,164 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-<scene n="XI">
-    <stage>A STREET </stage>
+<scene id="XI">
+    <head>A STREET</head>
     <stage>FAUST MEPHISTOPHELES</stage>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>How is it? under way? and soon complete?</l></earthly>
-
-
+        <lg>
+            <earthly><l>How is it? under way? and soon complete?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Ah, bravo! Do I find you burning?</l>
-        <l>Well, Margaret soon will still your yearning:</l>
-        <l>At Neighbor Martha's you'll this evening meet.</l>
-        <l>A fitter woman ne'er was made</l>
-        <l>To ply the pimp and gypsy trade!</l>
-
-
+        <lg>
+            <l>Ah, bravo! Do I find you burning?</l>
+            <l>Well, Margaret soon will still your yearning:</l>
+            <l>At Neighbor Martha's you'll this evening meet.</l>
+            <l>A fitter woman ne'er was made</l>
+            <l>To ply the pimp and gypsy trade!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>Tis well.</l></earthly>
-
-
+        <lg>
+            <earthly><l>Tis well.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Yet something is required from us.</l>
-
-
+        <lg>
+            <l>Yet something is required from us.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>One service pays the other thus.</l></earthly>
-
-
+        <lg>
+            <earthly><l>One service pays the other thus.</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>We've but to make a deposition valid</l>
-        <l>That now her husband's limbs, outstretched and pallid,</l>
-        <l>At Padua rest, in consecrated soil.</l>
-
-
+        <lg>
+            <l>We've but to make a deposition valid</l>
+            <l>That now her husband's limbs, outstretched and pallid,</l>
+            <l>At Padua rest, in consecrated soil.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>Most wise! And first, of course, we'll make the journey</l>
-        <l>thither?</l></earthly>
-
-
+        <lg>
+            <earthly><l>Most wise! And first, of course, we'll make the journey</l>
+                <l>thither?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Sancta simplicitas! no need of such a toil;</l>
-        <l>Depose, with knowledge or without it, either!</l>
-
-
+        <lg>
+            <l>Sancta simplicitas! no need of such a toil;</l>
+            <l>Depose, with knowledge or without it, either!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>If you've naught better, then, I'll tear your pretty plan!</l></divine>
-
-
+        <lg>
+            <divine><l>If you've naught better, then, I'll tear your pretty plan!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Now, there you are! O holy man!</l>
-        <l>Is it the first time in your life you're driven</l>
-        <l>To bear false witness in a case?</l>
-        <l>Of God, the world and all that in it has a place,</l>
-        <l>Of Man, and all that moves the being of his race,</l>
-        <l>Have you not terms and definitions given</l>
-        <l>With brazen forehead, daring breast?</l>
-        <l>And, if you'll probe the thing profoundly,</l>
-        <l>Knew you so much—and you'll confess it roundly!—</l>
-        <l>As here of Schwerdtlein's death and place of rest?</l>
-
-
+        <lg>
+            <l>Now, there you are! O holy man!</l>
+            <l>Is it the first time in your life you're driven</l>
+            <l>To bear false witness in a case?</l>
+            <l>Of God, the world and all that in it has a place,</l>
+            <l>Of Man, and all that moves the being of his race,</l>
+            <l>Have you not terms and definitions given</l>
+            <l>With brazen forehead, daring breast?</l>
+            <l>And, if you'll probe the thing profoundly,</l>
+            <l>Knew you so much—and you'll confess it roundly!—</l>
+            <l>As here of Schwerdtlein's death and place of rest?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>Thou art, and thou remain'st, a sophist, liar.</l></divine>
-
+        <lg>
+            <divine><l>Thou art, and thou remain'st, a sophist, liar.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Yes, knew I not more deeply thy desire.</l>
-        <l>For wilt thou not, no lover fairer,</l>
-        <l>Poor Margaret flatter, and ensnare her,</l>
-        <l>And all thy soul's devotion swear her?</l>
-
-
+        <lg>
+            <l>Yes, knew I not more deeply thy desire.</l>
+            <l>For wilt thou not, no lover fairer,</l>
+            <l>Poor Margaret flatter, and ensnare her,</l>
+            <l>And all thy soul's devotion swear her?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>And from my heart.</l></divine>
-
-
+        <lg>
+            <divine><l>And from my heart.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>'Tis very fine!</l>
-
-        <l>Thine endless love, thy faith assuring,</l>
-        <l>The one almighty force enduring,—</l>
-        <l>Will that, too, prompt this heart of thine?</l>
-
-
+        <lg>
+            <l>'Tis very fine!</l>
+        </lg>
+        <lg>
+            <l>Thine endless love, thy faith assuring,</l>
+            <l>The one almighty force enduring,—</l>
+            <l>Will that, too, prompt this heart of thine?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>Hold! hold! It will!—If such my flame,</l>
-        <l>And for the sense and power intense</l>
-        <l>I seek, and cannot find, a name;</l></earthly>
-        <divine><l>Then range with all my senses through creation,</l>
-        <l>Craving the speech of inspiration,</l>
-        <l>And call this ardor, so supernal,</l>
-        <l>Endless, eternal and eternal,—</l>
-        <l>Is that a devilish lying game?</l></divine>
-
-
+        <lg>
+            <earthly><l>Hold! hold! It will!—If such my flame,</l>
+                <l>And for the sense and power intense</l>
+                <l>I seek, and cannot find, a name;</l></earthly>
+            <divine><l>Then range with all my senses through creation,</l>
+                <l>Craving the speech of inspiration,</l>
+                <l>And call this ardor, so supernal,</l>
+                <l>Endless, eternal and eternal,—</l>
+                <l>Is that a devilish lying game?</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>And yet I'm right!</l>
-
-
+        <lg>
+            <l>And yet I'm right!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-       <divine> <l>Mark this, I beg of thee!</l></divine>
-
-       <divine> <l>And spare my lungs henceforth: whoever</l>
-        <l>Intends to have the right, if but his</l>
-        <l>tongue be clever,</l>
-        <l>Will have it, certainly.</l></divine>
-        <earthly><l>But come: the further talking brings</l>
-        <l>disgust,</l>
-        <l>For thou art right, especially since I</l>
-        <l>must.</l></earthly>
-
-
+        <lg>
+            <divine>
+                <l>Mark this, I beg of thee!</l></divine>
+        </lg>
+        <lg>
+            <divine>
+                <l>And spare my lungs henceforth: whoever</l>
+                <l>Intends to have the right, if but his</l>
+                <l>tongue be clever,</l>
+                <l>Will have it, certainly.</l></divine>
+            <earthly><l>But come: the further talking brings</l>
+                <l>disgust,</l>
+                <l>For thou art right, especially since I</l>
+                <l>must.</l></earthly>
+        </lg>
     </sp>
 </scene>
