@@ -1,474 +1,426 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="XII">
-    <stage>GARDEN</stage>
+    <head>GARDEN</head>
     <stage>(MARGARET on FAUST'S arm. MARTHA and MEPHISTOPHELES walking up and down.)</stage>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>I feel, the gentleman allows for me,</l>
-        <l>Demeans himself, and shames me by it;</l>
-        <l>A traveller is so used to be</l>
-        <l>Kindly content with any diet.</l>
-        <l>I know too well that my poor gossip can</l>
-        <l>Ne'er entertain such an experienced man.</l>
-
-
+        <lg>
+            <l>I feel, the gentleman allows for me,</l>
+            <l>Demeans himself, and shames me by it;</l>
+            <l>A traveller is so used to be</l>
+            <l>Kindly content with any diet.</l>
+            <l>I know too well that my poor gossip can</l>
+            <l>Ne'er entertain such an experienced man.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-       <divine> <l>A look from thee, a word, more entertains</l>
-        <l>Than all the lore of wisest brains.</l></divine>
-
-
+        <lg>
+            <divine>
+                <l>A look from thee, a word, more entertains</l>
+                <l>Than all the lore of wisest brains.</l></divine>
+        </lg>
+        <stage>(He kisses her hand.)</stage>
     </sp>
-    <stage>(He kisses her hand.)</stage>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>Don't incommode yourself! How could you ever kiss it!</l>
-        <l>It is so ugly, rough to see!</l>
-        <l>What work I do,—how hard and steady is it!</l>
-        <l>Mother is much too close with me.</l>
-
+        <lg>
+            <l>Don't incommode yourself! How could you ever kiss it!</l>
+            <l>It is so ugly, rough to see!</l>
+            <l>What work I do,—how hard and steady is it!</l>
+            <l>Mother is much too close with me.</l>
+        </lg>
         <stage>[They pass.]</stage>
-
-
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>And you, Sir, travel always, do you not?</l>
-
-
+        <lg>
+            <l>And you, Sir, travel always, do you not?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Alas, that trade and duty us so harry!</l>
-        <l>With what a pang one leaves so many a spot,</l>
-        <l>And dares not even now and then to tarry!</l>
-
-
+        <lg>
+            <l>Alas, that trade and duty us so harry!</l>
+            <l>With what a pang one leaves so many a spot,</l>
+            <l>And dares not even now and then to tarry!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>In young, wild years it suits your ways,</l>
-        <l>This round and round the world in freedom sweeping;</l>
-        <l>But then come on the evil days,</l>
-        <l>And so, as bachelor, into his grave a-creeping,</l>
-        <l>None ever found a thing to praise.</l>
-
-
+        <lg>
+            <l>In young, wild years it suits your ways,</l>
+            <l>This round and round the world in freedom sweeping;</l>
+            <l>But then come on the evil days,</l>
+            <l>And so, as bachelor, into his grave a-creeping,</l>
+            <l>None ever found a thing to praise.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>I dread to see how such a fate advances.</l>
-
-
+        <lg>
+            <l>I dread to see how such a fate advances.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>Then, worthy Sir, improve betimes your chances!</l>
-
+        <lg>
+            <l>Then, worthy Sir, improve betimes your chances!</l>
+        </lg>
         <stage>[They pass.]</stage>
-
-
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>Yes, out of sight is out of mind!</l>
-        <l>Your courtesy an easy grace is;</l>
-        <l>But you have friends in other places,</l>
-        <l>And sensibler than I, you'll find.</l>
-
-
+        <lg>
+            <l>Yes, out of sight is out of mind!</l>
+            <l>Your courtesy an easy grace is;</l>
+            <l>But you have friends in other places,</l>
+            <l>And sensibler than I, you'll find.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>Trust me, dear heart! what men call sensible</l>
-        <l>Is oft mere vanity and narrowness.</l></divine>
-
-
+        <lg>
+            <divine><l>Trust me, dear heart! what men call sensible</l>
+                <l>Is oft mere vanity and narrowness.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>How so?</l>
-
-
+        <lg>
+            <l>How so?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>Ah, that simplicity and innocence ne'er know</l>
-        <l>Themselves, their holy value, and their spell!</l></divine>
-        <divine><l>That meekness, lowliness, the highest graces</l>
-        <l>Which Nature portions out so lovingly—</l></divine>
-
-
+        <lg>
+            <divine><l>Ah, that simplicity and innocence ne'er know</l>
+                <l>Themselves, their holy value, and their spell!</l></divine>
+            <divine><l>That meekness, lowliness, the highest graces</l>
+                <l>Which Nature portions out so lovingly—</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>So you but think a moment's space on me,</l>
-        <l>All times I'll have to think on you, all places!</l>
-
-
+        <lg>
+            <l>So you but think a moment's space on me,</l>
+            <l>All times I'll have to think on you, all places!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>No doubt you're much alone?</l></earthly>
-
-
+        <lg>
+            <earthly><l>No doubt you're much alone?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>Yes, for our household small has grown,</l>
-        <l>Yet must be cared for, you will own.</l>
-        <l>We have no maid: I do the knitting, sewing, sweeping,</l>
-        <l>The cooking, early work and late, in fact;</l>
-        <l>And mother, in her notions of housekeeping,</l>
-        <l>Is so exact!</l>
-        <l>Not that she needs so much to keep expenses down:</l>
-        <l>We, more than others, might take comfort, rather:</l>
-        <l>A nice estate was left us by my father,</l>
-        <l>A house, a little garden near the town.</l>
-        <l>But now my days have less of noise and hurry;</l>
-        <l>My brother is a soldier,</l>
-        <l>My little sister's dead.</l>
-        <l>True, with the child a troubled life I led,</l>
-        <l>Yet I would take again, and willing, all the worry,</l>
-        <l>So very dear was she.</l>
-
-
+        <lg>
+            <l>Yes, for our household small has grown,</l>
+            <l>Yet must be cared for, you will own.</l>
+            <l>We have no maid: I do the knitting, sewing, sweeping,</l>
+            <l>The cooking, early work and late, in fact;</l>
+            <l>And mother, in her notions of housekeeping,</l>
+            <l>Is so exact!</l>
+            <l>Not that she needs so much to keep expenses down:</l>
+            <l>We, more than others, might take comfort, rather:</l>
+            <l>A nice estate was left us by my father,</l>
+            <l>A house, a little garden near the town.</l>
+            <l>But now my days have less of noise and hurry;</l>
+            <l>My brother is a soldier,</l>
+            <l>My little sister's dead.</l>
+            <l>True, with the child a troubled life I led,</l>
+            <l>Yet I would take again, and willing, all the worry,</l>
+            <l>So very dear was she.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>An angel, if like thee!</l></divine>
-
-
+        <lg>
+            <divine><l>An angel, if like thee!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>I brought it up, and it was fond of me.</l>
-        <l>Father had died before it saw the light,</l>
-        <l>And mother's case seemed hopeless quite,</l>
-        <l>So weak and miserable she lay;</l>
-        <l>And she recovered, then, so slowly, day by day.</l>
-        <l>She could not think, herself, of giving</l>
-        <l>The poor wee thing its natural living;</l>
-        <l>And so I nursed it all alone</l>
-        <l>With milk and water: 'twas my own.</l>
-        <l>Lulled in my lap with many a song,</l>
-        <l>It smiled, and tumbled, and grew strong.</l>
-
-
+        <lg>
+            <l>I brought it up, and it was fond of me.</l>
+            <l>Father had died before it saw the light,</l>
+            <l>And mother's case seemed hopeless quite,</l>
+            <l>So weak and miserable she lay;</l>
+            <l>And she recovered, then, so slowly, day by day.</l>
+            <l>She could not think, herself, of giving</l>
+            <l>The poor wee thing its natural living;</l>
+            <l>And so I nursed it all alone</l>
+            <l>With milk and water: 'twas my own.</l>
+            <l>Lulled in my lap with many a song,</l>
+            <l>It smiled, and tumbled, and grew strong.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>The purest bliss was surely then thy dower.</l></divine>
-
-
+        <lg>
+            <divine><l>The purest bliss was surely then thy dower.</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>But surely, also, many a weary hour.</l>
-        <l>I kept the baby's cradle near</l>
-        <l>My bed at night: if 't even stirred, I'd guess it,</l>
-        <l>And waking, hear.</l>
-        <l>And I must nurse it, warm beside me press it,</l>
-        <l>And oft, to quiet it, my bed forsake,</l>
-        <l>And dandling back and forth the restless creature take,</l>
-        <l>Then at the wash-tub stand, at morning's break;</l>
-        <l>And then the marketing and kitchen-tending,</l>
-        <l>Day after day, the same thing, never-ending.</l>
-        <l>One's spirits, Sir, are thus not always good,</l>
-        <l>But then one learns to relish rest and food.</l>
-
+        <lg>
+            <l>But surely, also, many a weary hour.</l>
+            <l>I kept the baby's cradle near</l>
+            <l>My bed at night: if 't even stirred, I'd guess it,</l>
+            <l>And waking, hear.</l>
+            <l>And I must nurse it, warm beside me press it,</l>
+            <l>And oft, to quiet it, my bed forsake,</l>
+            <l>And dandling back and forth the restless creature take,</l>
+            <l>Then at the wash-tub stand, at morning's break;</l>
+            <l>And then the marketing and kitchen-tending,</l>
+            <l>Day after day, the same thing, never-ending.</l>
+            <l>One's spirits, Sir, are thus not always good,</l>
+            <l>But then one learns to relish rest and food.</l>
+        </lg>
         <stage>[They pass.]</stage>
-
-
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>Yes, the poor women are bad off, 'tis true:</l>
-        <l>A stubborn bachelor there's no converting.</l>
-
-
+        <lg>
+            <l>Yes, the poor women are bad off, 'tis true:</l>
+            <l>A stubborn bachelor there's no converting.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>It but depends upon the like of you,</l>
-        <l>And I should turn to better ways than flirting.</l>
-
-
+        <lg>
+            <l>It but depends upon the like of you,</l>
+            <l>And I should turn to better ways than flirting.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>Speak plainly, Sir, have you no one detected?</l>
-        <l>Has not your heart been anywhere subjected?</l>
-
-
+        <lg>
+            <l>Speak plainly, Sir, have you no one detected?</l>
+            <l>Has not your heart been anywhere subjected?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>The proverb says: One's own warm hearth</l>
-        <l>And a good wife, are gold and jewels worth.</l>
-
-
+        <lg>
+            <l>The proverb says: One's own warm hearth</l>
+            <l>And a good wife, are gold and jewels worth.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>I mean, have you not felt desire, though ne'er so slightly?</l>
-
+        <lg>
+            <l>I mean, have you not felt desire, though ne'er so slightly?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>I've everywhere, in fact, been entertained politely.</l>
-
-
+        <lg>
+            <l>I've everywhere, in fact, been entertained politely.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>I meant to say, were you not touched in earnest, ever?</l>
-
-
+        <lg>
+            <l>I meant to say, were you not touched in earnest, ever?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>One should allow one's self to jest with ladies never.</l>
-
-        <l>MARTHA Ah, you don't understand!</l>
-
-
+        <lg>
+            <l>One should allow one's self to jest with ladies never.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MARTHA</speaker>
+        <lg>
+            <l>Ah, you don't understand!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>I'm sorry I'm so blind: But I am sure—that you are very kind.</l>
-
+        <lg>
+            <l>I'm sorry I'm so blind: But I am sure—that you are very kind.</l>
+        </lg>
         <stage>[They pass.]</stage>
-
-
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>And me, thou angel! didst thou recognize,</l>
-        <l>As through the garden-gate I came?</l></earthly>
-
-
+        <lg>
+            <earthly><l>And me, thou angel! didst thou recognize,</l>
+                <l>As through the garden-gate I came?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>Did you not see it? I cast down my eyes.</l>
-
-
+        <lg>
+            <l>Did you not see it? I cast down my eyes.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>And thou forgiv'st my freedom, and the blame</l>
-        <l>To my impertinence befitting,</l>
-        <l>As the Cathedral thou wert quitting?</l></earthly>
-
-
+        <lg>
+            <earthly><l>And thou forgiv'st my freedom, and the blame</l>
+                <l>To my impertinence befitting,</l>
+                <l>As the Cathedral thou wert quitting?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>I was confused, the like ne'er happened me;</l>
-        <l>No one could ever speak to my discredit.</l>
-        <l>Ah, thought I, in my conduct has he read it—</l>
-        <l>Something immodest or unseemly free?</l>
-        <l>He seemed to have the sudden feeling</l>
-        <l>That with this wench 'twere very easy dealing.</l>
-        <l>I will confess, I knew not what appeal</l>
-        <l>On your behalf, here, in my bosom grew;</l>
-        <l>But I was angry with myself, to feel</l>
-        <l>That I could not be angrier with you.</l>
-
-
+        <lg>
+            <l>I was confused, the like ne'er happened me;</l>
+            <l>No one could ever speak to my discredit.</l>
+            <l>Ah, thought I, in my conduct has he read it—</l>
+            <l>Something immodest or unseemly free?</l>
+            <l>He seemed to have the sudden feeling</l>
+            <l>That with this wench 'twere very easy dealing.</l>
+            <l>I will confess, I knew not what appeal</l>
+            <l>On your behalf, here, in my bosom grew;</l>
+            <l>But I was angry with myself, to feel</l>
+            <l>That I could not be angrier with you.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>Sweet darling!</l></earthly>
-
+        <lg>
+            <earthly><l>Sweet darling!</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>Wait a while!</l>
-
+        <lg>
+            <l>Wait a while!</l>
+        </lg>
         <stage>(She plucks a star-flower, and pulls off the leaves, one after the other.)</stage>
-
-
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>Shall that a nosegay be?</l></divine>
-
-
+        <lg>
+            <divine><l>Shall that a nosegay be?</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>No, it is just in play.</l>
-
-
+        <lg>
+            <l>No, it is just in play.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <earthly><l>How?</l></earthly>
-
-
+        <lg>
+            <earthly><l>How?</l></earthly>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>Go! you'll laugh at me.</l>
-
-
+        <lg>
+            <l>Go! you'll laugh at me.</l>
+        </lg>
+        <stage>(She pulls off the leaves and murmurs.)</stage>
     </sp>
-    <stage>(She pulls off the leaves and murmurs.)</stage>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>What murmurest thou?</l></divine>
-
-
+        <lg>
+            <divine><l>What murmurest thou?</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
         <stage>(half aloud)</stage>
-
-        <l>He loves me—loves me not.</l>
-
-
+        <lg>
+            <l>He loves me—loves me not.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>Thou sweet, angelic soul!</l></divine>
-
-
+        <lg>
+            <divine><l>Thou sweet, angelic soul!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
         <stage>(continues)</stage>
-
-        <l>Loves me—not—loves me—not—</l>
-        <stage>(plucking the last leaf, she cries with frank delight:)</stage>
-
-        <l>He loves me!</l>
-
-
+        <lg>
+            <l>Loves me—not—loves me—not—</l>
+            <stage>(plucking the last leaf, she cries with frank delight:)</stage>
+        </lg>
+        <lg>
+            <l>He loves me!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>Yes, child! and let this blossom-word</l>
-        <l>For thee be speech divine! He loves thee!</l></divine>
-        <divine><l>Ah, know'st thou what it means? He loves thee!</l></divine>
-
+        <lg>
+            <divine><l>Yes, child! and let this blossom-word</l>
+                <l>For thee be speech divine! He loves thee!</l></divine>
+            <divine><l>Ah, know'st thou what it means? He loves thee!</l></divine>
+        </lg>
         <stage>(He grasps both her hands.)</stage>
-
-
     </sp>
     <sp>
         <speaker>MARGARET</speaker>
-
-        <l>I'm all a-tremble!</l>
-
-
+        <lg>
+            <l>I'm all a-tremble!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>FAUST</speaker>
-
-        <divine><l>O tremble not! but let this look,</l>
-        <l>Let this warm clasp of hands declare thee</l>
-        <l>What is unspeakable!</l></divine>
-        <divine><l>To yield one wholly, and to feel a rapture</l>
-        <l>In yielding, that must be eternal!</l></divine>
-        <divine><l>Eternal!—for the end would be despair.</l></divine>
-        <divine><l>No, no,—no ending! no ending!</l></divine>
-
-
+        <lg>
+            <divine><l>O tremble not! but let this look,</l>
+                <l>Let this warm clasp of hands declare thee</l>
+                <l>What is unspeakable!</l></divine>
+            <divine><l>To yield one wholly, and to feel a rapture</l>
+                <l>In yielding, that must be eternal!</l></divine>
+            <divine><l>Eternal!—for the end would be despair.</l></divine>
+            <divine><l>No, no,—no ending! no ending!</l></divine>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
         <stage>(coming forward)</stage>
-
-        <l>The night is falling.</l>
-
-
+        <lg>
+            <l>The night is falling.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Ay! we must away.</l>
-
-
+        <lg>
+            <l>Ay! we must away.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>I'd ask you, longer here to tarry,</l>
-        <l>But evil tongues in this town have full play.</l>
-        <l>It's as if nobody had nothing to fetch and carry,</l>
-        <l>Nor other labor,</l>
-        <l>But spying all the doings of one's neighbor:</l>
-        <l>And one becomes the talk, do whatsoe'er one may.</l>
-        <l>Where is our couple now?</l>
-
-
+        <lg>
+            <l>I'd ask you, longer here to tarry,</l>
+            <l>But evil tongues in this town have full play.</l>
+            <l>It's as if nobody had nothing to fetch and carry,</l>
+            <l>Nor other labor,</l>
+            <l>But spying all the doings of one's neighbor:</l>
+            <l>And one becomes the talk, do whatsoe'er one may.</l>
+            <l>Where is our couple now?</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>Flown up the alley yonder,</l>
-
-        <l>The wilful summer-birds!</l>
-
-
+        <lg>
+            <l>Flown up the alley yonder,</l>
+        </lg>
+        <lg>
+            <l>The wilful summer-birds!</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MARTHA</speaker>
-
-        <l>He seems of her still fonder.</l>
-
-
+        <lg>
+            <l>He seems of her still fonder.</l>
+        </lg>
     </sp>
     <sp>
         <speaker>MEPHISTOPHELES</speaker>
-
-        <l>And she of him. So runs the world away!</l>
-
-
+        <lg>
+            <l>And she of him. So runs the world away!</l>
+        </lg>
     </sp>
 </scene>
