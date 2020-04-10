@@ -93,18 +93,23 @@ p.play {
     border-spacing: 0px 20px;*/
 }
 
+table.index > tr {
+    padding: 0px;
+    margin: 0px;
+}
+
 td > a:link, a:visited {
     display: inline-block;
     width: 100%;
-    padding: 10px 0px 10px 0px;
-    margin: 5px 0px 5px 0px;
+    padding: 7px 0px 7px 0px;
+    margin: 0px;
     border-radius: 3px;
     background-color: #788186;
     color: #A7F3FD;
     text-align: center;
     text-decoration: none;
-    font-family: Verdana, sans-serif;
-    font-size: 12px;
+    font-family: Courier, sans-serif;
+    font-size: 14px;
 }
 
 td > a:hover, a:active {
