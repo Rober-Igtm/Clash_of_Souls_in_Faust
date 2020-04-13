@@ -1,3 +1,4 @@
+// Checkboxes for Tags
 window.addEventListener("DOMContentLoaded", init, false);
 function init() {
     const buttons = document.querySelectorAll(".button");
