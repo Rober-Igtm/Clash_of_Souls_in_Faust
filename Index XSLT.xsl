@@ -40,4 +40,8 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    <xsl:template match="p">
+        <br/>
+        <xsl:apply-templates/>
+    </xsl:template>
 </xsl:stylesheet>
