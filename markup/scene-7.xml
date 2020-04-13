@@ -1,5 +1,4 @@
-<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
-
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="VII">
     <head>A STREET</head>
     <stage>FAUST MARGARET</stage>

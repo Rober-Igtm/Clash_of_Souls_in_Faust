@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="IV">
     <head>THE STUDY (The Compact)</head>
     <stage>FAUST MEPHISTOPHELES</stage>

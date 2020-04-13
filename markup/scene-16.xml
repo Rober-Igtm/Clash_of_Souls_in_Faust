@@ -1,4 +1,4 @@
-<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="XVI">
     <head>MARTHA'S GARDEN</head>
     <stage>MARGARET FAUST</stage>

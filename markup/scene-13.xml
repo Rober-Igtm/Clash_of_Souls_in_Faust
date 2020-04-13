@@ -1,4 +1,4 @@
-<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="XIII">
     <head>A GARDEN-ARBOR</head>
     <stage>(MARGARET comes in, conceals herself behind the door, puts her finger to her lips, and

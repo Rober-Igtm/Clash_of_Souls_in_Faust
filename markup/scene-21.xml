@@ -1,4 +1,4 @@
-<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="XXI">
     <head>WALPURGIS-NIGHT</head>
     <stage>THE HARTZ MOUNTAINS.</stage>

@@ -1,4 +1,4 @@
-<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="XIV">
     <head>FOREST AND CAVERN</head>
     <sp>

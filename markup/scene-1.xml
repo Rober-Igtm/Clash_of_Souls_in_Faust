@@ -1,4 +1,4 @@
-<?xml-model href="../scene.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
 <scene id="I">
     <head>NIGHT</head>
     <stage>(A lofty-arched, narrow, Gothic chamber. FAUST, in a chair at his desk,
