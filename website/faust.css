@@ -116,3 +116,11 @@ td > a:hover, a:active {
     background-color: #A7F3FD;
     color: #788186;
 }
+
+span.divine {
+    color: blue;
+}
+
+span.earthly {
+    color: orange;
+}

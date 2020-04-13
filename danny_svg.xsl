@@ -34,22 +34,14 @@
                     <!-- TICK MARKS -->
                     <line x1="-10" y1="-{$yTenth * $yScale}" x2="0" y2="-{$yTenth * $yScale}"
                         stroke="black"/>
-                    <line x1="-10" y1="{$yTenth * $yScale}" x2="0" y2="{$yTenth * $yScale}"
-                        stroke="black"/>
                     <line x1="{$xTenth * $xScale}" y1="-10" x2="{$xTenth * $xScale}" y2="10"
                         stroke="black"/>
 
                     <!-- GUIDELINES -->
                     <line x1="0" y1="-{$yTenth * $yScale}" x2="{$lines * $xScale}"
                         y2="-{$yTenth * $yScale}" stroke="lightgrey"/>
-                    <line x1="0" y1="{$yTenth * $yScale}" x2="{$lines * $xScale}"
-                        y2="{$yTenth * $yScale}" stroke="lightgrey"/>
 
                     <!-- LABELS -->
-                    <text x="-15" y="{$yTenth * $yScale}" text-anchor="end"
-                        alignment-baseline="central">
-                        <xsl:value-of select="$yTenth"/>
-                    </text>
                     <text x="-15" y="-{$yTenth * $yScale}" text-anchor="end"
                         alignment-baseline="central">
                         <xsl:value-of select="$yTenth"/>
@@ -78,24 +70,18 @@
                         select="$earthlyCnt - $divineCnt"/>
 
                     <!-- DATA POINTS -->
-                    <circle r="{$xScale}" cx="{position() * $xScale}" cy="{$difference * $yScale}"
-                        fill="#FF00FF"/>
                     <circle r="{$xScale}" cx="{position() * $xScale}" cy="-{$divineCnt * $yScale}"
                         fill="#00FDFF"/>
-                    <circle r="{$xScale}" cx="{position() * $xScale}" cy="{$earthlyCnt * $yScale}"
+                    <circle r="{$xScale}" cx="{position() * $xScale}" cy="-{$earthlyCnt * $yScale}"
                         fill="#FFC300"/>
 
                     <!-- LINE LABEL -->
                     <xsl:if test="position() eq last()">
-                        <text x="{(position() + 2) * $xScale}" y="{$difference * $yScale}"
-                            text-anchor="start" alignment-baseline="central" fill="#FF00FF">
-                            <xsl:text>difference</xsl:text>
-                        </text>
                         <text x="{(position() + 2) * $xScale}" y="-{$divineCnt * $yScale}"
                             text-anchor="start" alignment-baseline="central" fill="#00FDFF">
                             <xsl:text>divine</xsl:text>
                         </text>
-                        <text x="{(position() + 2) * $xScale}" y="{$earthlyCnt * $yScale}"
+                        <text x="{(position() + 2) * $xScale}" y="-{$earthlyCnt * $yScale}"
                             text-anchor="start" alignment-baseline="central" fill="#FFC300">
                             <xsl:text>earthly</xsl:text>
                         </text>
@@ -104,16 +90,13 @@
 
                 <!-- AXES -->
                 <line x1="0" y1="0" x2="{$lines * $xScale}" y2="0" stroke="black"/>
-                <line x1="0" y1="{$yScale * $maxHeight + 25}" x2="0"
+                <line x1="0" y1="0" x2="0"
                     y2="-{$yScale * $maxHeight + 25}" stroke="black"/>
 
                 <!-- AXES LABELS -->
                 <text x="-50" y="-{$maxHeight div 2 * $yScale}" text-anchor="middle"
                     font-size="larger" transform="rotate(-90 -50 -{$maxHeight div 2 * $yScale})"
-                    >Divine</text>
-                <text x="-50" y="{$maxHeight div 2 * $yScale}" text-anchor="middle"
-                    font-size="larger" transform="rotate(-90 -50 {$maxHeight div 2 * $yScale})"
-                    >Earthly</text>
+                    >Occurrences</text>
                 <text x="{$lines * $xScale + 3}" y="-3" text-anchor="start" font-size="larger" alignment-baseline="baseline">Percentage
                     of Scene</text>
 
