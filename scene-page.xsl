@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="xs" version="3.0">
     <xsl:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
         <html>
             <head>
-                <title>Scene <xsl:apply-templates select="/scene/@id"></xsl:apply-templates></title>
+                <title>Scene <xsl:apply-templates select="/scene/@id"/></title>
                 <link rel="stylesheet" type="text/css" href="faust.css"/>
+                <script src="script.js"></script>
             </head>
             <body>
                 <div class="container">
@@ -20,6 +22,17 @@
                             <a href="graphs.xhtml">Graphs</a>
                             <a href="conclusions.xhtml">Conclusion</a>
                             <a href="resources.xhtml">Resources</a>
+                            <hr/>
+                            <h3 style="text-align: center;">Two Souls</h3>
+                            <hr/>
+                            <p>
+                                <label for="divine"><input type="checkbox" id="divine"
+                                    />divine</label>
+                            </p>
+                            <p>
+                                <label for="earthly"><input type="checkbox" id="earthly"
+                                    />earthly</label>
+                            </p>
                         </aside>
                         <section class="col script">
                             <xsl:apply-templates select="scene"/>
@@ -58,8 +71,8 @@
     </xsl:template>
     <xsl:template match="l">
         <xsl:apply-templates/>
-            <br/>
-        
+        <br/>
+
     </xsl:template>
     <xsl:template match="p">
         <br/>

@@ -1,0 +1,407 @@
+<?xml-model href="scene.rnc" type="application/relax-ng-compact-syntax"?>
+<scene id="XXII">
+    <head>WALPURGIS-NIGHT'S DREAM</head>
+    <stage>OBERON AND TITANIA's GOLDEN WEDDING</stage>
+    <stage>INTERMEZZO</stage>
+    <sp>
+        <speaker>MANAGER</speaker>
+        <lg>
+            <l>Sons of Mieding, rest to-day!</l>
+            <l>Needless your machinery:</l>
+            <l>Misty vale and mountain gray,</l>
+            <l>That is all the scenery.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>HERALD</speaker>
+        <lg>
+            <l>That the wedding golden be.</l>
+            <l>Must fifty years be rounded:</l>
+            <l>But the Golden give to me,</l>
+            <l>When the strife's compounded.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>OBERON</speaker>
+        <lg>
+            <l>Spirits, if you're here, be seen—</l>
+            <l>Show yourselves, delighted!</l>
+            <l>Fairy king and fairy queen,</l>
+            <l>They are newly plighted.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>PUCK</speaker>
+        <lg>
+            <l>Cometh Puck, and, light of limb,</l>
+            <l>Whisks and whirls in measure:</l>
+            <l>Come a hundred after him,</l>
+            <l>To share with him the pleasure.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ARIEL</speaker>
+        <lg>
+            <l>Ariel's song is heavenly-pure,</l>
+            <l>His tones are sweet and rare ones:</l>
+            <l>Though ugly faces he allure,</l>
+            <l>Yet he allures the fair ones.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>OBERON</speaker>
+        <lg>
+            <l>Spouses, who would fain agree,</l>
+            <l>Learn how we were mated!</l>
+            <l>If your pairs would loving be,</l>
+            <l>First be separated!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>TITANIA</speaker>
+        <lg>
+            <l>If her whims the wife control,</l>
+            <l>And the man berate her,</l>
+            <l>Take him to the Northern Pole,</l>
+            <l>And her to the Equator!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ORCHESTRA</speaker>
+        <stage>TUTTI</stage>
+        <stage>Fortissimo.</stage>
+        <lg>
+            <l>Snout of fly, mosquito-bill,</l>
+            <l>And kin of all conditions,</l>
+            <l>Frog in grass, and cricket-trill,—</l>
+            <l>These are the musicians!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SOLO</speaker>
+        <lg>
+            <l>See the bagpipe on our track!</l>
+            <l>'Tis the soap-blown bubble:</l>
+            <l>Hear the schnecke-schnicke-schnack</l>
+            <l>Through his nostrils double!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SPIRIT, JUST GROWING INTO FORM</speaker>
+        <lg>
+            <l>Spider's foot and paunch of toad,</l>
+            <l>And little wings—we know 'em!</l>
+            <l>A little creature 'twill not be,</l>
+            <l>But yet, a little poem.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>A LITTLE COUPLE</speaker>
+        <lg>
+            <l>Little step and lofty leap</l>
+            <l>Through honey-dew and fragrance:</l>
+            <l>You'll never mount the airy steep</l>
+            <l>With all your tripping vagrance.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>INQUISITIVE TRAVELLER</speaker>
+        <lg>
+            <l>Is't but masquerading play?</l>
+            <l>See I with precision?</l>
+            <l>Oberon, the beauteous fay,</l>
+            <l>Meets, to-night, my vision!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ORTHODOX</speaker>
+        <lg>
+            <l>Not a claw, no tail I see!</l>
+            <l>And yet, beyond a cavil,</l>
+            <l>Like "the Gods of Greece," must he</l>
+            <l>Also be a devil.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>NORTHERN ARTIST</speaker>
+        <lg>
+            <l>I only seize, with sketchy air,</l>
+            <l>Some outlines of the tourney;</l>
+            <l>Yet I betimes myself prepare</l>
+            <l>For my Italian journey.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>PURIST</speaker>
+        <lg>
+            <l>My bad luck brings me here, alas!</l>
+            <l>How roars the orgy louder!</l>
+            <l>And of the witches in the mass,</l>
+            <l>But only two wear powder.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>YOUNG WITCH</speaker>
+        <lg>
+            <l>Powder becomes, like petticoat,</l>
+            <l>A gray and wrinkled noddy;</l>
+            <l>So I sit naked on my goat,</l>
+            <l>And show a strapping body.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MATRON</speaker>
+        <lg>
+            <l>We've too much tact and policy</l>
+            <l>To rate with gibes a scolder;</l>
+            <l>Yet, young and tender though you be,</l>
+            <l>I hope to see you moulder.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>LEADER OF THE BAND</speaker>
+        <lg>
+            <l>Fly-snout and mosquito-bill,</l>
+            <l>Don't swarm so round the Naked!</l>
+            <l>Frog in grass and cricket-trill,</l>
+            <l>Observe the time, and make it!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>WEATHERCOCK</speaker>
+        <stage>(towards one side)</stage>
+        <lg>
+            <l>Society to one's desire!</l>
+            <l>Brides only, and the sweetest!</l>
+            <l>And bachelors of youth and fire.</l>
+            <l>And prospects the completest!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>WEATHERCOCK</speaker>
+        <stage>(towards the other side)</stage>
+        <lg>
+            <l>And if the Earth don't open now</l>
+            <l>To swallow up each ranter,</l>
+            <l>Why, then will I myself, I vow,</l>
+            <l>Jump into hell instanter!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>XENIES</speaker>
+        <lg>
+            <l>Us as little insects see!</l>
+            <l>With sharpest nippers flitting,</l>
+            <l>That our Papa Satan we</l>
+            <l>May honor as is fitting.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>HENNINGS</speaker>
+        <lg>
+            <l>How, in crowds together massed,</l>
+            <l>They are jesting, shameless!</l>
+            <l>They will even say, at last,</l>
+            <l>That their hearts are blameless.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>MUSAGETES</speaker>
+        <lg>
+            <l>Among this witches' revelry</l>
+            <l>His way one gladly loses;</l>
+            <l>And, truly, it would easier be</l>
+            <l>Than to command the Muses.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>CI-DEVANT GENIUS OF THE AGE</speaker>
+        <lg>
+            <l>The proper folks one's talents laud:</l>
+            <l>Come on, and none shall pass us!</l>
+            <l>The Blocksberg has a summit broad,</l>
+            <l>Like Germany's Parnassus.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>INQUISITIVE TRAVELLER</speaker>
+        <lg>
+            <l>Say, who's the stiff and pompous man?</l>
+            <l>He walks with haughty paces:</l>
+            <l>He snuffles all he snuffle can:</l>
+            <l>"He scents the Jesuits' traces."</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>CRANE</speaker>
+        <lg>
+            <l>Both clear and muddy streams, for me</l>
+            <l>Are good to fish and sport in:</l>
+            <l>And thus the pious man you see</l>
+            <l>With even devils consorting.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>WORLDLING</speaker>
+        <lg>
+            <l>Yes, for the pious, I suspect,</l>
+            <l>All instruments are fitting;</l>
+            <l>And on the Blocksberg they erect</l>
+            <l>Full many a place of meeting.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>DANCER</speaker>
+        <lg>
+            <l>A newer chorus now succeeds!</l>
+            <l>I hear the distant drumming.</l>
+            <l>"Don't be disturbed! 'tis, in the reeds,</l>
+            <l>The bittern's changeless booming."</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>DANCING-MASTER</speaker>
+        <lg>
+            <l>How each his legs in nimble trip</l>
+            <l>Lifts up, and makes a clearance!</l>
+            <l>The crooked jump, the heavy skip,</l>
+            <l>Nor care for the appearance.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>GOOD FELLOW</speaker>
+        <lg>
+            <l>The rabble by such hate are held,</l>
+            <l>To maim and slay delights them:</l>
+            <l>As Orpheus' lyre the brutes compelled,</l>
+            <l>The bagpipe here unites them.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>DOGMATIST</speaker>
+        <lg>
+            <l>I'll not be led by any lure</l>
+            <l>Of doubts or critic-cavils:</l>
+            <l>The Devil must be something, sure,—</l>
+            <l>Or how should there be devils?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>IDEALIST</speaker>
+        <lg>
+            <l>This once, the fancy wrought in me</l>
+            <l>Is really too despotic:</l>
+            <l>Forsooth, if I am all I see,</l>
+            <l>I must be idiotic!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>REALIST</speaker>
+        <lg>
+            <l>This racking fuss on every hand,</l>
+            <l>It gives me great vexation;</l>
+            <l>And, for the first time, here I stand</l>
+            <l>On insecure foundation.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SUPERNATURALIST</speaker>
+        <lg>
+            <l>With much delight I see the play,</l>
+            <l>And grant to these their merits,</l>
+            <l>Since from the devils I also may</l>
+            <l>Infer the better spirits.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SCEPTIC</speaker>
+        <lg>
+            <l>The flame they follow, on and on,</l>
+            <l>And think they're near the treasure:</l>
+            <l>But Devil rhymes with Doubt alone,</l>
+            <l>So I am here with pleasure.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>LEADER OF THE BAND</speaker>
+        <lg>
+            <l>Frog in green, and cricket-trill.</l>
+            <l>Such dilettants!—perdition!</l>
+            <l>Fly-snout and mosquito-bill,—</l>
+            <l>Each one's a fine musician!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>THE ADROIT</speaker>
+        <lg>
+            <l>Sans souci, we call the clan</l>
+            <l>Of merry creatures so, then;</l>
+            <l>Go a-foot no more we can,</l>
+            <l>And on our heads we go, then.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>THE AWKWARD</speaker>
+        <lg>
+            <l>Once many a bit we sponged, but now,</l>
+            <l>God help us! that is done with:</l>
+            <l>Our shoes are all danced out, we trow,</l>
+            <l>We've but naked soles to run with.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>WILL-O'-THE WISPS</speaker>
+        <lg>
+            <l>From the marshes we appear,</l>
+            <l>Where we originated;</l>
+            <l>Yet in the ranks, at once, we're here</l>
+            <l>As glittering gallants rated.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>SHOOTING-STAR</speaker>
+        <lg>
+            <l>Darting hither from the sky,</l>
+            <l>In star and fire light shooting,</l>
+            <l>Cross-wise now in grass I lie:</l>
+            <l>Who'll help me to my footing?</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>THE HEAVY FELLOWS</speaker>
+        <lg>
+            <l>Room! and round about us, room!</l>
+            <l>Trodden are the grasses:</l>
+            <l>Spirits also, spirits come,</l>
+            <l>And they are bulky masses.</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>PUCK</speaker>
+        <lg>
+            <l>Enter not so stall-fed quite,</l>
+            <l>Like elephant-calves about one!</l>
+            <l>And the heaviest weight to-night</l>
+            <l>Be Puck, himself, the stout one!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ARIEL</speaker>
+        <lg>
+            <l>If loving Nature at your back,</l>
+            <l>Or Mind, the wings uncloses,</l>
+            <l>Follow up my airy track</l>
+            <l>To the mount of roses!</l>
+        </lg>
+    </sp>
+    <sp>
+        <speaker>ORCHESTRA</speaker>
+        <stage>pianissimo</stage>
+        <lg>
+            <l>Cloud and trailing mist o'erhead</l>
+            <l>Are now illuminated:</l>
+            <l>Air in leaves, and wind in reed,</l>
+            <l>And all is dissipated.</l>
+        </lg>
+    </sp>
+</scene>
