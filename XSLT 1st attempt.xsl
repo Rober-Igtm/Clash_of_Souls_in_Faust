@@ -20,4 +20,4 @@
     <xsl:template match= "speaker">
         <xsl:apply-templates select= "distinct-values(count(//divine))"/>
     </xsl:template>
-</xsl:stylesheet>
+</xsl:stylesheet><!--  I tried to count  the divine speeches and the earthly speeches. I wanted to compare the percentage of Fasut's speech in the scene and the percentage of each "divine and earthly" in scene II -->
