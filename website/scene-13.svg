@@ -1,168 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg">
-   <g transform="translate(100, 87)">
-      <line x1="-10" y1="-2" x2="0" y2="-2" stroke="black"/>
-      <line x1="6.300000000000001"
-            y1="-10"
-            x2="6.300000000000001"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-2" x2="63" y2="-2" stroke="lightgrey"/>
-      <text x="-15" y="-2" text-anchor="end" alignment-baseline="central">1</text>
-      <text x="9.3" y="3" text-anchor="start" alignment-baseline="hanging">10%</text>
-      <line x1="-10" y1="-4" x2="0" y2="-4" stroke="black"/>
-      <line x1="12.600000000000001"
-            y1="-10"
-            x2="12.600000000000001"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-4" x2="63" y2="-4" stroke="lightgrey"/>
-      <text x="-15" y="-4" text-anchor="end" alignment-baseline="central">2</text>
-      <text x="15.600000000000001"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">20%</text>
-      <line x1="-10" y1="-6" x2="0" y2="-6" stroke="black"/>
-      <line x1="18.9" y1="-10" x2="18.9" y2="10" stroke="black"/>
-      <line x1="0" y1="-6" x2="63" y2="-6" stroke="lightgrey"/>
-      <text x="-15" y="-6" text-anchor="end" alignment-baseline="central">3</text>
-      <text x="21.9" y="3" text-anchor="start" alignment-baseline="hanging">30%</text>
-      <line x1="-10" y1="-8" x2="0" y2="-8" stroke="black"/>
-      <line x1="25.200000000000003"
-            y1="-10"
-            x2="25.200000000000003"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-8" x2="63" y2="-8" stroke="lightgrey"/>
-      <text x="-15" y="-8" text-anchor="end" alignment-baseline="central">4</text>
-      <text x="28.200000000000003"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">40%</text>
-      <line x1="-10" y1="-10" x2="0" y2="-10" stroke="black"/>
-      <line x1="31.5" y1="-10" x2="31.5" y2="10" stroke="black"/>
-      <line x1="0" y1="-10" x2="63" y2="-10" stroke="lightgrey"/>
-      <text x="-15" y="-10" text-anchor="end" alignment-baseline="central">5</text>
-      <text x="34.5" y="3" text-anchor="start" alignment-baseline="hanging">50%</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -70 590 197">
+   <g transform="translate(100, 72)">
       <line x1="-10" y1="-12" x2="0" y2="-12" stroke="black"/>
-      <line x1="37.8" y1="-10" x2="37.8" y2="10" stroke="black"/>
-      <line x1="0" y1="-12" x2="63" y2="-12" stroke="lightgrey"/>
-      <text x="-15" y="-12" text-anchor="end" alignment-baseline="central">6</text>
-      <text x="40.8" y="3" text-anchor="start" alignment-baseline="hanging">60%</text>
-      <line x1="-10" y1="-14" x2="0" y2="-14" stroke="black"/>
-      <line x1="44.099999999999994"
-            y1="-10"
-            x2="44.099999999999994"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-14" x2="63" y2="-14" stroke="lightgrey"/>
-      <text x="-15" y="-14" text-anchor="end" alignment-baseline="central">7</text>
-      <text x="47.099999999999994"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">70%</text>
-      <line x1="-10" y1="-16" x2="0" y2="-16" stroke="black"/>
-      <line x1="50.400000000000006"
-            y1="-10"
-            x2="50.400000000000006"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-16" x2="63" y2="-16" stroke="lightgrey"/>
-      <text x="-15" y="-16" text-anchor="end" alignment-baseline="central">8</text>
-      <text x="53.400000000000006"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">80%</text>
-      <line x1="-10" y1="-18" x2="0" y2="-18" stroke="black"/>
-      <line x1="56.699999999999996"
-            y1="-10"
-            x2="56.699999999999996"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-18" x2="63" y2="-18" stroke="lightgrey"/>
-      <text x="-15" y="-18" text-anchor="end" alignment-baseline="central">9</text>
-      <text x="59.699999999999996"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">90%</text>
-      <line x1="-10" y1="-20" x2="0" y2="-20" stroke="black"/>
-      <line x1="63" y1="-10" x2="63" y2="10" stroke="black"/>
-      <line x1="0" y1="-20" x2="63" y2="-20" stroke="lightgrey"/>
-      <text x="-15" y="-20" text-anchor="end" alignment-baseline="central">10</text>
-      <text x="66" y="3" text-anchor="start" alignment-baseline="hanging">100%</text>
+      <line x1="42" y1="-10" x2="42" y2="10" stroke="black"/>
+      <line x1="0" y1="-12" x2="420" y2="-12" stroke="lightgrey"/>
+      <text x="-15" y="-12" text-anchor="end" alignment-baseline="central">1</text>
+      <text x="41" y="3" text-anchor="end" alignment-baseline="hanging">10%</text>
+      <line x1="-10" y1="-24" x2="0" y2="-24" stroke="black"/>
+      <line x1="84" y1="-10" x2="84" y2="10" stroke="black"/>
+      <line x1="0" y1="-24" x2="420" y2="-24" stroke="lightgrey"/>
+      <text x="-15" y="-24" text-anchor="end" alignment-baseline="central">2</text>
+      <text x="83" y="3" text-anchor="end" alignment-baseline="hanging">20%</text>
+      <line x1="-10" y1="-36" x2="0" y2="-36" stroke="black"/>
+      <line x1="126" y1="-10" x2="126" y2="10" stroke="black"/>
+      <line x1="0" y1="-36" x2="420" y2="-36" stroke="lightgrey"/>
+      <text x="-15" y="-36" text-anchor="end" alignment-baseline="central">3</text>
+      <text x="125" y="3" text-anchor="end" alignment-baseline="hanging">30%</text>
+      <line x1="-10" y1="-48" x2="0" y2="-48" stroke="black"/>
+      <line x1="168" y1="-10" x2="168" y2="10" stroke="black"/>
+      <line x1="0" y1="-48" x2="420" y2="-48" stroke="lightgrey"/>
+      <text x="-15" y="-48" text-anchor="end" alignment-baseline="central">4</text>
+      <text x="167" y="3" text-anchor="end" alignment-baseline="hanging">40%</text>
+      <line x1="-10" y1="-60" x2="0" y2="-60" stroke="black"/>
+      <line x1="210" y1="-10" x2="210" y2="10" stroke="black"/>
+      <line x1="0" y1="-60" x2="420" y2="-60" stroke="lightgrey"/>
+      <text x="-15" y="-60" text-anchor="end" alignment-baseline="central">5</text>
+      <text x="209" y="3" text-anchor="end" alignment-baseline="hanging">50%</text>
+      <line x1="-10" y1="-72" x2="0" y2="-72" stroke="black"/>
+      <line x1="252" y1="-10" x2="252" y2="10" stroke="black"/>
+      <line x1="0" y1="-72" x2="420" y2="-72" stroke="lightgrey"/>
+      <text x="-15" y="-72" text-anchor="end" alignment-baseline="central">6</text>
+      <text x="251" y="3" text-anchor="end" alignment-baseline="hanging">60%</text>
+      <line x1="-10" y1="-84" x2="0" y2="-84" stroke="black"/>
+      <line x1="294" y1="-10" x2="294" y2="10" stroke="black"/>
+      <line x1="0" y1="-84" x2="420" y2="-84" stroke="lightgrey"/>
+      <text x="-15" y="-84" text-anchor="end" alignment-baseline="central">7</text>
+      <text x="293" y="3" text-anchor="end" alignment-baseline="hanging">70%</text>
+      <line x1="-10" y1="-96" x2="0" y2="-96" stroke="black"/>
+      <line x1="336" y1="-10" x2="336" y2="10" stroke="black"/>
+      <line x1="0" y1="-96" x2="420" y2="-96" stroke="lightgrey"/>
+      <text x="-15" y="-96" text-anchor="end" alignment-baseline="central">8</text>
+      <text x="335" y="3" text-anchor="end" alignment-baseline="hanging">80%</text>
+      <line x1="-10" y1="-108" x2="0" y2="-108" stroke="black"/>
+      <line x1="378" y1="-10" x2="378" y2="10" stroke="black"/>
+      <line x1="0" y1="-108" x2="420" y2="-108" stroke="lightgrey"/>
+      <text x="-15" y="-108" text-anchor="end" alignment-baseline="central">9</text>
+      <text x="377" y="3" text-anchor="end" alignment-baseline="hanging">90%</text>
+      <line x1="-10" y1="-120" x2="0" y2="-120" stroke="black"/>
+      <line x1="420" y1="-10" x2="420" y2="10" stroke="black"/>
+      <line x1="0" y1="-120" x2="420" y2="-120" stroke="lightgrey"/>
+      <text x="-15" y="-120" text-anchor="end" alignment-baseline="central">10</text>
+      <text x="419" y="3" text-anchor="end" alignment-baseline="hanging">100%</text>
       <line x1="-10" y1="0" x2="0" y2="0" stroke="black"/>
       <text x="-15" y="0" text-anchor="end" alignment-baseline="central">0</text>
-      <circle r="3" cx="3" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="3" cy="-0" fill="#FFC300"/>
-      <circle r="3" cx="6" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="6" cy="-0" fill="#FFC300"/>
-      <circle r="3" cx="9" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="9" cy="-2" fill="#FFC300"/>
-      <circle r="3" cx="12" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="12" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="15" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="15" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="18" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="18" cy="-6" fill="#FFC300"/>
-      <circle r="3" cx="21" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="21" cy="-6" fill="#FFC300"/>
-      <circle r="3" cx="24" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="24" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="27" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="27" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="30" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="30" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="33" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="33" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="36" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="36" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="39" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="39" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="42" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="42" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="45" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="45" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="48" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="48" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="51" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="51" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="54" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="54" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="57" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="57" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="60" cy="-2" fill="#00FDFF"/>
+      <circle r="3" cx="20" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="20" cy="-0" fill="#FFC300"/>
+      <circle r="3" cx="20" cy="-0" fill="magenta"/>
+      <circle r="3" cx="40" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="40" cy="-0" fill="#FFC300"/>
+      <circle r="3" cx="40" cy="-0" fill="magenta"/>
+      <circle r="3" cx="60" cy="-0" fill="#00FDFF"/>
       <circle r="3" cx="60" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="63" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="63" cy="-12" fill="#FFC300"/>
-      <text x="69"
-            y="-2"
-            text-anchor="start"
-            alignment-baseline="central"
-            fill="#00FDFF">divine</text>
-      <text x="69"
+      <circle r="3" cx="80" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="80" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="100" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="100" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="120" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="120" cy="-36" fill="#FFC300"/>
+      <circle r="3" cx="140" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="140" cy="-36" fill="#FFC300"/>
+      <circle r="3" cx="160" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="160" cy="-48" fill="#FFC300"/>
+      <circle r="3" cx="180" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="180" cy="-48" fill="#FFC300"/>
+      <circle r="3" cx="200" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="200" cy="-48" fill="#FFC300"/>
+      <circle r="3" cx="220" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="220" cy="-60" fill="#FFC300"/>
+      <circle r="3" cx="240" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="240" cy="-60" fill="#FFC300"/>
+      <circle r="3" cx="260" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="260" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="280" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="280" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="300" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="300" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="320" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="320" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="340" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="340" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="360" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="360" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="380" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="380" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="400" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="400" cy="-72" fill="#FFC300"/>
+      <circle r="3" cx="420" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="420" cy="-72" fill="#FFC300"/>
+      <text x="440"
             y="-12"
             text-anchor="start"
             alignment-baseline="central"
-            fill="#FFC300">earthly</text>
-      <line x1="0" y1="0" x2="63" y2="0" stroke="black"/>
-      <line x1="0" y1="0" x2="0" y2="-37" stroke="black"/>
-      <text x="-50"
-            y="-6"
-            text-anchor="middle"
-            font-size="larger"
-            transform="rotate(-90 -50 -6)">Occurrences</text>
-      <text x="66"
-            y="-3"
+            fill="#00FDFF">divine</text>
+      <text x="440"
+            y="-72"
             text-anchor="start"
-            font-size="larger"
-            alignment-baseline="baseline">Percentage
-                    of Scene</text>
-      <text x="31.5"
-            y="-62"
+            alignment-baseline="central"
+            fill="#FFC300">earthly</text>
+      <line x1="0" y1="0" x2="420" y2="0" stroke="black"/>
+      <line x1="0" y1="0" x2="0" y2="-122" stroke="black"/>
+      <text x="-50"
+            y="-36"
             text-anchor="middle"
             font-size="larger"
-            text-decoration="underline">OCCURRENCE OF DIVINE AND
-                    EARTHLY TRAITS THROUGHOUT SCENE XIII.
-                        A GARDEN-ARBOR</text>
+            transform="rotate(-90 -50 -36)">Occurrences</text>
+      <text x="210"
+            y="50"
+            text-anchor="middle"
+            font-size="larger"
+            alignment-baseline="baseline">Percentage of Scene</text>
+      <text x="210"
+            y="-127"
+            text-anchor="middle"
+            font-size="larger"
+            text-decoration="underline">DIVINE AND EARTHLY TRAITS THROUGHOUT SCENE XIII</text>
    </g>
 </svg>

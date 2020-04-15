@@ -1,238 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg">
-   <g transform="translate(100, 97)">
-      <line x1="-10" y1="-4" x2="0" y2="-4" stroke="black"/>
-      <line x1="18.6" y1="-10" x2="18.6" y2="10" stroke="black"/>
-      <line x1="0" y1="-4" x2="186" y2="-4" stroke="lightgrey"/>
-      <text x="-15" y="-4" text-anchor="end" alignment-baseline="central">2</text>
-      <text x="21.6" y="3" text-anchor="start" alignment-baseline="hanging">10%</text>
-      <line x1="-10" y1="-8" x2="0" y2="-8" stroke="black"/>
-      <line x1="37.2" y1="-10" x2="37.2" y2="10" stroke="black"/>
-      <line x1="0" y1="-8" x2="186" y2="-8" stroke="lightgrey"/>
-      <text x="-15" y="-8" text-anchor="end" alignment-baseline="central">4</text>
-      <text x="40.2" y="3" text-anchor="start" alignment-baseline="hanging">20%</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -70 604 241">
+   <g transform="translate(100, 116)">
       <line x1="-10" y1="-12" x2="0" y2="-12" stroke="black"/>
-      <line x1="55.800000000000004"
-            y1="-10"
-            x2="55.800000000000004"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-12" x2="186" y2="-12" stroke="lightgrey"/>
-      <text x="-15" y="-12" text-anchor="end" alignment-baseline="central">6</text>
-      <text x="58.800000000000004"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">30%</text>
-      <line x1="-10" y1="-16" x2="0" y2="-16" stroke="black"/>
-      <line x1="74.4" y1="-10" x2="74.4" y2="10" stroke="black"/>
-      <line x1="0" y1="-16" x2="186" y2="-16" stroke="lightgrey"/>
-      <text x="-15" y="-16" text-anchor="end" alignment-baseline="central">8</text>
-      <text x="77.4" y="3" text-anchor="start" alignment-baseline="hanging">40%</text>
-      <line x1="-10" y1="-20" x2="0" y2="-20" stroke="black"/>
-      <line x1="93" y1="-10" x2="93" y2="10" stroke="black"/>
-      <line x1="0" y1="-20" x2="186" y2="-20" stroke="lightgrey"/>
-      <text x="-15" y="-20" text-anchor="end" alignment-baseline="central">10</text>
-      <text x="96" y="3" text-anchor="start" alignment-baseline="hanging">50%</text>
+      <line x1="43.4" y1="-10" x2="43.4" y2="10" stroke="black"/>
+      <line x1="0" y1="-12" x2="434" y2="-12" stroke="lightgrey"/>
+      <text x="-15" y="-12" text-anchor="end" alignment-baseline="central">2</text>
+      <text x="42.4" y="3" text-anchor="end" alignment-baseline="hanging">10%</text>
       <line x1="-10" y1="-24" x2="0" y2="-24" stroke="black"/>
-      <line x1="111.60000000000001"
-            y1="-10"
-            x2="111.60000000000001"
-            y2="10"
-            stroke="black"/>
-      <line x1="0" y1="-24" x2="186" y2="-24" stroke="lightgrey"/>
-      <text x="-15" y="-24" text-anchor="end" alignment-baseline="central">12</text>
-      <text x="114.60000000000001"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">60%</text>
-      <line x1="-10" y1="-28" x2="0" y2="-28" stroke="black"/>
-      <line x1="130.2" y1="-10" x2="130.2" y2="10" stroke="black"/>
-      <line x1="0" y1="-28" x2="186" y2="-28" stroke="lightgrey"/>
-      <text x="-15" y="-28" text-anchor="end" alignment-baseline="central">14</text>
-      <text x="133.2"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">70%</text>
-      <line x1="-10" y1="-32" x2="0" y2="-32" stroke="black"/>
-      <line x1="148.8" y1="-10" x2="148.8" y2="10" stroke="black"/>
-      <line x1="0" y1="-32" x2="186" y2="-32" stroke="lightgrey"/>
-      <text x="-15" y="-32" text-anchor="end" alignment-baseline="central">16</text>
-      <text x="151.8"
-            y="3"
-            text-anchor="start"
-            alignment-baseline="hanging">80%</text>
+      <line x1="86.8" y1="-10" x2="86.8" y2="10" stroke="black"/>
+      <line x1="0" y1="-24" x2="434" y2="-24" stroke="lightgrey"/>
+      <text x="-15" y="-24" text-anchor="end" alignment-baseline="central">4</text>
+      <text x="85.8" y="3" text-anchor="end" alignment-baseline="hanging">20%</text>
       <line x1="-10" y1="-36" x2="0" y2="-36" stroke="black"/>
-      <line x1="167.39999999999998"
+      <line x1="130.20000000000002"
             y1="-10"
-            x2="167.39999999999998"
+            x2="130.20000000000002"
             y2="10"
             stroke="black"/>
-      <line x1="0" y1="-36" x2="186" y2="-36" stroke="lightgrey"/>
-      <text x="-15" y="-36" text-anchor="end" alignment-baseline="central">18</text>
-      <text x="170.39999999999998"
+      <line x1="0" y1="-36" x2="434" y2="-36" stroke="lightgrey"/>
+      <text x="-15" y="-36" text-anchor="end" alignment-baseline="central">6</text>
+      <text x="129.20000000000002"
             y="3"
-            text-anchor="start"
+            text-anchor="end"
+            alignment-baseline="hanging">30%</text>
+      <line x1="-10" y1="-48" x2="0" y2="-48" stroke="black"/>
+      <line x1="173.6" y1="-10" x2="173.6" y2="10" stroke="black"/>
+      <line x1="0" y1="-48" x2="434" y2="-48" stroke="lightgrey"/>
+      <text x="-15" y="-48" text-anchor="end" alignment-baseline="central">8</text>
+      <text x="172.6" y="3" text-anchor="end" alignment-baseline="hanging">40%</text>
+      <line x1="-10" y1="-60" x2="0" y2="-60" stroke="black"/>
+      <line x1="217" y1="-10" x2="217" y2="10" stroke="black"/>
+      <line x1="0" y1="-60" x2="434" y2="-60" stroke="lightgrey"/>
+      <text x="-15" y="-60" text-anchor="end" alignment-baseline="central">10</text>
+      <text x="216" y="3" text-anchor="end" alignment-baseline="hanging">50%</text>
+      <line x1="-10" y1="-72" x2="0" y2="-72" stroke="black"/>
+      <line x1="260.40000000000003"
+            y1="-10"
+            x2="260.40000000000003"
+            y2="10"
+            stroke="black"/>
+      <line x1="0" y1="-72" x2="434" y2="-72" stroke="lightgrey"/>
+      <text x="-15" y="-72" text-anchor="end" alignment-baseline="central">12</text>
+      <text x="259.40000000000003"
+            y="3"
+            text-anchor="end"
+            alignment-baseline="hanging">60%</text>
+      <line x1="-10" y1="-84" x2="0" y2="-84" stroke="black"/>
+      <line x1="303.8" y1="-10" x2="303.8" y2="10" stroke="black"/>
+      <line x1="0" y1="-84" x2="434" y2="-84" stroke="lightgrey"/>
+      <text x="-15" y="-84" text-anchor="end" alignment-baseline="central">14</text>
+      <text x="302.8" y="3" text-anchor="end" alignment-baseline="hanging">70%</text>
+      <line x1="-10" y1="-96" x2="0" y2="-96" stroke="black"/>
+      <line x1="347.2" y1="-10" x2="347.2" y2="10" stroke="black"/>
+      <line x1="0" y1="-96" x2="434" y2="-96" stroke="lightgrey"/>
+      <text x="-15" y="-96" text-anchor="end" alignment-baseline="central">16</text>
+      <text x="346.2" y="3" text-anchor="end" alignment-baseline="hanging">80%</text>
+      <line x1="-10" y1="-108" x2="0" y2="-108" stroke="black"/>
+      <line x1="390.59999999999997"
+            y1="-10"
+            x2="390.59999999999997"
+            y2="10"
+            stroke="black"/>
+      <line x1="0" y1="-108" x2="434" y2="-108" stroke="lightgrey"/>
+      <text x="-15" y="-108" text-anchor="end" alignment-baseline="central">18</text>
+      <text x="389.59999999999997"
+            y="3"
+            text-anchor="end"
             alignment-baseline="hanging">90%</text>
-      <line x1="-10" y1="-40" x2="0" y2="-40" stroke="black"/>
-      <line x1="186" y1="-10" x2="186" y2="10" stroke="black"/>
-      <line x1="0" y1="-40" x2="186" y2="-40" stroke="lightgrey"/>
-      <text x="-15" y="-40" text-anchor="end" alignment-baseline="central">20</text>
-      <text x="189" y="3" text-anchor="start" alignment-baseline="hanging">100%</text>
+      <line x1="-10" y1="-120" x2="0" y2="-120" stroke="black"/>
+      <line x1="434" y1="-10" x2="434" y2="10" stroke="black"/>
+      <line x1="0" y1="-120" x2="434" y2="-120" stroke="lightgrey"/>
+      <text x="-15" y="-120" text-anchor="end" alignment-baseline="central">20</text>
+      <text x="433" y="3" text-anchor="end" alignment-baseline="hanging">100%</text>
       <line x1="-10" y1="0" x2="0" y2="0" stroke="black"/>
       <text x="-15" y="0" text-anchor="end" alignment-baseline="central">0</text>
-      <circle r="3" cx="3" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="3" cy="-0" fill="#FFC300"/>
-      <circle r="3" cx="6" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="6" cy="-0" fill="#FFC300"/>
-      <circle r="3" cx="9" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="9" cy="-0" fill="#FFC300"/>
-      <circle r="3" cx="12" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="12" cy="-0" fill="#FFC300"/>
-      <circle r="3" cx="15" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="15" cy="-2" fill="#FFC300"/>
-      <circle r="3" cx="18" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="18" cy="-4" fill="#FFC300"/>
+      <circle r="3" cx="7" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="7" cy="-0" fill="#FFC300"/>
+      <circle r="3" cx="7" cy="-0" fill="magenta"/>
+      <circle r="3" cx="14" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="14" cy="-0" fill="#FFC300"/>
+      <circle r="3" cx="14" cy="-0" fill="magenta"/>
       <circle r="3" cx="21" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="21" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="24" cy="-0" fill="#00FDFF"/>
-      <circle r="3" cx="24" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="27" cy="-2" fill="#00FDFF"/>
-      <circle r="3" cx="27" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="30" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="30" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="33" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="33" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="36" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="36" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="39" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="39" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="42" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="42" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="45" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="45" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="48" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="48" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="51" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="51" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="54" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="54" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="57" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="57" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="60" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="60" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="63" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="63" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="66" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="66" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="69" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="69" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="72" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="72" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="75" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="75" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="78" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="78" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="81" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="81" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="84" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="84" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="87" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="87" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="90" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="90" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="93" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="93" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="96" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="96" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="99" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="99" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="102" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="102" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="105" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="105" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="108" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="108" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="111" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="111" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="114" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="114" cy="-4" fill="#FFC300"/>
-      <circle r="3" cx="117" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="117" cy="-6" fill="#FFC300"/>
-      <circle r="3" cx="120" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="120" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="123" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="123" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="126" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="126" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="129" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="129" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="132" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="132" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="135" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="135" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="138" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="138" cy="-8" fill="#FFC300"/>
-      <circle r="3" cx="141" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="141" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="144" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="144" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="147" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="147" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="150" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="150" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="153" cy="-4" fill="#00FDFF"/>
-      <circle r="3" cx="153" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="156" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="156" cy="-10" fill="#FFC300"/>
-      <circle r="3" cx="159" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="159" cy="-12" fill="#FFC300"/>
-      <circle r="3" cx="162" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="162" cy="-14" fill="#FFC300"/>
-      <circle r="3" cx="165" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="165" cy="-14" fill="#FFC300"/>
-      <circle r="3" cx="168" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="168" cy="-16" fill="#FFC300"/>
-      <circle r="3" cx="171" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="171" cy="-18" fill="#FFC300"/>
-      <circle r="3" cx="174" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="174" cy="-20" fill="#FFC300"/>
-      <circle r="3" cx="177" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="177" cy="-22" fill="#FFC300"/>
-      <circle r="3" cx="180" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="180" cy="-22" fill="#FFC300"/>
-      <circle r="3" cx="183" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="183" cy="-22" fill="#FFC300"/>
-      <circle r="3" cx="186" cy="-6" fill="#00FDFF"/>
-      <circle r="3" cx="186" cy="-22" fill="#FFC300"/>
-      <text x="192"
-            y="-6"
+      <circle r="3" cx="21" cy="-0" fill="#FFC300"/>
+      <circle r="3" cx="21" cy="-0" fill="magenta"/>
+      <circle r="3" cx="28" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="28" cy="-0" fill="#FFC300"/>
+      <circle r="3" cx="28" cy="-0" fill="magenta"/>
+      <circle r="3" cx="35" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="35" cy="-6" fill="#FFC300"/>
+      <circle r="3" cx="42" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="42" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="49" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="49" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="56" cy="-0" fill="#00FDFF"/>
+      <circle r="3" cx="56" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="63" cy="-6" fill="#00FDFF"/>
+      <circle r="3" cx="63" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="70" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="70" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="70" cy="-12" fill="magenta"/>
+      <circle r="3" cx="77" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="77" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="77" cy="-12" fill="magenta"/>
+      <circle r="3" cx="84" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="84" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="84" cy="-12" fill="magenta"/>
+      <circle r="3" cx="91" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="91" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="91" cy="-12" fill="magenta"/>
+      <circle r="3" cx="98" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="98" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="98" cy="-12" fill="magenta"/>
+      <circle r="3" cx="105" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="105" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="105" cy="-12" fill="magenta"/>
+      <circle r="3" cx="112" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="112" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="112" cy="-12" fill="magenta"/>
+      <circle r="3" cx="119" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="119" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="119" cy="-12" fill="magenta"/>
+      <circle r="3" cx="126" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="126" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="126" cy="-12" fill="magenta"/>
+      <circle r="3" cx="133" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="133" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="133" cy="-12" fill="magenta"/>
+      <circle r="3" cx="140" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="140" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="140" cy="-12" fill="magenta"/>
+      <circle r="3" cx="147" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="147" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="147" cy="-12" fill="magenta"/>
+      <circle r="3" cx="154" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="154" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="154" cy="-12" fill="magenta"/>
+      <circle r="3" cx="161" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="161" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="161" cy="-12" fill="magenta"/>
+      <circle r="3" cx="168" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="168" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="168" cy="-12" fill="magenta"/>
+      <circle r="3" cx="175" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="175" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="175" cy="-12" fill="magenta"/>
+      <circle r="3" cx="182" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="182" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="182" cy="-12" fill="magenta"/>
+      <circle r="3" cx="189" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="189" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="189" cy="-12" fill="magenta"/>
+      <circle r="3" cx="196" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="196" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="196" cy="-12" fill="magenta"/>
+      <circle r="3" cx="203" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="203" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="203" cy="-12" fill="magenta"/>
+      <circle r="3" cx="210" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="210" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="210" cy="-12" fill="magenta"/>
+      <circle r="3" cx="217" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="217" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="217" cy="-12" fill="magenta"/>
+      <circle r="3" cx="224" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="224" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="224" cy="-12" fill="magenta"/>
+      <circle r="3" cx="231" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="231" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="231" cy="-12" fill="magenta"/>
+      <circle r="3" cx="238" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="238" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="238" cy="-12" fill="magenta"/>
+      <circle r="3" cx="245" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="245" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="245" cy="-12" fill="magenta"/>
+      <circle r="3" cx="252" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="252" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="252" cy="-12" fill="magenta"/>
+      <circle r="3" cx="259" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="259" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="259" cy="-12" fill="magenta"/>
+      <circle r="3" cx="266" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="266" cy="-12" fill="#FFC300"/>
+      <circle r="3" cx="266" cy="-12" fill="magenta"/>
+      <circle r="3" cx="273" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="273" cy="-18" fill="#FFC300"/>
+      <circle r="3" cx="280" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="280" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="287" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="287" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="294" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="294" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="301" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="301" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="308" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="308" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="315" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="315" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="322" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="322" cy="-24" fill="#FFC300"/>
+      <circle r="3" cx="329" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="329" cy="-30" fill="#FFC300"/>
+      <circle r="3" cx="336" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="336" cy="-30" fill="#FFC300"/>
+      <circle r="3" cx="343" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="343" cy="-30" fill="#FFC300"/>
+      <circle r="3" cx="350" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="350" cy="-30" fill="#FFC300"/>
+      <circle r="3" cx="357" cy="-12" fill="#00FDFF"/>
+      <circle r="3" cx="357" cy="-30" fill="#FFC300"/>
+      <circle r="3" cx="364" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="364" cy="-30" fill="#FFC300"/>
+      <circle r="3" cx="371" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="371" cy="-36" fill="#FFC300"/>
+      <circle r="3" cx="378" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="378" cy="-42" fill="#FFC300"/>
+      <circle r="3" cx="385" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="385" cy="-42" fill="#FFC300"/>
+      <circle r="3" cx="392" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="392" cy="-48" fill="#FFC300"/>
+      <circle r="3" cx="399" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="399" cy="-54" fill="#FFC300"/>
+      <circle r="3" cx="406" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="406" cy="-60" fill="#FFC300"/>
+      <circle r="3" cx="413" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="413" cy="-66" fill="#FFC300"/>
+      <circle r="3" cx="420" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="420" cy="-66" fill="#FFC300"/>
+      <circle r="3" cx="427" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="427" cy="-66" fill="#FFC300"/>
+      <circle r="3" cx="434" cy="-18" fill="#00FDFF"/>
+      <circle r="3" cx="434" cy="-66" fill="#FFC300"/>
+      <text x="448"
+            y="-18"
             text-anchor="start"
             alignment-baseline="central"
             fill="#00FDFF">divine</text>
-      <text x="192"
-            y="-22"
+      <text x="448"
+            y="-66"
             text-anchor="start"
             alignment-baseline="central"
             fill="#FFC300">earthly</text>
-      <line x1="0" y1="0" x2="186" y2="0" stroke="black"/>
-      <line x1="0" y1="0" x2="0" y2="-47" stroke="black"/>
+      <line x1="0" y1="0" x2="434" y2="0" stroke="black"/>
+      <line x1="0" y1="0" x2="0" y2="-141" stroke="black"/>
       <text x="-50"
-            y="-11"
+            y="-33"
             text-anchor="middle"
             font-size="larger"
-            transform="rotate(-90 -50 -11)">Occurrences</text>
-      <text x="189"
-            y="-3"
-            text-anchor="start"
-            font-size="larger"
-            alignment-baseline="baseline">Percentage
-                    of Scene</text>
-      <text x="93"
-            y="-72"
+            transform="rotate(-90 -50 -33)">Occurrences</text>
+      <text x="217"
+            y="50"
             text-anchor="middle"
             font-size="larger"
-            text-decoration="underline">OCCURRENCE OF DIVINE AND
-                    EARTHLY TRAITS THROUGHOUT SCENE IX.
-                        PROMENADE</text>
+            alignment-baseline="baseline">Percentage of Scene</text>
+      <text x="217"
+            y="-166"
+            text-anchor="middle"
+            font-size="larger"
+            text-decoration="underline">SCENE IX. PROMENADE</text>
    </g>
 </svg>

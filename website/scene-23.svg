@@ -1,77 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg">
-   <g transform="translate(100, 75)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -70 170 125">
+   <g transform="translate(100, 0)">
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">10%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">10%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">20%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">20%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">30%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">30%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">40%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">40%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">50%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">50%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">60%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">60%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">70%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">70%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">80%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">80%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">90%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">90%</text>
       <line x1="-10" y1="-0" x2="0" y2="-0" stroke="black"/>
       <line x1="0" y1="-10" x2="0" y2="10" stroke="black"/>
       <line x1="0" y1="-0" x2="0" y2="-0" stroke="lightgrey"/>
       <text x="-15" y="-0" text-anchor="end" alignment-baseline="central">0</text>
-      <text x="3" y="3" text-anchor="start" alignment-baseline="hanging">100%</text>
+      <text x="-1" y="3" text-anchor="end" alignment-baseline="hanging">100%</text>
       <line x1="-10" y1="0" x2="0" y2="0" stroke="black"/>
       <text x="-15" y="0" text-anchor="end" alignment-baseline="central">0</text>
       <line x1="0" y1="0" x2="0" y2="0" stroke="black"/>
-      <line x1="0" y1="0" x2="0" y2="-25" stroke="black"/>
+      <line x1="0" y1="0" x2="0" y2="-50" stroke="black"/>
       <text x="-50"
             y="-0"
             text-anchor="middle"
             font-size="larger"
             transform="rotate(-90 -50 -0)">Occurrences</text>
-      <text x="3"
-            y="-3"
-            text-anchor="start"
-            font-size="larger"
-            alignment-baseline="baseline">Percentage
-                    of Scene</text>
       <text x="0"
-            y="-50"
+            y="50"
             text-anchor="middle"
             font-size="larger"
-            text-decoration="underline">OCCURRENCE OF DIVINE AND
-                    EARTHLY TRAITS THROUGHOUT SCENE XXIII.
-                        DREARY DAY</text>
+            alignment-baseline="baseline">Percentage of Scene</text>
+      <text x="0"
+            y="-55"
+            text-anchor="middle"
+            font-size="larger"
+            text-decoration="underline">DIVINE AND EARTHLY TRAITS THROUGHOUT SCENE XXIII</text>
    </g>
 </svg>
