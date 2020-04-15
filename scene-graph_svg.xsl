@@ -18,9 +18,9 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:variable>
-    <xsl:variable name="xScale" as="xs:integer" select="1"/>
+    <xsl:variable name="xScale" as="xs:integer" select="3"/>
     <xsl:variable name="yScale" as="xs:double" select="2"/>
-    <xsl:variable name="radius" as="xs:double" select="2"/>
+    <xsl:variable name="radius" as="xs:double" select="3"/>
 
     <xsl:template match="/">
         <svg viewBox="0 -70 {$lines * $xScale + 170} {$maxHeight * $yScale + 125}">
